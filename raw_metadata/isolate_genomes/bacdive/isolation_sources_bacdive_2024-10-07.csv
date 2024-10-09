@@ -1,0 +1,1493 @@
+ID,Species,"Culture collection number","Isolation source",Country,Continent,"Category 1","Category 2","Category 3"
+12,"Acetobacter cerevisiae","DSM 14362, ATCC 23765, LMG 1625, NCIMB 8894, JCM 17273, CIP 107722, VTT E-042461","Beer###beer (ale) in storage",Canada,"North America",#Engineered,"#Food production",#Beverage
+12,,,,,,#Engineered,"#Food production",#Fermented
+12,,,,,,#Engineered,"#Food production",#Beverage
+12,,,,,,#Engineered,"#Food production",#Fermented
+12,,,,,,#Engineered,"#Food production",#Beverage
+12,,,,,,#Engineered,"#Food production",#Fermented
+10,"Acetobacter estunensis","DSM 4493, ATCC 23753, CCUG 18130, IAM 14359, LMG 1626, NCIMB 8935, JCM 21172, BCRC 12953, CCM 3613, IFO 13751, NBRC 13751","Apple juice or cider or associated equipment###cider making","United Kingdom",Europe,#Engineered,"#Food production",#Beverage
+10,,,,,,#Engineered,#Industrial,
+10,,,,,,#Engineered,"#Food production",#Fermented
+10,,,,,,#Engineered,"#Food production",#Beverage
+10,,,,,,#Engineered,#Industrial,
+10,,,,,,#Engineered,"#Food production",#Fermented
+23488,"Acetobacter indonesiensis","DSM 3805, NCIB 7215, ATCC 9432, CECT 474, LMG 1607, NCIMB 7125, NCIMB 8141, NCTC 7215, NRRL B-55, JCM 21170, IAM 14357, NCIMB 7215, NCIMB 8090",vinegar,,,#Condition,#Acidic,
+23488,,,,,,#Engineered,"#Food production",#Food
+23488,,,,,,#Engineered,"#Food production",#Fermented
+23488,,,,,,#Condition,#Acidic,
+23488,,,,,,#Engineered,"#Food production",#Food
+23488,,,,,,#Engineered,"#Food production",#Fermented
+23489,"Acetobacter lambici","DSM 27328, LMG 27439","fermenting lambic beer",Belgium,Europe,#Engineered,"#Food production",#Beverage
+23489,,,,,,#Engineered,"#Food production",#Fermented
+20,"Acetobacter nitrogenifigens","DSM 23921, LMG 23498, MTCC 6912, JCM 33644, BCC 33377, BCRC 80095, NBRC 105050, NRIC 0976, TBRC 15","Kombucha tea",India,Asia,#Engineered,"#Food production",#Beverage
+20,,,,,,#Engineered,"#Food production",#Fermented
+20,,,,,,#Engineered,"#Food production",#Beverage
+20,,,,,,#Engineered,"#Food production",#Fermented
+19,"Acetobacter oeni","DSM 23926, CECT 5830, LMG 21952, CIP 109171","Food, Red wine###spoiled red wine",Portugal,Europe,#Engineered,"#Food production",#Beverage
+19,,,,,,#Environmental,"#Microbial community",
+19,,,,,,#Engineered,"#Food production",#Fermented
+19,,,,,,#Engineered,"#Food production",#Beverage
+19,,,,,,#Environmental,"#Microbial community",
+19,,,,,,#Engineered,"#Food production",#Fermented
+132838,"Acetobacter oeni","DSM 17891, CECT 5830, LMG 21952",Wine,Portugal,Europe,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+132838,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+132838,,,,,,#Engineered,"#Food production",#Fermented
+132838,,,,,,#Engineered,"#Food production",#Beverage
+8,"Acetobacter orleanensis","DSM 4492, ATCC 12876, CCUG 18126, IMET 10752, LMD 31.3, LMG 1282, LMG 1583, NCIMB 8622, PDDCC 8809, KCTC 12329, JCM 7639, BCRC 11568, CCM 3610, ICMP 8809, IFO 13752, NBRC 13752, NCCB 31003, VTT E-042463","Belgian bottled beer###beer",Belgium,Europe,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+8,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+8,,,,,,#Engineered,"#Food production",#Fermented
+8,,,,,,#Engineered,"#Food production",#Beverage
+8,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+8,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+8,,,,,,#Engineered,"#Food production",#Fermented
+8,,,,,,#Engineered,"#Food production",#Beverage
+8,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+8,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+8,,,,,,#Engineered,"#Food production",#Fermented
+8,,,,,,#Engineered,"#Food production",#Beverage
+4,"Acetobacter pasteurianus","DSM 3509, ATCC 33445, LMD 22.1, JCM 7640, BCRC 14145, CCM 2374, CCUG 18125, CGMCC 1.1810, CIP 103108, ICMP 8808, LMG 1262, NBRC 106471, NCCB 22001, NCIMB 12228, VTT E-97830, IMET 10733","Food, Beer###beer",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+4,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+4,,,,,,#Engineered,"#Food production",#Fermented
+4,,,,,,#Engineered,"#Food production",#Beverage
+4,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+4,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+4,,,,,,#Engineered,"#Food production",#Fermented
+4,,,,,,#Engineered,"#Food production",#Beverage
+4,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+4,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+4,,,,,,#Engineered,"#Food production",#Fermented
+4,,,,,,#Engineered,"#Food production",#Beverage
+23459,"Acetobacter pasteurianus","DSM 25273",viegar,Italy,Europe,#Engineered,"#Food production",#Beverage
+23459,,,,,,#Engineered,"#Food production",#Fermented
+23459,,,,,,#Condition,#Acidic,
+11,"Acetobacter pomorum","DSM 11825, LTH 2458, CIP 105762","Food, Apple vinegar###industrial cider vinegar fermentation",Germany,Europe,#Engineered,"#Food production",#Beverage
+11,,,,,,#Engineered,#Industrial,
+11,,,,,,#Engineered,"#Food production",#Fermented
+11,,,,,,#Engineered,"#Food production",#Beverage
+11,,,,,,#Engineered,#Industrial,
+11,,,,,,#Engineered,"#Food production",#Fermented
+11,,,,,,#Engineered,"#Food production",#Beverage
+11,,,,,,#Engineered,#Industrial,
+11,,,,,,#Engineered,"#Food production",#Fermented
+158421,"Acidipropionibacterium virtanenii","DSM 106790, VTT E-113202","finnish malted barley###malted barley",Finland,Europe,#Engineered,"#Food production",#Fermented
+158421,,,,,,#Engineered,"#Food production",#Beverage
+158421,,,,,,#Engineered,#Treatment,
+158421,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+158421,,,,,,#Engineered,"#Food production",#Fermented
+158421,,,,,,#Engineered,"#Food production",#Beverage
+158421,,,,,,#Engineered,#Treatment,
+158421,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6668,"Agrilactobacillus composti","DSM 18527, JCM 14202, NRIC 0689, CIP 109571","Environment, Compost of distilled shochu residue###Compost of distilled shochu residue###composting material of distilled shochu residue",Japan,Asia,#Engineered,"#Food production",#Beverage
+6668,,,,,,#Engineered,"#Food production",#Fermented
+6668,,,,,,#Engineered,#Biodegradation,#Composting
+6668,,,,,,#Engineered,"#Food production",#Beverage
+6668,,,,,,#Engineered,"#Food production",#Fermented
+6668,,,,,,#Engineered,#Biodegradation,#Composting
+6668,,,,,,#Engineered,"#Food production",#Beverage
+6668,,,,,,#Engineered,"#Food production",#Fermented
+6668,,,,,,#Engineered,#Biodegradation,#Composting
+7281,"Agromyces atrinae","DSM 23870, JCM 15913, KCTC 19593","From Jeotgal, fermented shellfisg###traditional fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7281,,,,,,#Engineered,"#Food production",#Seafood
+7281,,,,,,#Engineered,"#Food production",#Fermented
+7281,,,,,,#Engineered,"#Food production",#Seafood
+7281,,,,,,#Engineered,"#Food production",#Fermented
+7281,,,,,,#Engineered,"#Food production",#Seafood
+442,"Alishewanella jeotgali","DSM 24035, JCM 15561, KCTC 22429, CGMCC 1.10666","From Flatfish Sik Hae###Gajami sikhae (jeotgal), a traditional Korean fermented seafood###gajami sikhae (jeotgal), a traditional fermented Korean food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+442,,,,,,#Engineered,"#Food production",#Seafood
+442,,,,,,#Engineered,"#Food production",#Fermented
+442,,,,,,#Engineered,"#Food production",#Seafood
+442,,,,,,#Engineered,"#Food production",#Fermented
+442,,,,,,#Engineered,"#Food production",#Seafood
+23741,"Amphibacillus indicireducens","DSM 27992, JCM 17250, NCIMB 14686","Polygonum indigo (<I>Polygonum tinctorium</I> Lour.) fermentation liquor from Date City###Polygonum Indigo (<i>Polygonum tinctorium</i> Lour.) fermentation liquor",Japan,Asia,#Engineered,"#Food production",#Beverage
+23741,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+23741,,,,,,#Engineered,"#Food production",#Fermented
+23741,,,,,,#Engineered,"#Food production",#Beverage
+23741,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+23741,,,,,,#Engineered,"#Food production",#Fermented
+6572,"Apilactobacillus kunkeei","CCUG 53901, CIP 107675, DSM 12361, ATCC 700308, JCM 16173, LMG 18925","Commercial Cabernet Sauvignon wine###Partially fermented grape juice###commercial grape wine undergoing a sluggish/stuck alcoholic fermentation","United States of America###USA","North America",#Engineered,"#Food production",#Beverage
+6572,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6572,,,,,,#Engineered,"#Food production",#Fermented
+6572,,,,,,#Engineered,"#Food production",#Beverage
+6572,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6572,,,,,,#Engineered,"#Food production",#Fermented
+6572,,,,,,#Engineered,"#Food production",#Beverage
+6572,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6572,,,,,,#Engineered,"#Food production",#Fermented
+6572,,,,,,#Engineered,"#Food production",#Beverage
+6572,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6572,,,,,,#Engineered,"#Food production",#Fermented
+158610,"Heyndrickxia camelliae","CGMCC 1.15374, KCTC 33845","From pu'er tea###a ripened Pu'er tea sample obtained from a manufacturer",China,Asia,#Engineered,"#Food production",#Beverage
+158610,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+158610,,,,,,"#Host Body-Site",#Plant,"#Leaf (Phyllosphere)"
+158610,,,,,,#Engineered,"#Food production",#Fermented
+158610,,,,,,#Engineered,"#Food production",#Beverage
+158610,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+158610,,,,,,"#Host Body-Site",#Plant,"#Leaf (Phyllosphere)"
+158610,,,,,,#Engineered,"#Food production",#Fermented
+966,"Bacillus subtilis","DSM 1971, ATCC 21394","soil or fermented soybean",,,#Engineered,"#Food production",#Fermented
+966,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+966,,,,,,#Environmental,#Terrestrial,#Soil
+966,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+1747,"Bifidobacterium mongoliense","DSM 21395, JCM 15461, YIT 10443, KCTC 5848","Airag, a traditional fermented mare's milk product from Mongolia###airag, the Mongolian traditional beverage made of fermented mare's milk",Mongolia,Asia,#Engineered,"#Food production",#Beverage
+1747,,,,,,#Engineered,"#Food production",#Fermented
+1747,,,,,,#Engineered,"#Food production","#Dairy product"
+1747,,,,,,#Engineered,"#Food production",#Beverage
+1747,,,,,,#Engineered,"#Food production",#Fermented
+1747,,,,,,#Engineered,"#Food production","#Dairy product"
+3908,"Brachybacterium rhamnosum","DSM 10240, ATCC 51844, IFO 15203, NBRC 15203, JCM 11650, CIP 104398, IAM 14584, KCTC 9917, LMG 19848, NCIMB 13338, VKM Ac-1976","corn steep liquor",Japan,Asia,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+3908,,,,,,#Engineered,"#Food production",#Fermented
+3908,,,,,,#Engineered,"#Food production",#Beverage
+3908,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+3908,,,,,,#Engineered,"#Food production",#Fermented
+3908,,,,,,#Engineered,"#Food production",#Beverage
+3908,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+3908,,,,,,#Engineered,"#Food production",#Fermented
+3908,,,,,,#Engineered,"#Food production",#Beverage
+130226,"Brevibacterium jeotgali","DSM 29217, JCM 18571, KACC 16911","<i>seau-jeot</i> (shrimp jeotgal), a traditional fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+130226,,,,,,#Engineered,"#Food production",#Seafood
+130226,,,,,,#Engineered,"#Food production",#Fermented
+130226,,,,,,#Engineered,"#Food production",#Seafood
+139883,"Caldibacillus debilis","DSM 15680","corn steep liquor",USA,"North America",#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+139883,,,,,,#Engineered,"#Food production",#Fermented
+139883,,,,,,#Engineered,"#Food production",#Beverage
+2271,"Carnobacterium jeotgali","DSM 23388, JCM 15539, KCTC 13251","From Korean traditional fermented food###Korean traditional fermented food (jeotgal)###traditional Korean fermented food ""toha jeotgal""","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+2271,,,,,,#Engineered,"#Food production",#Seafood
+2271,,,,,,#Engineered,"#Food production",#Fermented
+2271,,,,,,#Engineered,"#Food production",#Seafood
+2271,,,,,,#Engineered,"#Food production",#Fermented
+2271,,,,,,#Engineered,"#Food production",#Seafood
+5698,"Chryseobacterium gambrini","DSM 18014, CCUG 52549, CIP 110172","steel surface of a beer-bottling plant",Germany,Europe,#Engineered,"#Food production",#Beverage
+5698,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5698,,,,,,#Engineered,#Industrial,"#Engineered product"
+5698,,,,,,#Engineered,"#Food production",#Fermented
+5698,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5698,,,,,,#Engineered,"#Food production",#Beverage
+5698,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5698,,,,,,#Engineered,#Industrial,"#Engineered product"
+5698,,,,,,#Engineered,"#Food production",#Fermented
+5698,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5698,,,,,,#Engineered,"#Food production",#Beverage
+5698,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5698,,,,,,#Engineered,#Industrial,"#Engineered product"
+5698,,,,,,#Engineered,"#Food production",#Fermented
+5698,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5700,"Chryseobacterium pallidum","DSM 18015, CCUG 52548","Steel surface of a beer bottling plant###steel surface of a beer-bottling plant",Germany,Europe,#Engineered,"#Food production",#Beverage
+5700,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5700,,,,,,#Engineered,#Industrial,"#Engineered product"
+5700,,,,,,#Engineered,"#Food production",#Fermented
+5700,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5700,,,,,,#Engineered,"#Food production",#Beverage
+5700,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5700,,,,,,#Engineered,#Industrial,"#Engineered product"
+5700,,,,,,#Engineered,"#Food production",#Fermented
+5700,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5678,"Chryseobacterium shigense","CCUG 55591, CIP 14047, DSM 17126, NCIMB 14047, BAMY 1001, CIP 108958","lactic acid beverage",Japan,Asia,#Engineered,"#Food production",#Beverage
+5678,,,,,,#Engineered,"#Food production",#Fermented
+5678,,,,,,#Engineered,"#Food production",#Beverage
+5678,,,,,,#Engineered,"#Food production",#Fermented
+5678,,,,,,#Engineered,"#Food production",#Beverage
+5678,,,,,,#Engineered,"#Food production",#Fermented
+5701,"Chryseobacterium ureilyticum","DSM 18017, CCUG 52546, CIP 110146","Steel surface of a beer bottling plant###steel surface of a beer-bottling plant",Germany,Europe,#Engineered,"#Food production",#Beverage
+5701,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5701,,,,,,#Engineered,#Industrial,"#Engineered product"
+5701,,,,,,#Engineered,"#Food production",#Fermented
+5701,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5701,,,,,,#Engineered,"#Food production",#Beverage
+5701,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5701,,,,,,#Engineered,#Industrial,"#Engineered product"
+5701,,,,,,#Engineered,"#Food production",#Fermented
+5701,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+5701,,,,,,#Engineered,"#Food production",#Beverage
+5701,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+5701,,,,,,#Engineered,#Industrial,"#Engineered product"
+5701,,,,,,#Engineered,"#Food production",#Fermented
+5701,,,,,,#Engineered,"#Food production","#Bottled, canned, packed food"
+132388,"Clostridium liquoris","DSM 100320, ACCC 00785","An old fermentation pit###fermentation pit used for the production of Chinese strong-flavoured liquor",China,Asia,#Engineered,"#Food production",#Beverage
+132388,,,,,,#Engineered,"#Food production",
+132388,,,,,,#Engineered,#Other,
+132388,,,,,,#Engineered,"#Food production",#Fermented
+132388,,,,,,#Engineered,"#Food production",#Beverage
+132388,,,,,,#Engineered,"#Food production",
+132388,,,,,,#Engineered,#Other,
+132388,,,,,,#Engineered,"#Food production",#Fermented
+130249,"Clostridium swellfunianum","DSM 27788, CICC 10730, JCM 19606","Pit mud of the <I>Luzhou-flavor</I> liquor manufacturer###pit mud of the Chinese <i>Luzhou-flavor</i> liquor manufacturer",China,Asia,#Engineered,"#Food production",#Beverage
+130249,,,,,,#Environmental,#Terrestrial,"#Mud (Sludge)"
+130249,,,,,,#Engineered,"#Food production",#Fermented
+130249,,,,,,#Engineered,"#Food production",#Beverage
+130249,,,,,,#Environmental,#Terrestrial,"#Mud (Sludge)"
+130249,,,,,,#Engineered,"#Food production",#Fermented
+2763,"Clostridium thermopalmarium","DSM 5974, ATCC 51427","palm wine",Senegal,Africa,"#Host Body Product",#Plant,"#Plant sap (Flux)"
+2763,,,,,,#Host,#Plants,#Tree
+2763,,,,,,#Engineered,"#Food production",#Fermented
+2763,,,,,,#Engineered,"#Food production",#Beverage
+133504,"Cobetia crustatorum","KCTC 22486, JCM 15644, NRIC 0824","From jogae jeotgal###Jeotgal, traditional Korean fermented seafood###Fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+133504,,,,,,#Engineered,"#Food production",#Seafood
+133504,,,,,,#Engineered,"#Food production",#Fermented
+133504,,,,,,#Engineered,"#Food production",#Seafood
+133504,,,,,,#Engineered,"#Food production",#Fermented
+133504,,,,,,#Engineered,"#Food production",#Seafood
+23075,"Companilactobacillus ginsenosidimutans","DSM 24154, EMML 3041","Kimchi (Korean fermented food)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+23075,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+23074,"Companilactobacillus kimchiensis","DSM 24716, JCM 17702, KACC 15533","Kimchi (traditional fermented food)###kimchi, fermented Korean food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+23074,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+23074,,,,,,#Engineered,"#Food production",#Fermented
+23074,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6578,"Companilactobacillus kimchii","CCUG 45370, ATCC BAA-131, CIP 107019, DSM 13961, JCM 10707, KCTC 8903P, KACC 12383, NBRC 106466, NRIC 0493","Food, Fermented vegetable, Kimchi###fermented vegetable (kimchi)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+6578,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6578,,,,,,#Engineered,"#Food production",#Fermented
+6578,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6578,,,,,,#Engineered,"#Food production",#Fermented
+6578,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6578,,,,,,#Engineered,"#Food production",#Fermented
+6578,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6592,"Companilactobacillus mindensis","DSM 14500, CCUG 48642, LMG 21932, TMW 1.80, JCM 12532, CIP 107874, LMG 21508, NBRC 107162","Commercial sourdough###Industrial rye sourdough starter preparation (BRS)###sourdough",Germany,Europe,#Engineered,"#Food production",#Fermented
+6592,,,,,,#Engineered,"#Food production",#Fermented
+6592,,,,,,#Engineered,"#Food production",#Fermented
+6592,,,,,,#Engineered,"#Food production",#Fermented
+6577,"Companilactobacillus paralimentarius","DSM 13238, JCM 10415, CCUG 43349, LMG 19152, CIP 106794, NBRC 107152, NCIMB 13723",sourdough,Japan,Asia,#Engineered,"#Food production",#Fermented
+6577,,,,,,#Engineered,"#Food production",#Fermented
+6577,,,,,,#Engineered,"#Food production",#Fermented
+6577,,,,,,#Engineered,"#Food production",#Fermented
+4265,"Dietzia alimentaria","DSM 45698, JCM 16360, KACC 21126, NBRC 109780","traditional salt-fermented seafood made of clam jeotgal","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+4265,,,,,,#Engineered,"#Food production",#Seafood
+4265,,,,,,#Engineered,"#Food production",#Fermented
+4265,,,,,,#Engineered,"#Food production",#Seafood
+132178,"Enterobacter hormaechei subsp. xiangfangensis","DSM 101093, CCUG 62994, LMG 27195, NCIMB 14836",Sourdough,China,Asia,#Engineered,"#Food production",#Fermented
+132178,,,,,,#Engineered,"#Food production",#Fermented
+24005,"Enterococcus olivae","DSM 25431, CCM 8603, CECT 8063","spanish-style green olive fermentations",Spain,Europe,#Engineered,"#Food production",#Fermented
+24005,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+24005,,,,,,#Host,#Plants,#Tree
+24005,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+132922,"Enterococcus xiangfangensis","DSM 105127, CCM 8607, LMG 27495, NCIMB 14834","traditional pickle",China,Asia,#Engineered,"#Food production",#Fermented
+132922,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+141095,"Franconibacter daqui","LMG 29914, CGMCC 1.15944","Daqu sample",China,Asia,#Engineered,"#Food production",#Beverage
+141095,,,,,,#Engineered,"#Food production",#Fermented
+6463,"Fructilactobacillus fructivorans","DSM 20350, ATCC 15435, JCM 1198, NRIC 1814","Spoiled sake###spoilt sake",,,#Engineered,"#Food production",#Beverage
+6463,,,,,,#Environmental,"#Microbial community",
+6463,,,,,,#Engineered,"#Food production",#Fermented
+6463,,,,,,#Engineered,"#Food production",#Beverage
+6463,,,,,,#Environmental,"#Microbial community",
+6463,,,,,,#Engineered,"#Food production",#Fermented
+6464,"Fructilactobacillus fructivorans","DSM 20607, ATCC 27394, NCDO 1985",wine,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6464,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6464,,,,,,#Engineered,"#Food production",#Fermented
+6464,,,,,,#Engineered,"#Food production",#Beverage
+6474,"Fructilactobacillus fructivorans","CCUG 32247, LMG 9478, IAM H42, CIP 103141, LMG 11720, DSM 20571, ATCC 15434, JCM 1199, BCRC 12938, CECT 4136, IFO 15887, JCM 7793, KCTC 3534, NBRC 15887, NCFB 2719, NCIMB 702719, NRIC 0974, NCDO 2719","Food, Spoiled sake###Spoiled sake###Sake,spoiled###spoilt sake",,,#Engineered,"#Food production",#Beverage
+6474,,,,,,#Environmental,"#Microbial community",
+6474,,,,,,#Engineered,"#Food production",#Fermented
+6474,,,,,,#Engineered,"#Food production",#Beverage
+6474,,,,,,#Environmental,"#Microbial community",
+6474,,,,,,#Engineered,"#Food production",#Fermented
+6474,,,,,,#Engineered,"#Food production",#Beverage
+6474,,,,,,#Environmental,"#Microbial community",
+6474,,,,,,#Engineered,"#Food production",#Fermented
+6474,,,,,,#Engineered,"#Food production",#Beverage
+6474,,,,,,#Environmental,"#Microbial community",
+6474,,,,,,#Engineered,"#Food production",#Fermented
+6479,"Fructilactobacillus lindneri","DSM 20690, JCM 11027, CIP 102983, LMG 14528, NCFB 2809","Food, Spoiled beer###Spoiled beer###spoilt beer",,,#Engineered,"#Food production",#Beverage
+6479,,,,,,#Environmental,"#Microbial community",
+6479,,,,,,#Engineered,"#Food production",#Fermented
+6479,,,,,,#Engineered,"#Food production",#Beverage
+6479,,,,,,#Environmental,"#Microbial community",
+6479,,,,,,#Engineered,"#Food production",#Fermented
+6479,,,,,,#Engineered,"#Food production",#Beverage
+6479,,,,,,#Environmental,"#Microbial community",
+6479,,,,,,#Engineered,"#Food production",#Fermented
+6480,"Fructilactobacillus lindneri","DSM 20691, CIP 102984","Food, Spoiled beer###spoilt beer",,,#Engineered,"#Food production",#Beverage
+6480,,,,,,#Environmental,"#Microbial community",
+6480,,,,,,#Engineered,"#Food production",#Fermented
+6480,,,,,,#Engineered,"#Food production",#Beverage
+6480,,,,,,#Environmental,"#Microbial community",
+6480,,,,,,#Engineered,"#Food production",#Fermented
+6481,"Fructilactobacillus lindneri","DSM 20692","spoilt beer",,,#Engineered,"#Food production",#Beverage
+6481,,,,,,#Environmental,"#Microbial community",
+6481,,,,,,#Engineered,"#Food production",#Fermented
+6520,"Fructilactobacillus sanfranciscensis","DSM 20663, ATCC 43332, JCM 11032, CIP 102982","Food, Sour dough###sourdough",,,#Engineered,"#Food production",#Fermented
+6520,,,,,,#Engineered,"#Food production",#Fermented
+6520,,,,,,#Engineered,"#Food production",#Fermented
+6864,"Fructobacillus durionis","DSM 19113, CCUG 49949, CIP 108761, LAB 1679, LMG 22556, JCM 17831, BCRC 81233, CECT 7089, NRIC 0663","Traditional Malaysian acid-fermented condiment (tempoyak)###Tempoyak (Malaysian acid-fermented condiment made from pulp of the durian fruit)###Tempoyak",Malaysia,Asia,#Engineered,"#Food production",#Fermented
+6864,,,,,,#Engineered,"#Food production",#Food
+6864,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6864,,,,,,#Engineered,"#Food production",#Fermented
+6864,,,,,,#Engineered,"#Food production",#Food
+6864,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6864,,,,,,#Engineered,"#Food production",#Fermented
+6864,,,,,,#Engineered,"#Food production",#Food
+6864,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+130439,"Garicola koreensis","DSM 28238, JCm 18572, KACC 16909","Seau-jeot, a traditional fermented seafood###saeu-jeot (Korean salted fermented shrimp)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+130439,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+130439,,,,,,#Engineered,"#Food production",#Fermented
+130439,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+23501,"Gluconobacter cerevisiae","DSM 27644, LMG 27748, CIP 110637","fermenting lambic beer",Belgium,Europe,#Engineered,"#Food production",#Beverage
+23501,,,,,,#Engineered,"#Food production",#Fermented
+23501,,,,,,#Engineered,"#Food production",#Beverage
+23501,,,,,,#Engineered,"#Food production",#Fermented
+49,"Gluconobacter oxydans","DSM 7145, ATCC 19357, NCIB 9013",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+49,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+49,,,,,,#Engineered,"#Food production",#Fermented
+49,,,,,,#Engineered,"#Food production",#Beverage
+52,"Gluconobacter oxydans","DSM 50049, ATCC 621, CIP 104737, NCIB 7069, NRRL B-72, CCUG 18135, ATCC 33448, NCTC 7069, LMG 1673, NCTC 621, ATCC 23774, JCM 20429, ATCC 23773, BCRC 12581, CCM 1787, IAM 12137, IFO 3130, KCTC 2779, LMG 1400, NBRC 3130, NCIMB 6723, NCTC 6723, CIP 53.162, CCM 1783, IFO 3172, IMET 10507, LMG 1393, NCDO 2008, LMG 1402, LMG 1401, NCIMB 7069","Other, Amstel beer###Beer",Netherlands,Europe,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+52,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+52,,,,,,#Engineered,"#Food production",#Fermented
+52,,,,,,#Engineered,"#Food production",#Beverage
+52,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+52,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+52,,,,,,#Engineered,"#Food production",#Fermented
+52,,,,,,#Engineered,"#Food production",#Beverage
+23496,"Gluconobacter oxydans","DSM 4494, ATCC 19357, NCIB 9013",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+23496,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+23496,,,,,,#Engineered,"#Food production",#Fermented
+23496,,,,,,#Engineered,"#Food production",#Beverage
+1466,"Gracilibacillus thailandensis","DSM 23862, JCM 15569, PCU 304, TISTR 1881, CGMCC 1.10450","Fermented fish (<I>pla-ra</I>) in Thailand###fermented fish (pla-ra) from a market###pla-ra (traditional fermented fish)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+1466,,,,,,#Engineered,"#Food production",#Seafood
+1466,,,,,,#Host,#Fishes,
+1466,,,,,,#Engineered,"#Food production",#Fermented
+1466,,,,,,#Engineered,"#Food production",#Seafood
+1466,,,,,,#Host,#Fishes,
+1466,,,,,,#Engineered,"#Food production",#Fermented
+1466,,,,,,#Engineered,"#Food production",#Seafood
+1466,,,,,,#Host,#Fishes,
+5972,"Haladaptatus cibarius","DSM 19505, JCM 15962, KCTC 4055","Jeotgal, traditional Korean fermented seafood###salt-fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+5972,,,,,,#Condition,#Saline,
+5972,,,,,,#Engineered,"#Food production",#Seafood
+5972,,,,,,#Engineered,"#Food production",#Fermented
+5972,,,,,,#Condition,#Saline,
+5972,,,,,,#Engineered,"#Food production",#Seafood
+5968,"Halalkalicoccus jeotgali","DSM 18796, CECT 7217, JCM 14584, KCTC 4019, CGMCC 1.8490, NBRC 110681","From jeotgal###Shrimp jeotgal, traditional Korean fermented seafood###salted shrimp jeotgal (traditional Korean fermented seafood)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+5968,,,,,,#Condition,#Saline,
+5968,,,,,,#Host,#Arthropoda,#Crustacea
+5968,,,,,,#Engineered,"#Food production",#Seafood
+5968,,,,,,#Engineered,"#Food production",#Fermented
+5968,,,,,,#Condition,#Saline,
+5968,,,,,,#Host,#Arthropoda,#Crustacea
+5968,,,,,,#Engineered,"#Food production",#Seafood
+5968,,,,,,#Engineered,"#Food production",#Fermented
+5968,,,,,,#Condition,#Saline,
+5968,,,,,,#Host,#Arthropoda,#Crustacea
+5968,,,,,,#Engineered,"#Food production",#Seafood
+134335,"Halobacterium salinarum","BCC 24372, JCM 14661, PCU 302","Salt-fermented fish product (pla-ra) of Thailand###salt fermented fish",,,#Engineered,"#Food production",#Fermented
+134335,,,,,,#Condition,#Saline,
+134335,,,,,,#Host,#Fishes,
+134335,,,,,,#Engineered,"#Food production",#Seafood
+134335,,,,,,#Engineered,"#Food production",#Fermented
+134335,,,,,,#Condition,#Saline,
+134335,,,,,,#Host,#Fishes,
+134335,,,,,,#Engineered,"#Food production",#Seafood
+6034,"Halomonas alimentaria","DSM 15356, JCM 10888, KCCM 41042, KCTC 12950, CGMCC 1.3500, CIP 107381","Food, Jeotgal, korean traditinal fermented seafood###From jeotgal (Korean traditional fermented seafood)###Jeotgal, Korean traditional fermented seafood###seafood jeotgal","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+6034,,,,,,#Engineered,"#Food production",#Seafood
+6034,,,,,,#Engineered,"#Food production",#Fermented
+6034,,,,,,#Engineered,"#Food production",#Seafood
+6034,,,,,,#Engineered,"#Food production",#Fermented
+6034,,,,,,#Engineered,"#Food production",#Seafood
+6034,,,,,,#Engineered,"#Food production",#Fermented
+6034,,,,,,#Engineered,"#Food production",#Seafood
+154210,"Halomonas elongata","CCUG 52759","Table-olive fermentation",Tunisia,Africa,#Engineered,"#Food production",#Fermented
+154210,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+140921,"Halomonas garicola","KACC 18117, JCM 30151","Traditional Korean fermented shrimp sauce (saeu-jeot)###Saeu-jeot, a Korean salted and fermented shrimp sauce; sample obtained after 81 days of fermentation",,,#Engineered,"#Food production",#Fermented
+140921,,,,,,#Engineered,"#Food production",#Seafood
+140921,,,,,,#Condition,#Saline,
+140921,,,,,,#Engineered,"#Food production",#Fermented
+140921,,,,,,#Engineered,"#Food production",#Seafood
+140921,,,,,,#Condition,#Saline,
+5956,"Halorubrum cibi","DSM 19504, JCM 15757, KCTC 4026","Salt-fermented seafood, shrimp jeotgal###shrimp jeotgal, a traditional Korean salt-fermented food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+5956,,,,,,#Host,#Arthropoda,#Crustacea
+5956,,,,,,#Engineered,"#Food production",#Seafood
+5956,,,,,,#Engineered,"#Food production",#Fermented
+5956,,,,,,#Host,#Arthropoda,#Crustacea
+5956,,,,,,#Engineered,"#Food production",#Seafood
+5885,"Natrinema thermotolerans","DSM 18794, CECT 7218, JCM 14585, KCTC 4020, CCTCC AB 2015393","From shrimp jeotgal, a traditional salt-fermented food###Shrimp jeotgal, a traditional salt-fermented food from Korea###shrimp jeotgal, a traditional fermented food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+5885,,,,,,#Host,#Arthropoda,#Crustacea
+5885,,,,,,#Engineered,"#Food production",#Seafood
+5885,,,,,,#Engineered,"#Food production",#Fermented
+5885,,,,,,#Host,#Arthropoda,#Crustacea
+5885,,,,,,#Engineered,"#Food production",#Seafood
+5885,,,,,,#Engineered,"#Food production",#Fermented
+5885,,,,,,#Host,#Arthropoda,#Crustacea
+5885,,,,,,#Engineered,"#Food production",#Seafood
+1511,"Jeotgalibacillus alimentarius","DSM 18867, CIP 107405, JCM 10872, KCCM 80002, CCM 7134, KCTC 13914","Food, Jeotgal, fermented seafood###Jeotgal, Korean traditional fermented seafood###jeotgal (traditional Korean fermented seafood)###traditional fermented seafood (jeotgal)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+1511,,,,,,#Engineered,"#Food production",#Seafood
+1511,,,,,,#Engineered,"#Food production",#Fermented
+1511,,,,,,#Engineered,"#Food production",#Seafood
+1511,,,,,,#Engineered,"#Food production",#Fermented
+1511,,,,,,#Engineered,"#Food production",#Seafood
+1511,,,,,,#Engineered,"#Food production",#Fermented
+1511,,,,,,#Engineered,"#Food production",#Seafood
+14411,"Jeotgalicoccus halotolerans","DSM 17274, CCM 7135, CCUG 47728, CIP 107958, JCM 11198, KCCM 41448, CGMCC 1.6779","Jeotgal###Jeotgal (traditional Korean fermented seafood)###jeotgal, traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+14411,,,,,,#Engineered,"#Food production",#Seafood
+14411,,,,,,#Engineered,"#Food production",#Fermented
+14411,,,,,,#Engineered,"#Food production",#Seafood
+14411,,,,,,#Engineered,"#Food production",#Fermented
+14411,,,,,,#Engineered,"#Food production",#Seafood
+14411,,,,,,#Engineered,"#Food production",#Fermented
+14411,,,,,,#Engineered,"#Food production",#Seafood
+14412,"Jeotgalicoccus psychrophilus","DSM 19085, JCM 11199, KCCM 41449, CCUG 47729, CCM 7136, CGMCC 1.6772, CIP 107952","Food, Fermented seafood jeotgal###Jeotgal, traditional Korean fermented seafood###Jeotgal (traditional Korean fermented seafood)###jeotgal, Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+14412,,,,,,#Engineered,"#Food production",#Seafood
+14412,,,,,,#Engineered,"#Food production",#Fermented
+14412,,,,,,#Engineered,"#Food production",#Seafood
+14412,,,,,,#Engineered,"#Food production",#Fermented
+14412,,,,,,#Engineered,"#Food production",#Seafood
+14412,,,,,,#Engineered,"#Food production",#Fermented
+14412,,,,,,#Engineered,"#Food production",#Seafood
+7665,"Kocuria atrinae","DSM 23883, JCM 15914, KCTC 19594","From Jeotgal, fermented shellfisg###Korean traditional fermented seafood###jeotgal, traditional fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7665,,,,,,#Engineered,"#Food production",#Seafood
+7665,,,,,,#Engineered,"#Food production",#Fermented
+7665,,,,,,#Engineered,"#Food production",#Seafood
+7665,,,,,,#Engineered,"#Food production",#Fermented
+7665,,,,,,#Engineered,"#Food production",#Seafood
+7666,"Kocuria salsicia","DSM 24776, JCM 16361, KACC 21128, NBRC 109970","traditional salt-fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7666,,,,,,#Engineered,"#Food production",#Seafood
+7666,,,,,,#Engineered,"#Food production",#Fermented
+7666,,,,,,#Engineered,"#Food production",#Seafood
+159749,"Komagataeibacter cocois","CGMCC 1.15338, JCM 31140","gel pellicle sample of naturally fermented coconut milk",China,Asia,#Engineered,"#Food production",#Fermented
+159749,,,,,,#Engineered,"#Food production",#Fermented
+85,"Komagataeibacter hansenii","DSM 5602, ATCC 35959, BCC 6318, CCUG 18123, LMG 1527, NBRC 14820, NCIMB 8746, JCM 7643, BCRC 14157, CGMCC 1.1811, CIP 103110, IFO 14820, VTT E-97829","Food, Local vinegar brew###Local vinegar brewery###Mutant derived from vinegar isolate NCIB 8745###vinegar",Israel,Asia,#Condition,#Acidic,
+85,,,,,,#Engineered,"#Food production",#Food
+85,,,,,,#Engineered,"#Food production",#Fermented
+85,,,,,,#Condition,#Acidic,
+85,,,,,,#Engineered,"#Food production",#Food
+85,,,,,,#Engineered,"#Food production",#Fermented
+85,,,,,,#Condition,#Acidic,
+85,,,,,,#Engineered,"#Food production",#Food
+85,,,,,,#Engineered,"#Food production",#Fermented
+85,,,,,,#Condition,#Acidic,
+85,,,,,,#Engineered,"#Food production",#Food
+85,,,,,,#Engineered,"#Food production",#Fermented
+23507,"Komagataeibacter hansenii","DSM 46602, ATCC 23769, CCM 1808, IMET 10313, NCIB 8246, RIA 813",vinegar,Israel,Asia,#Condition,#Acidic,
+23507,,,,,,#Engineered,"#Food production",#Food
+23507,,,,,,#Engineered,"#Food production",#Fermented
+92,"Komagataeibacter intermedius","DSM 11804, BCC 36457, JCM 16936, LMG 18909, BCC 36447, BCRC 17055, CIP 105780, ZIM B073","Swiss Kombucha beverage###Liquid phase of a tea fungus beverage (Kombucha)###tea fungus beverage (Komucha)",Switzerland,Europe,#Engineered,"#Food production",#Beverage
+92,,,,,,#Host,#Fungi,
+92,,,,,,#Engineered,"#Food production",#Fermented
+92,,,,,,#Engineered,"#Food production",#Beverage
+92,,,,,,#Host,#Fungi,
+92,,,,,,#Engineered,"#Food production",#Fermented
+92,,,,,,#Engineered,"#Food production",#Beverage
+92,,,,,,#Host,#Fungi,
+92,,,,,,#Engineered,"#Food production",#Fermented
+91,"Komagataeibacter oboediens","DSM 11826, JCM 16937, LMG 18849, NCIMB 13557, LTH 2460, BCC 36445, BCRC 17057, CIP 105763","Food, Red wine vinegar###Submerged cider vinegar fermentation at a factory###industrial red wine vinegar fermentation",Germany,Europe,#Engineered,"#Food production",#Beverage
+91,,,,,,#Engineered,#Industrial,
+91,,,,,,#Engineered,"#Food production",#Fermented
+91,,,,,,#Engineered,"#Food production",#Beverage
+91,,,,,,#Engineered,#Industrial,
+91,,,,,,#Engineered,"#Food production",#Fermented
+91,,,,,,#Engineered,"#Food production",#Beverage
+91,,,,,,#Engineered,#Industrial,
+91,,,,,,#Engineered,"#Food production",#Fermented
+140736,"Kushneria konosiri","KACC 14623, JCM 16805","Korean traditional salt-fermented seafood Daemi-jeot###Daemi-jeot, a traditional Korean salted and fermented seafood, which is made of larval gizzard shad (Konosirus punctatus) with solar salt","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+140736,,,,,,#Host,#Fishes,
+140736,,,,,,#Engineered,"#Food production",#Seafood
+140736,,,,,,#Condition,#Saline,
+140736,,,,,,#Engineered,"#Food production",#Fermented
+140736,,,,,,#Host,#Fishes,
+140736,,,,,,#Engineered,"#Food production",#Seafood
+140736,,,,,,#Condition,#Saline,
+6583,"Lacticaseibacillus manihotivorans","CCUG 42894, DSM 13343, LMG 18010, OND 32, JCM 12514, CIP 105851, KCTC 21010","Cassava fermentation process###Cassava fermenter###cassava sour starch fermentation",Colombia,"Middle and South America",#Engineered,"#Food production",#Fermented
+6583,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6583,,,,,,#Engineered,"#Food production",#Food
+6583,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6583,,,,,,#Engineered,"#Food production",#Fermented
+6583,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6583,,,,,,#Engineered,"#Food production",#Food
+6583,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6583,,,,,,#Engineered,"#Food production",#Fermented
+6583,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6583,,,,,,#Engineered,"#Food production",#Food
+6583,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6551,"Lacticaseibacillus paracasei subsp. paracasei","DSM 20006, JCM 1163, KCTC 3166",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6551,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6551,,,,,,#Engineered,"#Food production",#Fermented
+6551,,,,,,#Engineered,"#Food production",#Beverage
+6551,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6551,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6551,,,,,,#Engineered,"#Food production",#Fermented
+6551,,,,,,#Engineered,"#Food production",#Beverage
+6555,"Lacticaseibacillus paracasei subsp. paracasei","DSM 20312, ATCC 27092","lactic acid beverage ""Yakult""",,,#Engineered,"#Food production",#Beverage
+6555,,,,,,#Engineered,"#Food production",#Fermented
+6555,,,,,,#Engineered,"#Food production","#Dairy product"
+6564,"Lacticaseibacillus zeae","DSM 20178, ATCC 15820, RIA 482, CCUG 35515, KCTC 3804, JCM 11302, BCRC 17942, LMG 17315, NCIMB 9537, CIP 103253, NCIB 9537","Food, Corn steep liquor###From corn steep ilquor###corn steep liquor",,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6564,,,,,,#Engineered,"#Food production",#Fermented
+6564,,,,,,#Engineered,"#Food production",#Beverage
+6564,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6564,,,,,,#Engineered,"#Food production",#Fermented
+6564,,,,,,#Engineered,"#Food production",#Beverage
+6564,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6564,,,,,,#Engineered,"#Food production",#Fermented
+6564,,,,,,#Engineered,"#Food production",#Beverage
+6564,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6564,,,,,,#Engineered,"#Food production",#Fermented
+6564,,,,,,#Engineered,"#Food production",#Beverage
+131552,"Lactiplantibacillus herbarum","DSM 100358, CCTCC AB 2015090","traditional Chinese fermented radish",China,Asia,#Engineered,"#Food production",#Fermented
+131552,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24139,"Lactiplantibacillus mudanjiangensis","DSM 28402, CCUG 62991, LMG 27194, KCTC 21026, CIP 110706","Korean pickle, Japanese pickle, Chinese pickle###Pickle###traditional pickle###From traditional pickle",China,Asia,#Engineered,"#Food production",#Fermented
+24139,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24139,,,,,,#Engineered,"#Food production",#Fermented
+24139,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24139,,,,,,#Engineered,"#Food production",#Fermented
+24139,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24139,,,,,,#Engineered,"#Food production",#Fermented
+24139,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6569,"Lactiplantibacillus paraplantarum","DSM 10667, CIP 104668, CNRZ 1885, CCUG 35983, CST 10961, JCM 12533, ATCC 700211, BCRC 17178, CCM 4613, LMG 16673, NBRC 107151, NCIMB 13579, NRRL B-23115, VTT E-093128","As a beer-spoilage agent###beer contaminant",France,Europe,#Engineered,"#Food production",#Beverage
+6569,,,,,,#Engineered,#Laboratory,#Contaminant
+6569,,,,,,#Engineered,"#Food production",#Fermented
+6569,,,,,,#Engineered,"#Food production",#Beverage
+6569,,,,,,#Engineered,#Laboratory,#Contaminant
+6569,,,,,,#Engineered,"#Food production",#Fermented
+6569,,,,,,#Engineered,"#Food production",#Beverage
+6569,,,,,,#Engineered,#Laboratory,#Contaminant
+6569,,,,,,#Engineered,"#Food production",#Fermented
+6401,"Lactobacillus acetotolerans","DSM 20351, ATCC 27745, IFO 13121, JCM 7524, NBRC 13121, CECT 983, LMG 11452, LMG 11721, NCFB 2402","spoilt sake",,,#Engineered,"#Food production",#Beverage
+6401,,,,,,#Environmental,"#Microbial community",
+6401,,,,,,#Engineered,"#Food production",#Fermented
+141151,"Companilactobacillus allii","KCTC 21077, JCM 31938","From scallion kimchi###Scallion kimchi in Gwangju###scallion kimchi","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+141151,,,,,,#Engineered,"#Food production",#Food
+141151,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+141151,,,,,,#Engineered,"#Food production",#Fermented
+141151,,,,,,#Engineered,"#Food production",#Food
+141151,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+141151,,,,,,#Engineered,"#Food production",#Fermented
+141151,,,,,,#Engineered,"#Food production",#Food
+141151,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+159711,"Levilactobacillus bambusae","BCRC 80970, NBRC 112377","traditional fermented ma bamboo shoot products","Taiwan, Province of China",Asia,#Engineered,"#Food production",#Food
+159711,,,,,,#Engineered,"#Food production",#Fermented
+138176,"Levilactobacillus brevis","CIP 105138, ATCC 27306, CCRC 14045, CCUG 21960, JCM 1183, LMG 7935, BCRC 14045","Food, Wine###Wine",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+138176,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+138176,,,,,,#Engineered,"#Food production",#Fermented
+138176,,,,,,#Engineered,"#Food production",#Beverage
+138176,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+138176,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+138176,,,,,,#Engineered,"#Food production",#Fermented
+138176,,,,,,#Engineered,"#Food production",#Beverage
+138176,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+138176,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+138176,,,,,,#Engineered,"#Food production",#Fermented
+138176,,,,,,#Engineered,"#Food production",#Beverage
+150456,"Levilactobacillus brevis","CCUG 39980","Carrots,ecological fermentation",Sweden,Europe,#Engineered,"#Food production",#Fermented
+150456,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+155513,"Levilactobacillus brevis","CCUG 57950",Pickles,Sweden,Europe,#Condition,#Saline,
+155513,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+155513,,,,,,#Engineered,"#Food production",#Fermented
+134233,"Companilactobacillus crustorum","CCUG 53174, CIP 109613, LMG 23699, JCM 15951, NBRC 107159","Food, Wheat sourdough###Wheat sourdough###Sourdough",Belgium,Europe,#Engineered,"#Food production",#Fermented
+134233,,,,,,#Engineered,"#Food production",#Fermented
+134233,,,,,,#Engineered,"#Food production",#Fermented
+140766,"Furfurilactobacillus curtus","JCM 31185, VTT E-94560",beer,Finland,Europe,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+140766,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+140766,,,,,,#Engineered,"#Food production",#Fermented
+140766,,,,,,#Engineered,"#Food production",#Beverage
+140766,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+140766,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+140766,,,,,,#Engineered,"#Food production",#Fermented
+140766,,,,,,#Engineered,"#Food production",#Beverage
+150486,"Latilactobacillus curvatus","CCUG 41416","Cabbage,ecological,end of natural fermentation",Sweden,Europe,#Engineered,"#Food production",#Fermented
+150486,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24129,"Lactobacillus delbrueckii subsp. sunkii","DSM 24966, JCM 17838, KCTC 15515, YIT 11221","From sunki, Japanese traditional fermented vegetable(pickle)###Sunki, traditional Japanese pickles###sunki, Japanese traditional fermented vegetable",Japan,Asia,#Engineered,"#Food production",#Fermented
+24129,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24129,,,,,,#Engineered,"#Food production",#Fermented
+24129,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24129,,,,,,#Engineered,"#Food production",#Fermented
+24129,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+146319,"Limosilactobacillus fermentum","CCUG 30889, NCIMB 12117","'Ogi',a fermented corn product",,,#Engineered,"#Food production",#Fermented
+146319,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+153568,"Lactobacillus helveticus","CCUG 50205, NCIMB 14005, JCM 30912, BCRC 17499, LMG 22464","Malt whisky distilleries###Malt whisky",Japan,Asia,#Engineered,"#Food production",#Beverage
+153568,,,,,,#Engineered,"#Food production",#Fermented
+153568,,,,,,#Engineered,"#Food production",#Beverage
+153568,,,,,,#Engineered,"#Food production",#Fermented
+151558,"Lacticaseibacillus paracasei","CCUG 44316","Industrially produced cider",Sweden,Europe,#Engineered,"#Food production",#Beverage
+151558,,,,,,#Engineered,#Industrial,"#Industrial production"
+151558,,,,,,#Engineered,"#Food production",#Fermented
+150382,"Lactiplantibacillus plantarum","CCUG 39786","Vegetable,fermented",Sweden,Europe,#Engineered,"#Food production",#Fermented
+150382,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+150484,"Lactiplantibacillus plantarum","CCUG 41414","Cabbage,ecological,end of natural fermentation",Sweden,Europe,#Engineered,"#Food production",#Fermented
+150484,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+154958,"Lactiplantibacillus plantarum","CCUG 55869","Herring,garlic",Sweden,Europe,#Engineered,"#Food production",#Fermented
+154958,,,,,,#Engineered,"#Food production",#Seafood
+153731,"Lactiplantibacillus argentoratensis","CCUG 50788","Fermented millet (baba)",Nigeria,Africa,#Engineered,"#Food production",#Fermented
+153731,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6400,"Lactobacillus sp.","DSM 20354, ATCC 27744, IFO 13120, NBRC 13120","spoilt sake",,,#Engineered,"#Food production",#Beverage
+6400,,,,,,#Environmental,"#Microbial community",
+6400,,,,,,#Engineered,"#Food production",#Fermented
+6462,"Lactobacillus sp.","DSM 20353, ATCC 27742, IFO 13118, NBRC 13118, JCM 7527","spoilt sake",,,#Engineered,"#Food production",#Beverage
+6462,,,,,,#Environmental,"#Microbial community",
+6462,,,,,,#Engineered,"#Food production",#Fermented
+6526,"Lactobacillus sp.","DSM 6265","spoilt beer",,,#Engineered,"#Food production",#Beverage
+6526,,,,,,#Environmental,"#Microbial community",
+6526,,,,,,#Engineered,"#Food production",#Fermented
+143635,"Lactobacillus sp.","CCUG 20675","Sour dough",Sweden,Europe,#Engineered,"#Food production",#Fermented
+146320,"Lactobacillus sp.","CCUG 30890, NCIMB 12118","'Ogi',a fermented corn product",,,#Engineered,"#Food production",#Fermented
+146320,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+146321,"Lactobacillus sp.","CCUG 30891, NCIMB 12119","'Ogi',a fermented corn product",,,#Engineered,"#Food production",#Fermented
+146321,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+159832,"Companilactobacillus nuruki","KACC 18726, NBRC 112011","Nuruk. A Korean fermentation starter","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+134042,"Lactococcus formosensis","NBRC 109475, BCRC 80576, JCM 31966, LMG 29105","<I>Yan-tsai-shin</I> (fermented broccoli stems)###fermented broccoli stems","Taiwan, Province of China",Asia,#Engineered,"#Food production",#Fermented
+134042,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+134042,,,,,,#Engineered,"#Food production",#Fermented
+134042,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6636,"Lapidilactobacillus concavus","DSM 17758, AS 1.5017, LMG 22739, JCM 14153, CGMCC 1.5017, CIP 108991, KACC 12410, NBRC 106101","Distilled spirit fermenting cellar walls###Distilled-spirit-fermenting cellar###distilled pirit-fermenting cellar",China,Asia,#Engineered,"#Food production",#Beverage
+6636,,,,,,#Engineered,"#Food production",#Fermented
+6636,,,,,,#Engineered,"#Food production",#Beverage
+6636,,,,,,#Engineered,"#Food production",#Fermented
+6636,,,,,,#Engineered,"#Food production",#Beverage
+6636,,,,,,#Engineered,"#Food production",#Fermented
+6532,"Lapidilactobacillus dextrinicus","DSM 20293, CIP 102405, ATCC 700477","Food, Beer###beer",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6532,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6532,,,,,,#Engineered,"#Food production",#Fermented
+6532,,,,,,#Engineered,"#Food production",#Beverage
+6532,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6532,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6532,,,,,,#Engineered,"#Food production",#Fermented
+6532,,,,,,#Engineered,"#Food production",#Beverage
+6445,"Latilactobacillus curvatus","DSM 20495, Tro 8","fermented cabbage leaves",Thailand,Asia,#Engineered,"#Food production",#Fermented
+6445,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6447,"Latilactobacillus curvatus","DSM 20499, Tro 17","fermented cabbage leaves",Thailand,Asia,#Engineered,"#Food production",#Fermented
+6447,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6516,"Latilactobacillus sakei subsp. sakei","DSM 20494, JCM 1128, CIP 104494","Pickled cabbage###sauerkraut",,,#Condition,#Saline,
+6516,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6516,,,,,,#Engineered,"#Food production",#Fermented
+6516,,,,,,#Condition,#Saline,
+6516,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6516,,,,,,#Engineered,"#Food production",#Fermented
+6516,,,,,,#Condition,#Saline,
+6516,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6516,,,,,,#Engineered,"#Food production",#Fermented
+6518,"Latilactobacillus sakei subsp. sakei","DSM 20498, Tro 11","fermented cabbage leaves",Thailand,Asia,#Engineered,"#Food production",#Fermented
+6518,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6570,"Latilactobacillus sakei","CCUG 30501, DSM 20017, ATCC 15521, WDCM 00015, JCM 1157, BCRC 14622, CECT 906, CGMCC 1.2142, CIP 103139, IFO 15893, KCTC 3603, LMG 9468, NBRC 15893, NCFB 2714, NCIMB 13090, NRIC 1071, VTT E-991032, NCDO 2714, CCM 7203, NCTC 13636","Food, Starter of sake###Moto (starter of sake)###Sake starter,'Moto'###""Moto"" starter of sake",,,#Engineered,"#Food production",#Beverage
+6570,,,,,,#Engineered,"#Food production",#Fermented
+6570,,,,,,#Engineered,"#Food production",#Beverage
+6570,,,,,,#Engineered,"#Food production",#Fermented
+6570,,,,,,#Engineered,"#Food production",#Beverage
+6570,,,,,,#Engineered,"#Food production",#Fermented
+6570,,,,,,#Engineered,"#Food production",#Beverage
+6570,,,,,,#Engineered,"#Food production",#Fermented
+158809,"Lelliottia jeotgali","KCCM 43247, JCM 31901","Jogae-jeotgal, a traditional Korean fermented clam in Inchon###traditional Korean fermented clams (jogae-jeotgal)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+158809,,,,,,#Host,"#Invertebrates (Other)",#Mollusca
+158809,,,,,,#Engineered,"#Food production",#Seafood
+158809,,,,,,#Engineered,"#Food production",#Fermented
+158809,,,,,,#Host,"#Invertebrates (Other)",#Mollusca
+158809,,,,,,#Engineered,"#Food production",#Seafood
+1362,"Lentibacillus halophilus","DSM 19123, CIP 109343, JCM 12149, PCU 240, TISTR 1549, NCIMB 14363","Food, Fish, sauce###Fish-sauce fermentation in Thailand###fish sauce###fish-sauce fermentation",Thailand,Asia,#Engineered,"#Food production",#Fermented
+1362,,,,,,#Engineered,"#Food production",#Seafood
+1362,,,,,,#Engineered,"#Food production",#Fermented
+1362,,,,,,#Engineered,"#Food production",#Seafood
+1362,,,,,,#Engineered,"#Food production",#Fermented
+1362,,,,,,#Engineered,"#Food production",#Seafood
+1362,,,,,,#Engineered,"#Food production",#Fermented
+1362,,,,,,#Engineered,"#Food production",#Seafood
+1367,"Lentibacillus jeotgali","DSM 23924, JCM 15795, KCTC 13300","From Garibi-jeotgal, traditional Korean fermented seafood made from scallops###Jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood made from scallops, ""Garibi-jeotgal""","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+1367,,,,,,#Engineered,"#Food production",#Seafood
+1367,,,,,,#Engineered,"#Food production",#Fermented
+1367,,,,,,#Engineered,"#Food production",#Seafood
+1367,,,,,,#Engineered,"#Food production",#Fermented
+1367,,,,,,#Engineered,"#Food production",#Seafood
+1367,,,,,,#Engineered,"#Food production",#Fermented
+1367,,,,,,#Engineered,"#Food production",#Seafood
+1363,"Lentibacillus kapialis","DSM 19124, JCM 12580, PCU 259, TISTR 1551, CIP 109544","Shrimp paste, fermented###Fermented shrimp paste ('ka-pi') produced in Thailand###fermented shrimp paste###fermented shrimp paste from a market",Thailand,Asia,#Engineered,"#Food production",#Fermented
+1363,,,,,,#Engineered,"#Food production",#Seafood
+1363,,,,,,#Engineered,"#Food production",#Fermented
+1363,,,,,,#Engineered,"#Food production",#Seafood
+1363,,,,,,#Engineered,"#Food production",#Fermented
+1363,,,,,,#Engineered,"#Food production",#Seafood
+1363,,,,,,#Engineered,"#Food production",#Fermented
+1363,,,,,,#Engineered,"#Food production",#Seafood
+158989,"Lentilactobacillus buchneri subsp. silagei","DSM 107969, JCM 32599, SG 162","Rice grain silage in Japan###fermented rice grain",Japan,Asia,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+158989,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+158989,,,,,,#Engineered,"#Food production",#Fermented
+158989,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+158989,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+158989,,,,,,#Engineered,"#Food production",#Fermented
+6643,"Lentilactobacillus farraginis","DSM 18382, JCM 14108, NRIC 0676, CIP 109567","Environment, Compost of distilled shochu residue###Compost of distilled shochu residue###composting material of distilled shochu residue",Japan,Asia,#Engineered,"#Food production",#Beverage
+6643,,,,,,#Engineered,"#Food production",#Fermented
+6643,,,,,,#Engineered,#Biodegradation,#Composting
+6643,,,,,,#Engineered,"#Food production",#Beverage
+6643,,,,,,#Engineered,"#Food production",#Fermented
+6643,,,,,,#Engineered,#Biodegradation,#Composting
+6643,,,,,,#Engineered,"#Food production",#Beverage
+6643,,,,,,#Engineered,"#Food production",#Fermented
+6643,,,,,,#Engineered,#Biodegradation,#Composting
+6472,"Lentilactobacillus hilgardii","DSM 20051",wine,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6472,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6472,,,,,,#Engineered,"#Food production",#Fermented
+6472,,,,,,#Engineered,"#Food production",#Beverage
+6473,"Lentilactobacillus hilgardii","DSM 20176, ATCC 8290, NCDO 264, NCIB 8040, CCUG 30140, LMG 6895, JCM 1155, BCRC 12937, CECT 4786, CIP 103007, IFO 15886, KCTC 3500, NBIMCC 3445, NBRC 15886, NCFB 264, NCIMB 8040, NRIC 1060, NRRL B-1843, VTT E-991266","Plant, Wine###wine",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6473,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6473,,,,,,#Engineered,"#Food production",#Fermented
+6473,,,,,,#Engineered,"#Food production",#Beverage
+6473,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6473,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6473,,,,,,#Engineered,"#Food production",#Fermented
+6473,,,,,,#Engineered,"#Food production",#Beverage
+6473,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6473,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6473,,,,,,#Engineered,"#Food production",#Fermented
+6473,,,,,,#Engineered,"#Food production",#Beverage
+6473,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6473,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6473,,,,,,#Engineered,"#Food production",#Fermented
+6473,,,,,,#Engineered,"#Food production",#Beverage
+6684,"Lentilactobacillus kisonensis","DSM 19906, JCM 15041, NRIC 0741, YIT 11168, CIP 110026","Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)",Japan,Asia,#Engineered,"#Food production",#Fermented
+6684,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6684,,,,,,#Engineered,"#Food production",#Fermented
+6684,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6684,,,,,,#Engineered,"#Food production",#Fermented
+6684,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6685,"Lentilactobacillus otakiensis","DSM 19908, JCM 15040, NRIC 0742, YIT 11163, CIP 110027","Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)",Japan,Asia,#Engineered,"#Food production",#Fermented
+6685,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6685,,,,,,#Engineered,"#Food production",#Fermented
+6685,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6685,,,,,,#Engineered,"#Food production",#Fermented
+6685,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6544,"Lentilactobacillus parabuchneri","DSM 15352, CIP 106749, JCM 12511, LMG 22038, NCIMB 13725","Environment, Blair athol distillery###Late fermentation sample from a malt whiskey distillery###blair athol distillery","United Kingdom",Europe,#Engineered,"#Food production",#Beverage
+6544,,,,,,#Engineered,"#Food production",#Fermented
+6544,,,,,,#Engineered,"#Built environment",
+6544,,,,,,#Engineered,"#Food production",#Beverage
+6544,,,,,,#Engineered,"#Food production",#Fermented
+6544,,,,,,#Engineered,"#Built environment",
+6544,,,,,,#Engineered,"#Food production",#Beverage
+6544,,,,,,#Engineered,"#Food production",#Fermented
+6544,,,,,,#Engineered,"#Built environment",
+6644,"Lentilactobacillus parafarraginis","DSM 18390, JCM 14109, NRIC 0677, CIP 109568","Environment, Compost of distilled shochu residue###Compost of distilled shochu residue###composting material of distilled shochun residue",Japan,Asia,#Engineered,"#Food production",#Beverage
+6644,,,,,,#Engineered,"#Food production",#Fermented
+6644,,,,,,#Engineered,#Biodegradation,#Composting
+6644,,,,,,#Engineered,"#Food production",#Beverage
+6644,,,,,,#Engineered,"#Food production",#Fermented
+6644,,,,,,#Engineered,#Biodegradation,#Composting
+6644,,,,,,#Engineered,"#Food production",#Beverage
+6644,,,,,,#Engineered,"#Food production",#Fermented
+6644,,,,,,#Engineered,#Biodegradation,#Composting
+6686,"Lentilactobacillus rapi","DSM 19907, JCM 15042, NRIC 0743, YIT 11204, CIP 110029, NBRC 109618","Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)",Japan,Asia,#Engineered,"#Food production",#Fermented
+6686,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6686,,,,,,#Engineered,"#Food production",#Fermented
+6686,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6686,,,,,,#Engineered,"#Food production",#Fermented
+6686,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6687,"Lentilactobacillus sunkii","DSM 19904, JCM 15039, NRIC 0744, YIT 11161, CIP 110028","Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)",Japan,Asia,#Engineered,"#Food production",#Fermented
+6687,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6687,,,,,,#Engineered,"#Food production",#Fermented
+6687,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6687,,,,,,#Engineered,"#Food production",#Fermented
+6687,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6688,"Lentilactobacillus sunkii","DSM 19905, JCM 15046, YIT 11549","non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)",Japan,Asia,#Engineered,"#Food production",#Fermented
+6688,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+7361,"Leucobacter celer","DSM 26651, JCM 16465, KACC 14220, NAL 101","Gajami sikhae (jeotgal), a traditional Korean fermented seafood###gajami-sikhae, a traditional Korean fermented food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7361,,,,,,#Engineered,"#Food production",#Seafood
+7361,,,,,,#Engineered,"#Food production",#Fermented
+7361,,,,,,#Engineered,"#Food production",#Seafood
+132119,"Leucobacter salsicius","DSM 103340, JCM 16362, KACC 21127","Jeotgal (a Korean salt-fermented food containing tiny shrimps)###jeotgal, a Korean salt-fermented food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+132119,,,,,,#Engineered,"#Food production",#Seafood
+132119,,,,,,#Engineered,"#Food production",#Fermented
+132119,,,,,,#Engineered,"#Food production",#Seafood
+150455,"Leuconostoc citreum","CCUG 39979","Carrots,ecological fermentation",Sweden,Europe,#Engineered,"#Food production",#Fermented
+150455,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6836,"Leuconostoc fallax","DSM 20189, ATCC 700006, CCUG 30061, JCM 9694, CCM 4303, CECT 4701, CECT 7087, CGMCC 1.2438, CIP 104855, KCTC 3537, LMG 13177, LMG 18975, NCFB 2796, NCIMB 702796, NRIC 0210, VTT E-98973","Pickled cabbage (Sauerkraut)###sauerkraut",,,#Condition,#Saline,
+6836,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6836,,,,,,#Engineered,"#Food production",#Fermented
+6836,,,,,,#Condition,#Saline,
+6836,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6836,,,,,,#Engineered,"#Food production",#Fermented
+6836,,,,,,#Condition,#Saline,
+6836,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6836,,,,,,#Engineered,"#Food production",#Fermented
+6837,"Leuconostoc inhae","DSM 15101, KCTC 3774, JCM 17833, CECT 7026, CIP 108081, LMG 22919, NRIC 0562","Food, Kimchi, fermented vegetale food in Korea###From Kimchi(fermented vegetable food in Korea)###Kimchi###kimchi (fermented vegetable food in Korea)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+6837,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6837,,,,,,#Engineered,"#Food production",#Fermented
+6837,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6837,,,,,,#Engineered,"#Food production",#Fermented
+6837,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6837,,,,,,#Engineered,"#Food production",#Fermented
+6837,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+141962,"Leuconostoc lactis","CCUG 8883 B",Kefir,Sweden,Europe,#Engineered,"#Food production",#Beverage
+141962,,,,,,#Engineered,"#Food production",#Fermented
+141962,,,,,,#Engineered,"#Food production","#Dairy product"
+150485,"Leuconostoc mesenteroides","CCUG 41415","Cabbage,ecological,end of natural fermentation",Sweden,Europe,#Engineered,"#Food production",#Fermented
+150485,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+140557,"Leuconostoc mesenteroides subsp. jonggajibkimchii","JCM 31787, KCCM 43249, BCRC 81165","Kimchi###a commercial kimchi","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+140557,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+140557,,,,,,#Engineered,"#Food production",#Fermented
+140557,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6825,"Leuconostoc mesenteroides","DSM 20343, ATCC 8293, CCM 1803, NCDO 523, NCIB 8023, CCUG 30066, NRRL B-3470, JCM 6124, CIP 102305, IMET 10695, LMG 8205, NCIMB 8023","Food, Fermenting olives###Olives###fermenting olives",,,#Engineered,"#Food production",#Fermented
+6825,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6825,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6825,,,,,,#Engineered,"#Food production",#Fermented
+6825,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6825,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6825,,,,,,#Engineered,"#Food production",#Fermented
+6825,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6825,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6840,"Leuconostoc palmae","DSM 21144, LMG 24510, TMW 2.694, JCM 16944, CIP 110077","Food, Palm, wine###palm wine",Germany###Senegal,Europe###Africa,"#Host Body Product",#Plant,"#Plant sap (Flux)"
+6840,,,,,,#Host,#Plants,#Tree
+6840,,,,,,#Engineered,"#Food production",#Fermented
+6840,,,,,,#Engineered,"#Food production",#Beverage
+6840,,,,,,"#Host Body Product",#Plant,"#Plant sap (Flux)"
+6840,,,,,,#Host,#Plants,#Tree
+6840,,,,,,#Engineered,"#Food production",#Fermented
+6840,,,,,,#Engineered,"#Food production",#Beverage
+6840,,,,,,"#Host Body Product",#Plant,"#Plant sap (Flux)"
+6840,,,,,,#Host,#Plants,#Tree
+6840,,,,,,#Engineered,"#Food production",#Fermented
+6840,,,,,,#Engineered,"#Food production",#Beverage
+6651,"Levilactobacillus brevis","DSM 1268, NCIB 8561",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6651,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6651,,,,,,#Engineered,"#Food production",#Fermented
+6651,,,,,,#Engineered,"#Food production",#Beverage
+6654,"Levilactobacillus brevis","DSM 6235, CCM 7932, CIP 103474","Other, Spoilt beer###spoilt beer",,,#Engineered,"#Food production",#Beverage
+6654,,,,,,#Environmental,"#Microbial community",
+6654,,,,,,#Engineered,"#Food production",#Fermented
+6654,,,,,,#Engineered,"#Food production",#Beverage
+6654,,,,,,#Environmental,"#Microbial community",
+6654,,,,,,#Engineered,"#Food production",#Fermented
+6656,"Levilactobacillus brevis","CCUG 21531, DSM 20556, ATCC 8287, CCM 1815, IAM 1082, IFO 3345, NBRC 3345, NCDO 474, NCIB 8038, JCM 1559, BCRC 10361, BUCSAV 220, KCTC 3102, LMG 7761, NCIMB 8038, NCTC 13386, NRIC 1034","Green, fermenting Sevillano variety olives###green fermenting Sevillano variety olives",,,#Engineered,"#Food production",#Fermented
+6656,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6656,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6656,,,,,,#Engineered,"#Food production",#Fermented
+6656,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6656,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6656,,,,,,#Engineered,"#Food production",#Fermented
+6656,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6656,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+140403,"Levilactobacillus cerevisiae","DSM 100836, TUM BP 140423000-2250, CIP 111489, LMG 29073","Food, Spoiled beer sample###a contaminated bright beer tank sample from a German brewery###bright beer tank",Germany,Europe,#Engineered,"#Food production",#Beverage
+140403,,,,,,#Engineered,"#Food production",#Fermented
+140403,,,,,,#Engineered,#Contamination,
+140403,,,,,,#Engineered,"#Built environment","#Container (Reservoir)"
+140403,,,,,,#Engineered,"#Food production",#Beverage
+140403,,,,,,#Engineered,"#Food production",#Fermented
+140403,,,,,,#Engineered,#Contamination,
+140403,,,,,,#Engineered,"#Built environment","#Container (Reservoir)"
+140403,,,,,,#Engineered,"#Food production",#Beverage
+140403,,,,,,#Engineered,"#Food production",#Fermented
+140403,,,,,,#Engineered,#Contamination,
+140403,,,,,,#Engineered,"#Built environment","#Container (Reservoir)"
+24128,"Levilactobacillus koreensis","DSM 27983, JCM 16448, KCTC 13530, DCY 50, BCRC 81078","From cabbage kimchi(traditional Korean fermented food)###Kimchi###cabbage kimchi","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+24128,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24128,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24128,,,,,,#Engineered,"#Food production",#Fermented
+24128,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24128,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24128,,,,,,#Engineered,"#Food production",#Fermented
+24128,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24128,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6695,"Levilactobacillus paucivorans","DSM 22467, JCM 18045, LMG 25291, TMW 1.1424","Storage tank of a brewery###yeast storage tank containing lager beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+6695,,,,,,#Host,#Yeast,
+6695,,,,,,#Engineered,"#Food production",#Fermented
+6695,,,,,,#Engineered,"#Built environment","#Container (Reservoir)"
+6695,,,,,,#Engineered,"#Food production",#Beverage
+6695,,,,,,#Host,#Yeast,
+6695,,,,,,#Engineered,"#Food production",#Fermented
+6695,,,,,,#Engineered,"#Built environment","#Container (Reservoir)"
+6679,"Levilactobacillus senmaizukei","DSM 21775, NBRC 103853, TISTR 1847, CIP 109886","Japanese pickle###pickles",Japan,Asia,#Condition,#Saline,
+6679,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6679,,,,,,#Engineered,"#Food production",#Fermented
+6679,,,,,,#Condition,#Saline,
+6679,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6679,,,,,,#Engineered,"#Food production",#Fermented
+130365,"Levilactobacillus yonginensis","DSM 29216, JCM 18023, KACC 16236, BCRC 81079","Kimchi###Korean fermented food, Kimchi","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+130365,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+130365,,,,,,#Engineered,"#Food production",#Fermented
+130365,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6606,"Ligilactobacillus acidipiscis","CCUG 46556, CIP 106750, PCU 207, DSM 15836, HSCC 1411, JCM 10692, NRIC 0300, TISTR 1386, NBRC 102163","Fermented fish (pla-ra)###fermented fish",Thailand,Asia,#Engineered,"#Food production",#Fermented
+6606,,,,,,#Host,#Fishes,
+6606,,,,,,#Engineered,"#Food production",#Seafood
+6606,,,,,,#Engineered,"#Food production",#Fermented
+6606,,,,,,#Host,#Fishes,
+6606,,,,,,#Engineered,"#Food production",#Seafood
+6606,,,,,,#Engineered,"#Food production",#Fermented
+6606,,,,,,#Host,#Fishes,
+6606,,,,,,#Engineered,"#Food production",#Seafood
+24127,"Ligilactobacillus pobuzihii","DSM 28122, KCTC 13174, NBRC 103219, RIFY 6501, JCM 18084, CIP 110289","Food, Fermented cummingcordia, food###From pobuzih, fermented cummingcordia###fermented cummingcordia (pobuzihi)","Taiwan, Province of China",Asia,#Engineered,"#Food production",#Fermented
+24127,,,,,,#Engineered,"#Food production",#Food
+24127,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24127,,,,,,#Engineered,"#Food production",#Fermented
+24127,,,,,,#Engineered,"#Food production",#Food
+24127,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24127,,,,,,#Engineered,"#Food production",#Fermented
+24127,,,,,,#Engineered,"#Food production",#Food
+24127,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24127,,,,,,#Engineered,"#Food production",#Fermented
+24127,,,,,,#Engineered,"#Food production",#Food
+24127,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6575,"Limosilactobacillus panis","DSM 6035, JCM 11053, CCUG 37482, CIP 109875","Rye sourdough###sourdough",Germany,Europe,#Engineered,"#Food production",#Fermented
+6575,,,,,,#Engineered,"#Food production",#Fermented
+6575,,,,,,#Engineered,"#Food production",#Fermented
+6575,,,,,,#Engineered,"#Food production",#Fermented
+6669,"Limosilactobacillus secaliphilus","DSM 17896, CCUG 53218, TMW 1.1309, CIP 109557, JCM 15613","Type II sourdough fermentation###Rye sourdough###sour dough",Germany,Europe,#Engineered,"#Food production",#Fermented
+6669,,,,,,#Engineered,"#Food production",#Fermented
+6669,,,,,,#Engineered,"#Food production",#Fermented
+6669,,,,,,#Engineered,"#Food production",#Fermented
+6680,"Liquorilactobacillus capillatus","DSM 19910, BCRC 17811, JCM 15044, YIT 11306, LMG 29533, CIP 109977","Tofu brine, fermented###Stinky tofu brine###isolated from fermented brine used for stinky tofu production","Taiwan, Province of China",Asia,#Engineered,"#Food production",#Fermented
+6680,,,,,,#Condition,#Saline,
+6680,,,,,,#Engineered,"#Food production",#Food
+6680,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6680,,,,,,#Engineered,"#Food production",#Fermented
+6680,,,,,,#Condition,#Saline,
+6680,,,,,,#Engineered,"#Food production",#Food
+6680,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6680,,,,,,#Engineered,"#Food production",#Fermented
+6680,,,,,,#Condition,#Saline,
+6680,,,,,,#Engineered,"#Food production",#Food
+6680,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6672,"Liquorilactobacillus hordei","DSM 19519, CIP 109892, JCM 16179, LMG 24241","malted barley",Belgium,Europe,#Engineered,"#Food production",#Fermented
+6672,,,,,,#Engineered,"#Food production",#Beverage
+6672,,,,,,#Engineered,#Treatment,
+6672,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6672,,,,,,#Engineered,"#Food production",#Fermented
+6672,,,,,,#Engineered,"#Food production",#Beverage
+6672,,,,,,#Engineered,#Treatment,
+6672,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6672,,,,,,#Engineered,"#Food production",#Fermented
+6672,,,,,,#Engineered,"#Food production",#Beverage
+6672,,,,,,#Engineered,#Treatment,
+6672,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6673,"Liquorilactobacillus hordei","DSM 19520","malted barley",Belgium,Europe,#Engineered,"#Food production",#Fermented
+6673,,,,,,#Engineered,"#Food production",#Beverage
+6673,,,,,,#Engineered,#Treatment,
+6673,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6586,"Liquorilactobacillus nagelii","DSM 13675, ATCC 700692, CCUG 43575, JCM 12492, KCTC 21009, CIP 107647","Food, Partially fermented wine###Wines undergoing sluggish/stuck alcoholic fermentation###Commercial red wine###partially fermented wine","United States of America###USA","North America",#Engineered,"#Food production",#Beverage
+6586,,,,,,#Engineered,"#Food production",#Fermented
+6586,,,,,,#Engineered,"#Food production",#Beverage
+6586,,,,,,#Engineered,"#Food production",#Fermented
+6586,,,,,,#Engineered,"#Food production",#Beverage
+6586,,,,,,#Engineered,"#Food production",#Fermented
+6586,,,,,,#Engineered,"#Food production",#Beverage
+6586,,,,,,#Engineered,"#Food production",#Fermented
+6676,"Liquorilactobacillus oeni","DSM 19972, CECT 7334, JCM 18036, CIP 110039","Food, Bobal grape wines###Bobal wine",Spain,Europe,#Engineered,"#Food production",#Beverage
+6676,,,,,,#Engineered,"#Food production",#Fermented
+6676,,,,,,#Engineered,"#Food production",#Beverage
+6676,,,,,,#Engineered,"#Food production",#Fermented
+6676,,,,,,#Engineered,"#Food production",#Beverage
+6676,,,,,,#Engineered,"#Food production",#Fermented
+6621,"Liquorilactobacillus satsumensis","DSM 16230, NRIC 0604, CCUG 52399, JCM 12392, CIP 109882, NCIMB 14549","Food, Fermented rice###Mashes of shouchu (traditional Japanese distilled spirits)###shochu mash",Japan,Asia,#Engineered,"#Food production",#Beverage
+6621,,,,,,#Engineered,"#Food production",#Fermented
+6621,,,,,,#Engineered,"#Food production",#Beverage
+6621,,,,,,#Engineered,"#Food production",#Fermented
+6621,,,,,,#Engineered,"#Food production",#Beverage
+6621,,,,,,#Engineered,"#Food production",#Fermented
+6621,,,,,,#Engineered,"#Food production",#Beverage
+6621,,,,,,#Engineered,"#Food production",#Fermented
+6641,"Liquorilactobacillus vini","DSM 20605, CECT 5924, Mont 4, JCM 14280, CIP 109261","Grape must ferment at high temperature###Fermenting grape musts###grape must, fermenting at high temperature",,,#Engineered,"#Food production",#Beverage
+6641,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6641,,,,,,#Engineered,"#Food production",#Fermented
+6641,,,,,,#Engineered,"#Food production",#Beverage
+6641,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6641,,,,,,#Engineered,"#Food production",#Fermented
+6641,,,,,,#Engineered,"#Food production",#Beverage
+6641,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6641,,,,,,#Engineered,"#Food production",#Fermented
+6642,"Loigolactobacillus backii","DSM 18080, JCM 18665, LMG 23555","Lagar beer###spoiled lager beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+6642,,,,,,#Environmental,"#Microbial community",
+6642,,,,,,#Engineered,"#Food production",#Fermented
+6642,,,,,,#Engineered,"#Food production",#Beverage
+6642,,,,,,#Environmental,"#Microbial community",
+6642,,,,,,#Engineered,"#Food production",#Fermented
+12622,"Luteococcus japonicus","CCUG 38729, DSM 10547, ATCC 51527, CCM 2142, CIP 104066, IFO 15385, NBRC 15385, OUT 8100","Environment, Brewing water###Brewing water 'Miyamizu'###water for brewing sake ""Miyamizu""",Japan,Asia,#Engineered,"#Food production",#Beverage
+12622,,,,,,#Environmental,#Aquatic,
+12622,,,,,,#Engineered,"#Food production",#Fermented
+12622,,,,,,#Engineered,"#Food production",#Beverage
+12622,,,,,,#Environmental,#Aquatic,
+12622,,,,,,#Engineered,"#Food production",#Fermented
+12622,,,,,,#Engineered,"#Food production",#Beverage
+12622,,,,,,#Environmental,#Aquatic,
+12622,,,,,,#Engineered,"#Food production",#Fermented
+487,"Marinobacter vinifirmus","DSM 17747, CCUG 52119, CIP 109495","Environment, Wine wastewater of evaporation pond###Wine wastewater of evaporation pond###wine wastewater of evaposation pond after decalcification of the tanks",France,Europe,#Engineered,"#Food production",#Beverage
+487,,,,,,#Environmental,#Aquatic,"#Pond (small)"
+487,,,,,,#Engineered,#Waste,#Wastewater
+487,,,,,,#Engineered,"#Food production",#Fermented
+487,,,,,,#Engineered,"#Food production",#Beverage
+487,,,,,,#Environmental,#Aquatic,"#Pond (small)"
+487,,,,,,#Engineered,#Waste,#Wastewater
+487,,,,,,#Engineered,"#Food production",#Fermented
+487,,,,,,#Engineered,"#Food production",#Beverage
+487,,,,,,#Environmental,#Aquatic,"#Pond (small)"
+487,,,,,,#Engineered,#Waste,#Wastewater
+487,,,,,,#Engineered,"#Food production",#Fermented
+11279,"Marinospirillum insulare","DSM 21763, LMG 21802, NBRC 100033","fermented fish brine (kusaya gravy)",Japan,Asia,#Engineered,"#Food production",#Fermented
+11279,,,,,,#Condition,#Saline,
+11279,,,,,,#Host,#Fishes,
+11279,,,,,,#Engineered,"#Food production",#Seafood
+17128,"Megasphaera cerevisiae","DSM 20461, ATCC 43236, JCM 6129","Spoiled beer###spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17128,,,,,,#Environmental,"#Microbial community",
+17128,,,,,,#Engineered,"#Food production",#Fermented
+17128,,,,,,#Engineered,"#Food production",#Beverage
+17128,,,,,,#Environmental,"#Microbial community",
+17128,,,,,,#Engineered,"#Food production",#Fermented
+17129,"Megasphaera cerevisiae","DSM 20462, ATCC 43254, PAT 1, JCM 6130, VTT E-79111","Spoiled beer###spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17129,,,,,,#Environmental,"#Microbial community",
+17129,,,,,,#Engineered,"#Food production",#Fermented
+17129,,,,,,#Engineered,"#Food production",#Beverage
+17129,,,,,,#Environmental,"#Microbial community",
+17129,,,,,,#Engineered,"#Food production",#Fermented
+17131,"Megasphaera paucivorans","DSM 16981, VTT E-032341","spoiled Italian beer",Italy,Europe,#Engineered,"#Food production",#Beverage
+17131,,,,,,#Environmental,"#Microbial community",
+17131,,,,,,#Engineered,"#Food production",#Fermented
+17132,"Megasphaera sueciensis","DSM 17042, VTT E-97791","spoiled Swedish beer",Sweden,Europe,#Engineered,"#Food production",#Beverage
+17132,,,,,,#Environmental,"#Microbial community",
+17132,,,,,,#Engineered,"#Food production",#Fermented
+1250,"Mesobacillus jeotgali","DSM 18226, CIP 107104, JCM 10885, KCCM 41040, BCRC 20126, CCM 7133, CGMCC 1.3651, KCTC 3839","Food, Korean traditonal fermented food###jeotgal, Korean traditional fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+1250,,,,,,#Engineered,"#Food production",#Seafood
+1250,,,,,,#Engineered,"#Food production",#Fermented
+1250,,,,,,#Engineered,"#Food production",#Seafood
+1250,,,,,,#Engineered,"#Food production",#Fermented
+1250,,,,,,#Engineered,"#Food production",#Seafood
+1223,"Metabacillus indicus","DSM 16189, KCTC 3880, BCRC 80033, CIP 108730","Food, Jeotgal, a traditional Korean fermented seafood###From Jeotgal, a traditional Korean fermented seafood###jeotgal, a traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+1223,,,,,,#Engineered,"#Food production",#Seafood
+1223,,,,,,#Engineered,"#Food production",#Fermented
+1223,,,,,,#Engineered,"#Food production",#Seafood
+1223,,,,,,#Engineered,"#Food production",#Fermented
+1223,,,,,,#Engineered,"#Food production",#Seafood
+7395,"Microbacterium aurum","DSM 8600, ATCC 51345, IFO 15204, NBRC 15204, NRRL B-24210, CCUG 43279, CCM 4522, CIP 103994, JCM 9179, IAM 15207, KACC 15219, VKM Ac-1950, VKM Ac-2076","corn steep liquor",Japan,Asia,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+7395,,,,,,#Engineered,"#Food production",#Fermented
+7395,,,,,,#Engineered,"#Food production",#Beverage
+7395,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+7395,,,,,,#Engineered,"#Food production",#Fermented
+7395,,,,,,#Engineered,"#Food production",#Beverage
+7395,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+7395,,,,,,#Engineered,"#Food production",#Fermented
+7395,,,,,,#Engineered,"#Food production",#Beverage
+7395,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+7395,,,,,,#Engineered,"#Food production",#Fermented
+7395,,,,,,#Engineered,"#Food production",#Beverage
+7456,"Microbacterium mitrae","DSM 24780, JCM 16363, KACC 21129, NBRC 109971","salted turban shell (traditional fermented seafood)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7456,,,,,,#Condition,#Saline,
+7456,,,,,,#Host,"#Invertebrates (Other)",#Mollusca
+7456,,,,,,#Engineered,"#Food production",#Seafood
+7456,,,,,,#Engineered,"#Food production",#Fermented
+7456,,,,,,#Condition,#Saline,
+7456,,,,,,#Host,"#Invertebrates (Other)",#Mollusca
+7456,,,,,,#Engineered,"#Food production",#Seafood
+5967,"Natronococcus jeotgali","DSM 18795, CECT 7216, JCM 14583, KCTC 4018, CGMCC 1.7070, NBRC 110680","From jeotgal###Shrimp jeotgal, traditional Korean fermented seafood###salted shrimp jeotgal (traditional fermented food in Korea)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+5967,,,,,,#Condition,#Saline,
+5967,,,,,,#Host,#Arthropoda,#Crustacea
+5967,,,,,,#Engineered,"#Food production",#Seafood
+5967,,,,,,#Engineered,"#Food production",#Fermented
+5967,,,,,,#Condition,#Saline,
+5967,,,,,,#Host,#Arthropoda,#Crustacea
+5967,,,,,,#Engineered,"#Food production",#Seafood
+5967,,,,,,#Engineered,"#Food production",#Fermented
+5967,,,,,,#Condition,#Saline,
+5967,,,,,,#Host,#Arthropoda,#Crustacea
+5967,,,,,,#Engineered,"#Food production",#Seafood
+7769,"Nesterenkonia jeotgali","DSM 19081, JCM 12610, KCTC 19053, CIP 109490, NCIMB 14784","Food, Jeotgal, traditional Korean fermented seafood###From Jeotgal###Jeotgal, Korean traditional fermented seafood###jeotgal, Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7769,,,,,,#Engineered,"#Food production",#Seafood
+7769,,,,,,#Engineered,"#Food production",#Fermented
+7769,,,,,,#Engineered,"#Food production",#Seafood
+7769,,,,,,#Engineered,"#Food production",#Fermented
+7769,,,,,,#Engineered,"#Food production",#Seafood
+7769,,,,,,#Engineered,"#Food production",#Fermented
+7769,,,,,,#Engineered,"#Food production",#Seafood
+23737,"Oceanobacillus indicireducens","DSM 28042, JCM 17251, NCIMB 14685, BCRC 80660","Fermented Polygonum indigo (<I>Polygonum tinctorium</I> Lour.) liquor sample aged for 4 days prepared in a laboratory###fermented Polygonum indigo ( <i>Polygonum tinctorium</i> Lour.) liquor sample aged for 4 days prepared in a laboratory",Japan,Asia,#Engineered,"#Food production",#Beverage
+23737,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+23737,,,,,,#Engineered,#Laboratory,
+23737,,,,,,#Engineered,"#Food production",#Fermented
+23737,,,,,,#Engineered,"#Food production",#Beverage
+23737,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+23737,,,,,,#Engineered,#Laboratory,
+23737,,,,,,#Engineered,"#Food production",#Fermented
+1378,"Oceanobacillus kapialis","DSM 23158, KCTC 13177, PCU 300, TISTR 1858","From Shrimp paste (ka-pi)###fermented shrimp paste (ka-pi)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+1378,,,,,,#Engineered,"#Food production",#Seafood
+1378,,,,,,#Engineered,"#Food production",#Fermented
+1378,,,,,,#Engineered,"#Food production",#Seafood
+1378,,,,,,#Engineered,"#Food production",#Fermented
+1378,,,,,,#Engineered,"#Food production",#Seafood
+132897,"Oceanobacillus kimchii","DSM 23341, JCM 16803, KACC 14914, BCRC 80659","mustard Kimchi, a traditional Korean fermented food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+132897,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+132897,,,,,,#Engineered,"#Food production",#Fermented
+132897,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6810,"Oenococcus oeni","DSM 20252, ATCC 23279, NCDO 1674, JCM 6125, BCRC 14062, CCUG 30067, CCUG 30199, CCUG 32250, CECT 217, CIP 106144, KCTC 3072, LMG 9851, NBRC 100497, NCIMB 11648, NRIC 1543, NRRL B-3472, VTT E-97832","Food, Wine###wine",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6810,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6810,,,,,,#Engineered,"#Food production",#Fermented
+6810,,,,,,#Engineered,"#Food production",#Beverage
+6810,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6810,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6810,,,,,,#Engineered,"#Food production",#Fermented
+6810,,,,,,#Engineered,"#Food production",#Beverage
+6810,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6810,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6810,,,,,,#Engineered,"#Food production",#Fermented
+6810,,,,,,#Engineered,"#Food production",#Beverage
+6811,"Oenococcus oeni","DSM 20255, NCDO 1709",wine,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6811,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6811,,,,,,#Engineered,"#Food production",#Fermented
+6811,,,,,,#Engineered,"#Food production",#Beverage
+6812,"Oenococcus oeni","DSM 20257, NCDO 1696",wine,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6812,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+6812,,,,,,#Engineered,"#Food production",#Fermented
+6812,,,,,,#Engineered,"#Food production",#Beverage
+159691,"Oenococcus sicerae","DSM 107163, CIRM-BIA 2288, JCM 33895, UCMA 15228, CIRM BIA2288","Fermented apple juices (ciders)###Apple juice in fermentation (cider)",France,Europe,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+159691,,,,,,#Engineered,"#Food production",#Fermented
+159691,,,,,,#Engineered,"#Food production",#Beverage
+159691,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+159691,,,,,,#Engineered,"#Food production",#Fermented
+159691,,,,,,#Engineered,"#Food production",#Beverage
+140618,"Paenibacillus aceti","CGMCC 1.15420, JCM 31170","Traditional acetic acid fermentation culture of Chinese cereal vinegars###from traditional acetic acid fermentation culture of cereal vinegars",China,Asia,#Engineered,"#Food production",#Beverage
+140618,,,,,,#Engineered,"#Food production",#Fermented
+140618,,,,,,#Engineered,#Bioreactor,
+140618,,,,,,#Condition,#Acidic,
+140618,,,,,,#Engineered,"#Food production",#Beverage
+140618,,,,,,#Engineered,"#Food production",#Fermented
+140618,,,,,,#Engineered,#Bioreactor,
+140618,,,,,,#Condition,#Acidic,
+6599,"Paucilactobacillus vaccinostercus","DSM 15802, CCUG 45405, CIP 107501, LMG 19193, JCM 12184",tempoyak,Malaysia,Asia,#Engineered,"#Food production",#Fermented
+6599,,,,,,#Engineered,"#Food production",#Food
+6599,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6599,,,,,,#Engineered,"#Food production",#Fermented
+6599,,,,,,#Engineered,"#Food production",#Food
+6599,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6599,,,,,,#Engineered,"#Food production",#Fermented
+6599,,,,,,#Engineered,"#Food production",#Food
+6599,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+17136,"Pectinatus cerevisiiphilus","DSM 20466","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17136,,,,,,#Environmental,"#Microbial community",
+17136,,,,,,#Engineered,"#Food production",#Fermented
+17137,"Pectinatus cerevisiiphilus","DSM 20467, ATCC 29359, CCC B-1022",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+17137,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+17137,,,,,,#Engineered,"#Food production",#Fermented
+17137,,,,,,#Engineered,"#Food production",#Beverage
+17138,"Pectinatus cerevisiiphilus","DSM 20762","spoilt beer",,,#Engineered,"#Food production",#Beverage
+17138,,,,,,#Environmental,"#Microbial community",
+17138,,,,,,#Engineered,"#Food production",#Fermented
+17139,"Pectinatus cerevisiiphilus","DSM 20763","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17139,,,,,,#Environmental,"#Microbial community",
+17139,,,,,,#Engineered,"#Food production",#Fermented
+17141,"Pectinatus frisingensis","DSM 6306, ATCC 33332, CCM 6217, VTT E-79100, CCUG 43283","turbid beer",Finland,Europe,#Engineered,"#Food production",#Beverage
+17141,,,,,,#Engineered,"#Food production",#Fermented
+17141,,,,,,#Engineered,"#Food production",#Beverage
+17141,,,,,,#Engineered,"#Food production",#Fermented
+17142,"Pectinatus frisingensis","DSM 20465","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17142,,,,,,#Environmental,"#Microbial community",
+17142,,,,,,#Engineered,"#Food production",#Fermented
+17143,"Pectinatus frisingensis","DSM 20759, MU 2","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17143,,,,,,#Environmental,"#Microbial community",
+17143,,,,,,#Engineered,"#Food production",#Fermented
+17144,"Pectinatus frisingensis","DSM 20760","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17144,,,,,,#Environmental,"#Microbial community",
+17144,,,,,,#Engineered,"#Food production",#Fermented
+17145,"Pectinatus frisingensis","DSM 20761","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17145,,,,,,#Environmental,"#Microbial community",
+17145,,,,,,#Engineered,"#Food production",#Fermented
+17146,"Pectinatus haikarae","DSM 16980, VTT E-88329","air, bottling hall in a brewery",Finland,Europe,#Engineered,"#Food production",#Beverage
+17146,,,,,,#Environmental,#Air,"#Indoor Air"
+17146,,,,,,#Engineered,"#Food production",#Fermented
+17140,"Pectinatus sp.","DSM 20764","spoilt beer",Germany,Europe,#Engineered,"#Food production",#Beverage
+17140,,,,,,#Environmental,"#Microbial community",
+17140,,,,,,#Engineered,"#Food production",#Fermented
+6396,"Pediococcus cellicola","DSM 17757, AS 1.3787, LMG 22956, JCM 14152, CGMCC 1.3787, KCTC 13055, NBRC 106103, CIP 108990","Distilled spirit fermenting cellar###Distilled-spirit-fermenting cellar###distilled pirit-fermenting cellar",China,Asia,#Engineered,"#Food production",#Beverage
+6396,,,,,,#Engineered,"#Food production",#Fermented
+6396,,,,,,#Engineered,"#Food production",#Beverage
+6396,,,,,,#Engineered,"#Food production",#Fermented
+6396,,,,,,#Engineered,"#Food production",#Beverage
+6396,,,,,,#Engineered,"#Food production",#Fermented
+6395,"Pediococcus claussenii","DSM 14800, ATCC BAA-344, JCM 18046, KCTC 3811, BCRC 17600, CECT 7027, LMG 21948, VTT E-032355","Beer###From spoiled beer###spoiled beer",Canada,"North America",#Engineered,"#Food production",#Beverage
+6395,,,,,,#Environmental,"#Microbial community",
+6395,,,,,,#Engineered,"#Food production",#Fermented
+6395,,,,,,#Engineered,"#Food production",#Beverage
+6395,,,,,,#Environmental,"#Microbial community",
+6395,,,,,,#Engineered,"#Food production",#Fermented
+6395,,,,,,#Engineered,"#Food production",#Beverage
+6395,,,,,,#Environmental,"#Microbial community",
+6395,,,,,,#Engineered,"#Food production",#Fermented
+6382,"Pediococcus damnosus","DSM 20289",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6382,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6382,,,,,,#Engineered,"#Food production",#Fermented
+6382,,,,,,#Engineered,"#Food production",#Beverage
+6383,"Pediococcus damnosus","DSM 20291",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6383,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6383,,,,,,#Engineered,"#Food production",#Fermented
+6383,,,,,,#Engineered,"#Food production",#Beverage
+150692,"Pediococcus damnosus","CCUG 41974, ATCC 43013, LMG 16740",Wine,Australia,"Australia and Oceania","#Host Body-Site",#Plant,"#Fruit (Seed)"
+150692,,,,,,#Host,#Plants,"#Shrub (Scrub)"
+150692,,,,,,#Engineered,"#Food production",#Fermented
+150692,,,,,,#Engineered,"#Food production",#Beverage
+6386,"Pediococcus inopinatus","DSM 20287, CCUG 43284, CCM 3452, LMG 11410",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6386,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6386,,,,,,#Engineered,"#Food production",#Fermented
+6386,,,,,,#Engineered,"#Food production",#Beverage
+6386,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6386,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6386,,,,,,#Engineered,"#Food production",#Fermented
+6386,,,,,,#Engineered,"#Food production",#Beverage
+6392,"Pediococcus pentosaceus","DSM 20333, ATCC 33314, IFO 3884, NBRC 3884, NCDO 1859, JCM 5885, BCRC 14053, CGMCC 1.2441, KCTC 3116, LMG 11385, NCIMB 12009, VKM B-2206, VTT E-88312, CIP 102261","Food, Sake mash###sake mash",,,#Engineered,"#Food production",#Beverage
+6392,,,,,,#Engineered,"#Food production",#Fermented
+6392,,,,,,#Engineered,"#Food production",#Beverage
+6392,,,,,,#Engineered,"#Food production",#Fermented
+6392,,,,,,#Engineered,"#Food production",#Beverage
+6392,,,,,,#Engineered,"#Food production",#Fermented
+1544,"Piscibacillus salipiscarius","DSM 21622, JCM 13188, PCU 270, TISTR 1571, CIP 109653","Animal, Fish, fermented###Fermented fish (pla-ra) in Thailand###fermented fish (pla-ra)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+1544,,,,,,#Host,#Fishes,
+1544,,,,,,#Engineered,"#Food production",#Seafood
+1544,,,,,,#Engineered,"#Food production",#Fermented
+1544,,,,,,#Host,#Fishes,
+1544,,,,,,#Engineered,"#Food production",#Seafood
+1544,,,,,,#Engineered,"#Food production",#Fermented
+1544,,,,,,#Host,#Fishes,
+1544,,,,,,#Engineered,"#Food production",#Seafood
+23827,"Pisciglobus halotolerans","DSM 27630, KCTC 13150, PCU 316, TISTR 1958","From fish sauce###fermented fish sauce",Thailand,Asia,#Engineered,"#Food production",#Fermented
+23827,,,,,,#Host,#Fishes,
+23827,,,,,,#Engineered,"#Food production",#Seafood
+23827,,,,,,#Engineered,"#Food production",#Fermented
+23827,,,,,,#Host,#Fishes,
+23827,,,,,,#Engineered,"#Food production",#Seafood
+11971,"Planococcus koreensis","DSM 15895, CIP 107134, JCM 10704, KCTC 3684, CGMCC 1.3646, KCTC 3684.","Food, Jeotgal, korean traditional fermented seafood###From Jeotgal, Korean traditional fermented seafood###Jeotgal, Korean traditional fermented seafood###jeotgal (korean traditional fermented seafood)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+11971,,,,,,#Engineered,"#Food production",#Seafood
+11971,,,,,,#Engineered,"#Food production",#Fermented
+11971,,,,,,#Engineered,"#Food production",#Seafood
+11971,,,,,,#Engineered,"#Food production",#Fermented
+11971,,,,,,#Engineered,"#Food production",#Seafood
+11971,,,,,,#Engineered,"#Food production",#Fermented
+11971,,,,,,#Engineered,"#Food production",#Seafood
+133209,"Polygonibacillus indicireducens","JCM 30831, NCIMB 14982","Fermented <I>Polygonum</I> indigo (<I>Polygonum tinctorium</I> Lour.) liquor sample from a craft centre###Polygonum indigo (Polygonum tinctorium
+Lour.) fermentation liquor for dyeing obtained from a craft center",Japan,Asia,#Engineered,"#Food production",#Beverage
+133209,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+133209,,,,,,#Engineered,"#Food production",#Fermented
+133209,,,,,,#Engineered,"#Food production",#Beverage
+133209,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+133209,,,,,,#Engineered,"#Food production",#Fermented
+132975,"Proteus terrae subsp. cibarius","DSM 100173, JCM 30699, KACC 18404","Korean fermented seafood, Jeotgal###Jeotgal (Korean traditional fermented seafood)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+132975,,,,,,#Engineered,"#Food production",#Seafood
+132975,,,,,,#Engineered,"#Food production",#Fermented
+132975,,,,,,#Engineered,"#Food production",#Seafood
+132975,,,,,,#Engineered,"#Food production",#Fermented
+132975,,,,,,#Engineered,"#Food production",#Seafood
+8189,"Psychrobacter alimentarius","DSM 16065, KCTC 12186, JCM 12315, CIP 110989","Food, Squid jeotgal, traditional Korean fermented seafood###From squid jeotgal###Squid jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+8189,,,,,,#Engineered,"#Food production",#Seafood
+8189,,,,,,#Engineered,"#Food production",#Fermented
+8189,,,,,,#Engineered,"#Food production",#Seafood
+8189,,,,,,#Engineered,"#Food production",#Fermented
+8189,,,,,,#Engineered,"#Food production",#Seafood
+8189,,,,,,#Engineered,"#Food production",#Fermented
+8189,,,,,,#Engineered,"#Food production",#Seafood
+8190,"Psychrobacter alimentarius","DSM 16066, JCM 12316, KCTC 12187","Squid jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+8190,,,,,,#Engineered,"#Food production",#Seafood
+8190,,,,,,#Engineered,"#Food production",#Fermented
+8190,,,,,,#Engineered,"#Food production",#Seafood
+8194,"Psychrobacter cibarius","DSM 16327, KCTC 12256, CIP 108733","Food, Jeotgal, a traditional Korean fermented seafood###From Jeotgal, a traditional Korean fermented seafood###jeotgal, a traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+8194,,,,,,#Engineered,"#Food production",#Seafood
+8194,,,,,,#Engineered,"#Food production",#Fermented
+8194,,,,,,#Engineered,"#Food production",#Seafood
+8194,,,,,,#Engineered,"#Food production",#Fermented
+8194,,,,,,#Engineered,"#Food production",#Seafood
+8195,"Psychrobacter cibarius","DSM 16328","jeotgal, a traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+8195,,,,,,#Engineered,"#Food production",#Seafood
+8206,"Psychrobacter jeotgali","DSM 23423, CIP 107956, JCM 11463, KCCM 41559, KCTC 22762, NCIMB 14247","Food, Jeotgal, korean traditional fermented seafood###Jeotgal, traditional Korean fermented seafood###Jeotgal (traditional Korean fermented seafood)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+8206,,,,,,#Engineered,"#Food production",#Seafood
+8206,,,,,,#Engineered,"#Food production",#Fermented
+8206,,,,,,#Engineered,"#Food production",#Seafood
+8206,,,,,,#Engineered,"#Food production",#Fermented
+8206,,,,,,#Engineered,"#Food production",#Seafood
+13528,"Rarobacter faecitabidus","DSM 4811, JCM 6099","Discharged water from an alcoholic beverage factory###discharged water from alcoholic beverage factory",Japan,Asia,#Engineered,"#Food production",#Beverage
+13528,,,,,,#Engineered,#Waste,#Wastewater
+13528,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+13528,,,,,,#Engineered,"#Food production",#Fermented
+13528,,,,,,#Engineered,"#Food production",#Beverage
+13528,,,,,,#Engineered,#Waste,#Wastewater
+13528,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+13528,,,,,,#Engineered,"#Food production",#Fermented
+7664,"Rothia koreensis","DSM 23367, JCM 15915, KCTC 19595, CIP 110210","Food, Jeotgal, Korean traditional fermented seafood###From Jeotgal, fermented shellfisg###Jeotgal, Korean traditional fermented seafood###Korean traditional fermented seafood (jeotgal)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+7664,,,,,,#Engineered,"#Food production",#Seafood
+7664,,,,,,#Engineered,"#Food production",#Fermented
+7664,,,,,,#Engineered,"#Food production",#Seafood
+7664,,,,,,#Engineered,"#Food production",#Fermented
+7664,,,,,,#Engineered,"#Food production",#Seafood
+7664,,,,,,#Engineered,"#Food production",#Fermented
+7664,,,,,,#Engineered,"#Food production",#Seafood
+140081,"Salimicrobium jeotgali","DSM 105371, JCM 19758, KACC 16972","Jeotgal, Korean salted and fermented seafood (anchovy jeotgal)###fermented anchovy (myeolchi-jeot)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+140081,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+140081,,,,,,#Engineered,"#Food production",#Fermented
+140081,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+14438,"Salinicoccus carnicancri","DSM 23852, JCM 15796, KCTC 13301","From Korean traditional fermented seafood###Crabs preserved in soy sauce, traditional Korean fermented seafood###traditional Korean fermented seafood (crabs)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+14438,,,,,,#Engineered,"#Food production",#Seafood
+14438,,,,,,#Engineered,"#Food production",#Fermented
+14438,,,,,,#Engineered,"#Food production",#Seafood
+14438,,,,,,#Engineered,"#Food production",#Fermented
+14438,,,,,,#Engineered,"#Food production",#Seafood
+14430,"Salinicoccus jeotgali","DSM 22324, KCTC 13030, LMG 23640, JCM 16981","From jeotgal, traditional Korean fermented seafood###Jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood (jeotgal)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+14430,,,,,,#Engineered,"#Food production",#Seafood
+14430,,,,,,#Engineered,"#Food production",#Fermented
+14430,,,,,,#Engineered,"#Food production",#Seafood
+14430,,,,,,#Engineered,"#Food production",#Fermented
+14430,,,,,,#Engineered,"#Food production",#Seafood
+14432,"Salinicoccus siamensis","DSM 21576, JCM 12822, PCU 242, TISTR 1562, CIP 109726","Fermented shrimp paste###Fermented shrimp paste (ka-pi) produced###Fermented shrimp paste (ka-pi) produced in Thailand",Thailand,Asia,#Engineered,"#Food production",#Fermented
+14432,,,,,,#Engineered,"#Food production",#Seafood
+14432,,,,,,#Engineered,"#Food production",#Fermented
+14432,,,,,,#Engineered,"#Food production",#Seafood
+14432,,,,,,#Engineered,"#Food production",#Fermented
+14432,,,,,,#Engineered,"#Food production",#Seafood
+17246,"Salinivibrio siamensis","DSM 26187, JCM 14472, PCU 301, TISTR 1810","Fermented fish (<I>pla-ra</I>) in Thailand###fermented fish (pla-ra)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+17246,,,,,,#Host,#Fishes,
+17246,,,,,,#Engineered,"#Food production",#Seafood
+17246,,,,,,#Engineered,"#Food production",#Fermented
+17246,,,,,,#Host,#Fishes,
+17246,,,,,,#Engineered,"#Food production",#Seafood
+6637,"Schleiferilactobacillus harbinensis","DSM 16991, CIP 109152, JCM 16178, CCUG 54937, AHU 1762, SBT 10908, LMG 24040, NBRC 100982","Food, Traditional fermented vegetables Suan cai###Traditional fermented vegetables 'Suan cai'###Fermented vegetables 'Suan cai'###chinese traditional fermented vegetable Suan cai",China,Asia,#Engineered,"#Food production",#Fermented
+6637,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6637,,,,,,#Engineered,"#Food production",#Fermented
+6637,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6637,,,,,,#Engineered,"#Food production",#Fermented
+6637,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6637,,,,,,#Engineered,"#Food production",#Fermented
+6637,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24131,"Schleiferilactobacillus shenzhenensis","DSM 28193, CCTCC M 2011481, KACC 16878","fermented beverage",China,Asia,#Engineered,"#Food production",#Beverage
+24131,,,,,,#Engineered,"#Food production",#Fermented
+133011,"Scopulibacillus daqui","DSM 28236, CICC 10824","high temperature daqu (saccharifying and fermenting agent) of sesame-flavour liquor",China,Asia,#Engineered,"#Food production",#Beverage
+133011,,,,,,#Condition,"#Thermophilic (>45°C)",
+133011,,,,,,#Engineered,"#Food production",#Fermented
+133011,,,,,,#Engineered,"#Food production",#Beverage
+133011,,,,,,#Condition,"#Thermophilic (>45°C)",
+133011,,,,,,#Engineered,"#Food production",#Fermented
+6537,"Secundilactobacillus malefermentans","CCUG 32206, LMG 11455, CIP 103367, DSM 5705, ATCC 49373, NCDO 1410, JCM 12497, CECT 5928, IFO 15905, KCTC 3548, NBRC 15905, NCIMB 701410, NRIC 1779","Other, Beer###beer",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6537,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6537,,,,,,#Engineered,"#Food production",#Fermented
+6537,,,,,,#Engineered,"#Food production",#Beverage
+6537,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6537,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6537,,,,,,#Engineered,"#Food production",#Fermented
+6537,,,,,,#Engineered,"#Food production",#Beverage
+6537,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6537,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6537,,,,,,#Engineered,"#Food production",#Fermented
+6537,,,,,,#Engineered,"#Food production",#Beverage
+6537,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6537,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6537,,,,,,#Engineered,"#Food production",#Fermented
+6537,,,,,,#Engineered,"#Food production",#Beverage
+6538,"Secundilactobacillus malefermentans","DSM 20177, ATCC 11305, NCDO 2344, NCIB 8516, JCM 1189, CIP 103170, LMG 11416, NCFB 2344, NCIMB 8516","Food, Beer###beer",,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6538,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6538,,,,,,#Engineered,"#Food production",#Fermented
+6538,,,,,,#Engineered,"#Food production",#Beverage
+6538,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6538,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6538,,,,,,#Engineered,"#Food production",#Fermented
+6538,,,,,,#Engineered,"#Food production",#Beverage
+6538,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6538,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6538,,,,,,#Engineered,"#Food production",#Fermented
+6538,,,,,,#Engineered,"#Food production",#Beverage
+6539,"Secundilactobacillus malefermentans","DSM 20570, ATCC 11306, NCIB 8517",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6539,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6539,,,,,,#Engineered,"#Food production",#Fermented
+6539,,,,,,#Engineered,"#Food production",#Beverage
+24133,"Secundilactobacillus oryzae","DSM 26518, JCM 18671, KCTC 21047, SG 293, CIP 110586","Fermented rice grain, Oryza sativa Lactobacillus japonica###From fermented rice grains###Fermented rice grain (<I>Oryza sativa</I> L. subsp. <I>japonica</I>)###fermented rice grains",Japan,Asia,#Engineered,"#Food production",#Fermented
+24133,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24133,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24133,,,,,,#Engineered,"#Food production",#Fermented
+24133,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24133,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24133,,,,,,#Engineered,"#Food production",#Fermented
+24133,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24133,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+24133,,,,,,#Engineered,"#Food production",#Fermented
+24133,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+24133,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6597,"Secundilactobacillus paracollinoides","DSM 20197, ATCC 8291, NCIB 11719, NCTC 4955, JCM 1113, LMG 11990, NCFB 454, NCIMB 11719",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6597,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6597,,,,,,#Engineered,"#Food production",#Fermented
+6597,,,,,,#Engineered,"#Food production",#Beverage
+6597,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+6597,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+6597,,,,,,#Engineered,"#Food production",#Fermented
+6597,,,,,,#Engineered,"#Food production",#Beverage
+17188,"Sporomusa acidovorans","DSM 3132, ATCC 49682","effluent from alcohol-distillery plant",France,Europe,#Engineered,"#Food production",#Beverage
+17188,,,,,,#Engineered,#Waste,"#Industrial wastewater"
+17188,,,,,,#Engineered,#Industrial,"#Plant (Factory)"
+17188,,,,,,#Engineered,"#Food production",#Fermented
+14634,"Staphylococcus carnosus","DSM 11676, JCM 6067, CCUG 39903, CIP 105758, NCIMB 13560, NCTC 13826","Food, Fermenting fish and shrimp sauces###Pla-chom (fermented small fish)###fermented fish sauce (Pla-chom)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+14634,,,,,,#Host,#Fishes,
+14634,,,,,,#Engineered,"#Food production",#Seafood
+14634,,,,,,#Engineered,"#Food production",#Fermented
+14634,,,,,,#Host,#Fishes,
+14634,,,,,,#Engineered,"#Food production",#Seafood
+14634,,,,,,#Engineered,"#Food production",#Fermented
+14634,,,,,,#Host,#Fishes,
+14634,,,,,,#Engineered,"#Food production",#Seafood
+14635,"Staphylococcus carnosus","DSM 11677, JCM 6065, CIP 105759","Food, Fermenting fish and shrimp sauces###Pla-chom (fermented small fish)###fermented fish sauce (Pla-chom)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+14635,,,,,,#Host,#Fishes,
+14635,,,,,,#Engineered,"#Food production",#Seafood
+14635,,,,,,#Engineered,"#Food production",#Fermented
+14635,,,,,,#Host,#Fishes,
+14635,,,,,,#Engineered,"#Food production",#Seafood
+14635,,,,,,#Engineered,"#Food production",#Fermented
+14635,,,,,,#Host,#Fishes,
+14635,,,,,,#Engineered,"#Food production",#Seafood
+14606,"Staphylococcus piscifermentans","CCUG 35133, TISTR 824, NRIC 1817, DSM 7373, ATCC 51136, JCM 6057, NCIMB 13277, CCM 4345, CIP 103958, LMG 22178, NBRC 109625, NCTC 13836","Fermented shrimp###Shrimp,fermented (Kung-chom)###Kung-chom (fermented shrimp)",Thailand,Asia,#Engineered,"#Food production",#Fermented
+14606,,,,,,#Engineered,"#Food production",#Seafood
+14606,,,,,,#Engineered,"#Food production",#Fermented
+14606,,,,,,#Engineered,"#Food production",#Seafood
+14606,,,,,,#Engineered,"#Food production",#Fermented
+14606,,,,,,#Engineered,"#Food production",#Seafood
+14606,,,,,,#Engineered,"#Food production",#Fermented
+14606,,,,,,#Engineered,"#Food production",#Seafood
+5257,"Tetragenococcus muriaticus","DSM 15685, JCM 10006, CCUG 41880, CIP 105747, LMG 18498, KCTC 21008, NBRC 100499","Squid liver sauce, Japanese local traditional fermented seafood###japanese local traditional fermented seafood",Japan,Asia,#Engineered,"#Food production",#Fermented
+5257,,,,,,#Engineered,"#Food production",#Seafood
+5257,,,,,,#Engineered,"#Food production",#Fermented
+5257,,,,,,#Engineered,"#Food production",#Seafood
+24642,"Thermoactinomyces daqus","DSM 45914, CICC 10681","high-temperature daqu, a fermentation starter used in the production of a sesame-flavour liquor",China,Asia,#Engineered,"#Food production",#Beverage
+24642,,,,,,#Condition,"#Thermophilic (>45°C)",
+24642,,,,,,#Engineered,"#Food production",#Fermented
+23366,"unclassified bacterium","DSM 3039",beer,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+23366,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+23366,,,,,,#Engineered,"#Food production",#Fermented
+23366,,,,,,#Engineered,"#Food production",#Beverage
+130769,"Vibrio olivae","DSM 25438, CECT 8064","brine from Spanish-style green olive fermenters at the first two weeks of fermentation",Spain,Europe,#Engineered,"#Food production",#Fermented
+130769,,,,,,#Condition,#Saline,
+130769,,,,,,#Environmental,#Aquatic,
+130769,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+22931,"Virgibacillus alimentarius","DSM 26676, JCM 16994, KACC 14624","Jeotgal, traditional salt-fermented seafood made of gizzard shad","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+22931,,,,,,#Engineered,"#Food production",#Seafood
+22931,,,,,,#Engineered,"#Food production",#Fermented
+22931,,,,,,#Engineered,"#Food production",#Seafood
+22931,,,,,,#Engineered,"#Food production",#Fermented
+22931,,,,,,#Engineered,"#Food production",#Seafood
+133313,"Virgibacillus jeotgali","KEMB 9001-125, JCM 16522, DSM 107337, NRIC 0768","Myeolchi-jeotgal, a traditional Korean fermented anchovy###Myeolchi-jeotgal, a traditional Korean high-salt-fermented anchovy","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+133313,,,,,,#Engineered,"#Food production",#Seafood
+133313,,,,,,#Engineered,"#Food production",#Fermented
+133313,,,,,,#Engineered,"#Food production",#Seafood
+133313,,,,,,#Engineered,"#Food production",#Fermented
+133313,,,,,,#Engineered,"#Food production",#Seafood
+6856,"Weissella cibaria","DSM 14295, KCCM 41287, KCTC 3746, CIP 108011","Food, Kimchi, korean fermented vegetable###kimchi (Korean fermented vegetable)","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+6856,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6856,,,,,,#Engineered,"#Food production",#Fermented
+6856,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6854,"Weissella koreensis","DSM 15830, CCUG 47134, CIP 107634, JCM 11263, KCCM 41516, KCTC 3621","Food, Kimuchi, Fermented vegetable food###Traditional Korean fermented-vegetable food (Kimchi)###Traditional Korean fermented-vegetable food###kimchi, fermented vegetable food","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+6854,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6854,,,,,,#Engineered,"#Food production",#Fermented
+6854,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6854,,,,,,#Engineered,"#Food production",#Fermented
+6854,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6854,,,,,,#Engineered,"#Food production",#Fermented
+6854,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+23077,"Weissella oryzae","DSM 25784, JCM 18191, SG 25, LMG 30913","Fermented rice grains###fermented grice grains",Japan,Asia,#Engineered,"#Food production",#Fermented
+23077,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+23077,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+23077,,,,,,#Engineered,"#Food production",#Fermented
+23077,,,,,,#Host,#Plants,"#Herbaceous plants (Grass,Crops)"
+23077,,,,,,#Engineered,"#Food production","#Vegetable (incl. Grains)"
+6855,"Weissella thailandensis","DSM 15832, HSCC 1412, JCM 10695, NRIC 0298, TISTR 1384, CCUG 46557, CIP 106751, KCTC 3751, PCU 210, NBRC 109621","From fermented fish###fermented fish",Thailand,Asia,#Engineered,"#Food production",#Fermented
+6855,,,,,,#Host,#Fishes,
+6855,,,,,,#Engineered,"#Food production",#Seafood
+6855,,,,,,#Engineered,"#Food production",#Fermented
+6855,,,,,,#Host,#Fishes,
+6855,,,,,,#Engineered,"#Food production",#Seafood
+6855,,,,,,#Engineered,"#Food production",#Fermented
+6855,,,,,,#Host,#Fishes,
+6855,,,,,,#Engineered,"#Food production",#Seafood
+6855,,,,,,#Engineered,"#Food production",#Fermented
+6855,,,,,,#Host,#Fishes,
+6855,,,,,,#Engineered,"#Food production",#Seafood
+132289,"Weissella thailandensis","DSM 103409, JCM 30580, KCCM 43128, KACC 91955P, LMG 30916","Jogae jeotgal, a Korean traditional fermented seafood###jogae jeotgal, traditional Korean fermented seafood","Republic of Korea",Asia,#Engineered,"#Food production",#Fermented
+132289,,,,,,#Engineered,"#Food production",#Seafood
+132289,,,,,,#Engineered,"#Food production",#Fermented
+132289,,,,,,#Engineered,"#Food production",#Seafood
+17622,"Xylella fastidiosa","DSM 10026, ATCC 35879, CFBP 7970, LMG 17159",grapevine,USA,"North America",#Engineered,"#Food production",#Beverage
+17622,,,,,,"#Host Body-Site",#Plant,"#Fruit (Seed)"
+17622,,,,,,#Engineered,"#Food production",#Fermented
+14290,"Zymomonas mobilis subsp. francensis","DSM 18599, CIP 108684, LMG 22974","French 'framboisé' spoiled ciders###""framboise"" spoiled ciders",France,Europe,#Engineered,"#Food production",#Beverage
+14290,,,,,,#Environmental,"#Microbial community",
+14290,,,,,,#Engineered,"#Food production",#Fermented
+14290,,,,,,#Engineered,"#Food production",#Beverage
+14290,,,,,,#Environmental,"#Microbial community",
+14290,,,,,,#Engineered,"#Food production",#Fermented
+14292,"Zymomonas mobilis subsp. pomaceae","DSM 22645, ATCC 29192, LMG 448, NCIMB 11200, CCUG 17912, Barker I, JCM 10191, CCM 2771, CECT 814, IFO 13757, LMG 449, LMG 453, LMG 464, LMG 465, LMG 466, NBRC 13757, NRRL B-4491","Sick cider###Cider,sick###spoiled ciders","United Kingdom",Europe,#Engineered,"#Food production",#Beverage
+14292,,,,,,#Environmental,"#Microbial community",
+14292,,,,,,#Engineered,"#Food production",#Fermented
+14292,,,,,,#Engineered,"#Food production",#Beverage
+14292,,,,,,#Environmental,"#Microbial community",
+14292,,,,,,#Engineered,"#Food production",#Fermented
+14292,,,,,,#Engineered,"#Food production",#Beverage
+14292,,,,,,#Environmental,"#Microbial community",
+14292,,,,,,#Engineered,"#Food production",#Fermented
