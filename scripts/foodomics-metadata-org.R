@@ -1,8 +1,8 @@
 library(tidyverse)
 
 # metadata sheets
-metabolomics_metadata <- read.csv("metabolomics/GlobalFoodOmics/foodomics_metabolomics_sample_metadata.csv")
-amplicon_metadata <- read_tsv("metabolomics/GlobalFoodOmics/foodomics_16S_amplicon_runs_metadata.tsv")
+metabolomics_metadata <- read.csv("raw_metadata/metabolomics/GlobalFoodOmics/foodomics_metabolomics_sample_metadata.csv")
+amplicon_metadata <- read_tsv("raw_metadata/metabolomics/GlobalFoodOmics/foodomics_16S_amplicon_runs_metadata.tsv")
 
 # select metabolomics data for fermented foods
 fermented_foods_metabolomics <- metabolomics_metadata %>% 

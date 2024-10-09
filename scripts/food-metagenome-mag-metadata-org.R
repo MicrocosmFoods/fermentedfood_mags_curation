@@ -3,7 +3,7 @@ library(tidyverse)
 # Organizing metadata for food MAGs from multiple studies
 
 # Du 2023 BGC MAGs
-du2023_metadata <- read.csv("mag_datasets/FermentedFoodBGCs/Du2023_MAG_metadata.csv") %>% 
+du2023_metadata <- read.csv("raw_metadata/mag_datasets/FermentedFoodBGCs/Du2023_MAG_metadata.csv") %>% 
   select(MAG_id, Food.fermentation, Genome.size..bp., Completeness...., Contamination...., Domain, Phylum, Class, Order, Family, Genus, Species) %>% 
   mutate(study_catalog = c("Du2023"))
 
@@ -20,12 +20,12 @@ du2023_metadata_cleaned <- du2023_metadata %>%
   select(-genome_size)
 
 # Carlino 2024 food metagenomes
-carlino2024_mag_metadata <- read.csv("mag_datasets/CellFoodMetagenomics/2024-cell-food-metagenomics-mag-metadata.csv") %>% 
+carlino2024_mag_metadata <- read.csv("raw_metadata/mag_datasets/CellFoodMetagenomics/2024-cell-food-metagenomics-mag-metadata.csv") %>% 
   mutate(dataset_sample_id = paste(dataset_id, sample_id, sep="__")) %>% 
   select(MAG_id, dataset_sample_id, completeness, contamination, superkingdom, phylum, class, order, family, genus, species) %>% 
   mutate(study_catalog = c("Carlino2024"))
 colnames(carlino2024_mag_metadata) <- c("mag_id", "dataset_sample_id", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog")
-carlino2024_sample_metadata <- read.csv("mag_datasets/CellFoodMetagenomics/2024-cell-food-metagenomics-sample-metadata.csv") %>% 
+carlino2024_sample_metadata <- read.csv("raw_metadata/mag_datasets/CellFoodMetagenomics/2024-cell-food-metagenomics-sample-metadata.csv") %>% 
   select(sample_id, category, type)
 colnames(carlino2024_sample_metadata) <- c("dataset_sample_id", "substrate", "specific_substrate")
 
@@ -34,12 +34,50 @@ carlino2024_complete_metadata <- left_join(carlino2024_mag_metadata, carlino2024
   select(mag_id, substrate, source, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog)
 
 # Caffrey 2024 MiFoDB
-caffrey2024_metadata <- read.csv("mag_datasets/MiFoDB/MiFoDB_beta_v3_AllReferences.csv") %>% 
+caffrey2024_metadata <- read.csv("raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3_AllReferences.csv") %>% 
   select(genome, substrate, source, completeness, contamination, domain, phylum, class, order, family, genus, species) %>% 
   drop_na() %>% 
   mutate(mag_id = genome) %>% 
   select(-genome) %>% 
   mutate(study_catalog = c("Caffrey2024"))
+
+# Saak 2023 cheese MAGs
+saak2023_metadata <- read.csv("raw_metadata/mag_datasets/Saak2023CheeseMAGs/saak2023_cheese_mags_isolates_metadata.csv") %>% 
+  select(Bin.Name, Completeness, Contamination, gtdbtk.Classifaction) %>% 
+  drop_na()
+
+saak2023_metadata_cleaned <- saak2023_metadata %>% 
+  separate(gtdbtk.Classifaction,
+           into = c("domain", "phylum", "class", "order", "family", "genus", "species"),
+           sep = ";") %>%
+  mutate(across(c(domain, phylum, class, order, family, genus, species), ~ sub("^[a-z]__", "", .))) %>% 
+  mutate(mag_id = Bin.Name) %>% 
+  mutate(completeness = Completeness) %>% 
+  mutate(contamination = Contamination) %>% 
+  mutate(substrate = c("dairy")) %>% 
+  mutate(study_catalog = c("Saak2023_CheeseMAGs")) %>% 
+  select(mag_id, substrate, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog)
+
+# Msystems Sourdough AABs
+sourdough_aabs_metadata <- read.csv("raw_metadata/mag_datasets/msystemsAAB/SourdoughAAB-MAGs-metadata.csv") %>% 
+  filter(Source_environment == "sourdough") %>% 
+  select(Genome_ID, Species, Source_category, Completeness, Contam)
+
+colnames(sourdough_aabs_metadata) <- c("mag_id", "species", "source_category", "completeness", "contamination")
+
+# taxonomy information from GTDB for Acetobacter spp.
+sourdough_aabs_metadata_cleaned <- sourdough_aabs_metadata %>% 
+  mutate(substrate = c("grains")) %>% 
+  mutate(domain = c("Bacteria")) %>% 
+  mutate(phylum = c("Pseudomonadota")) %>% 
+  mutate(class = c("Alphaproteobacteria")) %>% 
+  mutate(order = c("Acetobacterales")) %>% 
+  mutate(family = c("Acetobacteraceae")) %>% 
+  select(-source_category) %>% 
+  mutate(genus = sub(" .*", "", species)) %>% 
+  mutate(study_catalog = c("Rappaport2024_sourdough")) %>% 
+  select(mag_id, substrate, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog)
+  
 
 # combine all dataset metadata
 caffrey_carlino_dbs <- bind_rows(carlino2024_complete_metadata, caffrey2024_metadata) %>% 
@@ -47,7 +85,7 @@ caffrey_carlino_dbs <- bind_rows(carlino2024_complete_metadata, caffrey2024_meta
 
 write.csv(caffrey_carlino_dbs, "cleaned_metadata/mag_datasets/caffrey_carlino_datasets.csv", quote = FALSE, row.names = FALSE)
 
-all_food_mags_metadata <- bind_rows(du2023_metadata_cleaned, carlino2024_complete_metadata, caffrey2024_metadata) %>% 
+all_food_mags_metadata <- bind_rows(du2023_metadata_cleaned, carlino2024_complete_metadata, caffrey2024_metadata, saak2023_metadata_cleaned, sourdough_aabs_metadata_cleaned) %>% 
   select(-source) %>% 
   filter(contamination < 10) %>% 
   mutate(substrate = tolower(substrate))
@@ -118,6 +156,6 @@ all_food_mags_metadata_cleaned %>%
 all_food_mags_metadata_cleaned %>% 
   filter(completeness > 90) %>% 
   filter(domain == "Bacteria") %>% 
-  count() # ~5800 HQ bacterial MAGs
+  count() # ~5900 HQ bacterial MAGs
 
-write.csv(all_food_mags_metadata_cleaned, "cleaned_metadata/mag_datasets/2024-10-01-all-food-mag-metadata-cleaned.csv", row.names = FALSE, quote = FALSE)
+write.csv(all_food_mags_metadata_cleaned, "cleaned_metadata/mag_datasets/2024-10-09-all-food-mag-metadata-cleaned.csv", row.names = FALSE, quote = FALSE)
