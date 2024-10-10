@@ -145,6 +145,30 @@ all_food_mags_metadata_cleaned <- all_food_mags_metadata %>%
   mutate(substrate = gsub("kombucha", "fermented_beverages", substrate)) %>% 
   mutate(substrate = gsub("alcohol", "fermented_beverages", substrate)) %>% 
   mutate(substrate = gsub("koumiss", "dairy", substrate))
+
+all_food_mags_metadata_cleaned <- all_food_mags_metadata_cleaned %>% 
+  mutate(group = case_when(
+    phylum == "Pseudomonadota" ~ "Proteobacteria",
+    str_detect(phylum, "Firmicutes") ~ "Firmicutes",
+    phylum == "Actinobacteriota" ~ "Actinobacteria",
+    phylum == "Actinomycetota" ~ "Actinobacteria",
+    phylum == "Bacteroidota" ~ "Bacteroidetes",
+    phylum == "Bacillota" ~ "Firmicutes",
+    phylum == "Halobacteriota" ~ "Euryarchaea",
+    phylum == "Acidobacteriota" ~ "Acidobacteria", 
+    phylum == "Armatimonadota" ~ "Armatimonadetes",
+    phylum == "Deinococcota" ~ "Deinococcus_Thermus",
+    phylum == "Thermoproteota" ~ "Euryarchaea",
+    phylum == "Euryarchaeota" ~ "Euryarchaea",
+    phylum == "Balneolaeota" ~ "Bacteroidetes",
+    TRUE ~ phylum  # Keeps the original phylum name if no rule matches
+  ))
+
+all_food_mags_metadata_cleaned %>% 
+  group_by(group) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  print(n=30)
   
 
 all_food_mags_metadata_cleaned %>% 
