@@ -158,4 +158,10 @@ all_food_mags_metadata_cleaned %>%
   filter(domain == "Bacteria") %>% 
   count() # ~5900 HQ bacterial MAGs
 
+hq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
+  filter(completeness > 90) %>% 
+  filter(domain == "Bacteria")
+
 write.csv(all_food_mags_metadata_cleaned, "cleaned_metadata/mag_datasets/2024-10-09-all-food-mag-metadata-cleaned.csv", row.names = FALSE, quote = FALSE)
+
+write.csv(hq_bac_food_mags, "cleaned_metadata/mag_datasets/2024-10-08-HQ-bacterial-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
