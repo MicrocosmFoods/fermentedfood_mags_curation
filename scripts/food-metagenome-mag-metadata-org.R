@@ -59,9 +59,9 @@ saak2023_metadata_cleaned <- saak2023_metadata %>%
   select(mag_id, substrate, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog)
 
 # Msystems Sourdough AABs
-sourdough_aabs_metadata <- read.csv("raw_metadata/mag_datasets/msystemsAAB/SourdoughAAB-MAGs-metadata.csv") %>% 
+sourdough_aabs_metadata <- read.csv("raw_metadata/mag_datasets/msystemsAAB/SourdoughAAB-MAGs-metadata-modified.csv") %>% 
   filter(Source_environment == "sourdough") %>% 
-  select(Genome_ID, Species, Source_category, Completeness, Contam)
+  select(assembly_name, Species, Source_category, Completeness, Contam)
 
 colnames(sourdough_aabs_metadata) <- c("mag_id", "species", "source_category", "completeness", "contamination")
 
@@ -184,8 +184,18 @@ all_food_mags_metadata_cleaned %>%
 
 hq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(completeness > 90) %>% 
+  filter(domain == "Bacteria" )
+
+all_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(domain == "Bacteria")
+
+all_euk_food_mags <- all_food_mags_metadata_cleaned %>% 
+  filter(domain == "Eukaryota")
 
 write.csv(all_food_mags_metadata_cleaned, "cleaned_metadata/mag_datasets/2024-10-09-all-food-mag-metadata-cleaned.csv", row.names = FALSE, quote = FALSE)
 
 write.csv(hq_bac_food_mags, "cleaned_metadata/mag_datasets/2024-10-08-HQ-bacterial-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
+
+write.csv(all_bac_food_mags, "cleaned_metadata/mag_datasets/2024-10-11-all-bac-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
+
+write.csv(all_euk_food_mags, "cleaned_metadata/mag_datasets/2024-10-11-all-euk-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
