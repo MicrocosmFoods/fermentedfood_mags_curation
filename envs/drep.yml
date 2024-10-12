@@ -3,4 +3,4 @@ channels:
   - bioconda
   - defaults
 dependencies: 
-  - checkm2=1.0.2-0
+  - drep=3.4.5

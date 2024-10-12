@@ -1,5 +1,7 @@
+*.log*
+work/
 raw_metadata/isolate_genomes/CheckM_report_prokaryotes.txt
-raw_genomes/
+genome_fastas/
 raw_metadata/peptides/
 raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3/
 raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3/MiFoDB_fastas/
