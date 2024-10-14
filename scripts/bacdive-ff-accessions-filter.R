@@ -41,4 +41,26 @@ write.table(missing_bacdive_records_genbankids, "raw_metadata/isolate_genomes/ba
 complete_bacdive_genbank_checkm_metadata <- bind_rows(bacdive_checkm_metadata, missing_bacdive_genbank_checkm_metadata) %>% 
   drop_na(completeness)
 
-write_tsv(complete_bacdive_genbank_checkm_metadata, "cleaned_metadata/isolate_genomes/2024-10-11-complete-bacdive-ff-genbank-metadata.tsv")
+## quast stats
+bacdive_combined_quast_stats <- read_tsv("metadata/raw_metadata/all_quast_stats.tsv", col_names = c("mag_id", "contigs_0", "contigs_1000", "contigs_5000", "contigs_10000", "contigs_25000", "contigs50000", "total_length_0", "total_length_1000", "total_length_5000", "total_length_10000", "total_length_25000", "total_length_50000", "contigs", "largest_contig", "total_length", "gc", "n50", "n90", "auN", "L50", "L90", "n_per_100kbp")) %>% 
+  select(mag_id, contigs, total_length, gc, n50) %>% 
+  filter(grepl("^GCA", mag_id)) %>%
+  mutate(genbank_id = sub("\\..*$", "", mag_id))
+
+complete_bacdive_genbank_metadata <- left_join(complete_bacdive_genbank_checkm_metadata, bacdive_combined_quast_stats) %>% 
+  drop_na(contigs) %>% 
+  drop_na(completeness) %>% 
+  select(genbank_id, isolate, isolation_source, broad_category, completeness, contamination, contigs, total_length, gc, n50)
+
+complete_bacdive_genbank_metadata %>% 
+  filter(completeness > 90) %>% 
+  filter(contigs < 50) %>% 
+  count() # ~ 100 isolates of good quality
+
+hq_bacdive_genbank_metadata <- complete_bacdive_genbank_metadata %>% 
+  filter(completeness > 90) %>% 
+  filter(contigs < 50)
+
+write_tsv(complete_bacdive_genbank_metadata, "metadata/cleaned_metadata/isolate_genomes/2024-10-11-complete-bacdive-ff-genbank-metadata.tsv")
+
+write_tsv(hq_bacdive_genbank_metadata, "metadata/cleaned_metadata/isolate_genomes/2024-10-14-hq-bacdive-ff-genbank-metadata.tsv")

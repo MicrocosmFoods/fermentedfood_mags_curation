@@ -1,0 +1,113 @@
+genbank_id	isolate	isolation_source	broad_category	completeness	contamination	contigs	total_length	gc	n50
+GCA_011516865	Acetobacter ghanensis	traditional heap fermentation of Ghanaian cocoa beans	#Fruit (Seed)	94.13	2.43	36	2794032	56.91	332815
+GCA_000310065	Acidipropionibacterium acidipropionici	Food, Cheese, Emmenthal###Emmenthaler cheese###emmental cheese	#Dairy product	96.23	0.46	1	3656170	68.77	3656170
+GCA_000423445	Acidipropionibacterium thoenii	Food, Cheese, Emmenthal###Emmenthaler cheese###emmental cheese	#Dairy product	98.44	0.09	45	2938072	67.97	168662
+GCA_003325455	Acidipropionibacterium virtanenii	finnish malted barley###malted barley	#Fermented	98.3	0	1	3432872	68.36	3432872
+GCA_003850045	Aeromicrobium camelliae	Ripened Pu'er tea	#Beverage	96.95	1.53	40	3063801	69.35	133037
+GCA_013408555	Aeromicrobium tamlense	Dried seaweed from Samyang beach###dried seaweed	NA	96.18	0.65	1	3367060	71.25	3367060
+GCA_900163565	Agrococcus casei	Food, Sear-ripened cheeses, surfaces###Gubbeen cheese	#Dairy product	98.62	0.66	48	2787318	65.27	135058
+GCA_900099705	Agrococcus jejuensis	From seaweed###Dried seaweed around Samyang Beach in Jeju###Dried seaweed	NA	98.82	1.72	1	3400178	72.64	3400178
+GCA_001281265	Apilactobacillus kunkeei	Commercial Cabernet Sauvignon wine###Partially fermented grape juice###commercial grape wine undergoing a sluggish/stuck alcoholic fermentation	#Beverage	97.66	1.31	15	1515289	36.42	250196
+GCA_001050115	Bacillus smithii	Food, Cheese###cheese	#Dairy product	98.67	0.29	2	3381292	40.75	3368778
+GCA_000022965	Bifidobacterium animalis subsp. lactis	Fermented milk###yoghurt	#Dairy product	99	0.27	1	1938483	60.48	1938483
+GCA_002259795	Bifidobacterium aquikefiri	Water kefir###A household water kefir fermentation process carried out in 2014	NA	95.22	2.21	18	2408364	52.29	242915
+GCA_000741285	Bifidobacterium mongoliense	Airag, a traditional fermented mare's milk product from Mongolia###airag, the Mongolian traditional beverage made of fermented mare's milk	#Beverage	93.39	0.65	42	2170012	62.78	136681
+GCA_900169275	Brevibacterium casei	Food, Cheese, Cheddar###cheddar cheese	#Dairy product	97.29	5.8	24	3840753	68.04	616578
+GCA_002943655	Chryseobacterium shigense	lactic acid beverage	#Beverage	99.34	0.21	38	4889274	37.47	324632
+GCA_023656515	Clostridium swellfunianum	Pit mud of the <I>Luzhou-flavor</I> liquor manufacturer###pit mud of the Chinese <i>Luzhou-flavor</i> liquor manufacturer	#Beverage	100	4.36	6	4763217	34.29	4747948
+GCA_001434855	Companilactobacillus bobalius	Bobal grape must###Spanish Bobal grape must	#Fruit (Seed)	98.8	2.65	29	2879146	35.25	424712
+GCA_000184535	Companilactobacillus farciminis	Food, Sausage###sausage	#Meat	95.73	3.36	5	2498309	36.38	701607
+GCA_001434665	Companilactobacillus tucceti	Food, Meat, sausage###sausage	#Meat	98.29	1.35	42	2171354	34.06	86321
+GCA_000550785	Corynebacterium casei	Food, Cheese###Cheese,surface of smear-ripened cheese###surface of a smear-ripened cheese###cheese	#Dairy product	99.04	0	3	3132213	55.68	3113488
+GCA_001941465	Corynebacterium flavescens	Food, Cheese###cheese	#Dairy product	98.97	3.05	1	2758653	59.92	2758653
+GCA_001941485	Corynebacterium frankenforstense	Raw cow milk###bulk milk tank of a dairy farm	#Engineered product	99.4	0.41	1	2604152	71.51	2604152
+GCA_001729785	Enterobacter hormaechei subsp. xiangfangensis	Sourdough	#Fermented	99.32	0.39	1	4661849	55.28	4661849
+GCA_900447695	Enterococcus durans	Roquefort cheese	#Dairy product	98.39	0.9	8	3357395	37.69	3078716
+GCA_000393875	Enterococcus malodoratus	Food, Cheese, Gouda###Cheese,Gouda###gouda cheese	#Dairy product	97.21	10.24	10	4654237	39.94	1184980
+GCA_005405365	Enterococcus xiangfangensis	traditional pickle	#Fermented	96.44	4.91	19	2652541	39.03	263199
+GCA_014644275	Franconibacter daqui	Daqu sample	#Beverage	99.31	0	19	4586288	56.5	649259
+GCA_001437175	Fructilactobacillus fructivorans	wine	#Fruit (Seed)	95.45	0.27	10	1415974	38.81	368497
+GCA_900112405	Fructobacillus durionis	Traditional Malaysian acid-fermented condiment (tempoyak)###Tempoyak (Malaysian acid-fermented condiment made from pulp of the durian fruit)###Tempoyak	#Fermented	92	0.65	17	1327392	44.74	175703
+GCA_001437435	Furfurilactobacillus siliginis	Food, Wheat-flour sample taken from standard Korean wheat-flour No. 3, produced by DaeHan Flour Mills, Korea (http://www.dhflour.co.kr)###From fermented food###wheat sourdough	#Food	98.91	0.74	41	2067168	44.08	155219
+GCA_015244675	Gluconobacter cerevisiae	fermenting lambic beer	#Beverage	96.08	5.62	40	3006335	58.32	206922
+GCA_000197735	Glutamicibacter arilaitensis	Food, Cheese, Reblochon###Surface of Reblochon cheese###Reblochon cheese	#Dairy product	99.41	0.46	3	3918192	59.27	3859257
+GCA_009902005	Halomonas alimentaria	Food, Jeotgal, korean traditinal fermented seafood###From jeotgal (Korean traditional fermented seafood)###Jeotgal, Korean traditional fermented seafood###seafood jeotgal	#Fermented	99.68	0.45	7	3281832	66.3	3266661
+GCA_003610635	Psychroserpens magnus	Intestine of cultured flounder (<I>Paralichthys olivaceus</I>) collected from a fish farm in Shandong Province###intestine of cultured flounder <i>Paralichthys olivaceus</i>	NA	100	0.65	16	3009115	31.36	496483
+GCA_000829445	Jeotgalibacillus alimentarius	Food, Jeotgal, fermented seafood###Jeotgal, Korean traditional fermented seafood###jeotgal (traditional Korean fermented seafood)###traditional fermented seafood (jeotgal)	#Fermented	93.8	6.45	32	3364745	43.13	315125
+GCA_003387165	Jeotgalicoccus halotolerans	Jeotgal###Jeotgal (traditional Korean fermented seafood)###jeotgal, traditional Korean fermented seafood	#Fermented	90.61	4.72	17	2232970	41.21	223876
+GCA_000425845	Jeotgalicoccus psychrophilus	Food, Fermented seafood jeotgal###Jeotgal, traditional Korean fermented seafood###Jeotgal (traditional Korean fermented seafood)###jeotgal, Korean fermented seafood	#Fermented	97.4	1.2	28	2345682	40.24	201008
+GCA_000164395	Komagataeibacter hansenii	vinegar	NA	98.1	1.58	1	3636659	59.5	3636659
+GCA_002155145	Kushneria konosiri	Korean traditional salt-fermented seafood Daemi-jeot###Daemi-jeot, a traditional Korean salted and fermented seafood, which is made of larval gizzard shad (Konosirus punctatus) with solar salt	#Fermented	98.62	1.02	1	3584631	59.1	3584631
+GCA_003633775	Kushneria sinocarnis	Chinese traditional cured meat	#Meat	98.98	2.82	18	3510707	64.11	426635
+GCA_003946305	Lacticaseibacillus porcinae	From nem chua samples(fermented pork)###Traditional Vietnamese nem chua###Food,Nem chua (fermented pork)###nem chua samples (fermented pork)	#Meat	99.35	0.84	36	2838071	47.21	179587
+GCA_005405385	Lactiplantibacillus mudanjiangensis	Korean pickle, Japanese pickle, Chinese pickle###Pickle###traditional pickle###From traditional pickle	#Fermented	99.02	1.17	13	3289607	43.07	583835
+GCA_001888655	Lactiplantibacillus plantarum subsp. plantarum	Food, Sauerkraut###pickled cabbage	NA	99.02	1.39	30	3197633	44.54	368952
+GCA_001436855	Lactiplantibacillus plantarum	Fermenting jojoba meal###Jojoba meal###jojoba meal fermentation	#Shrub (Scrub)	99.02	1.39	44	3426287	44.26	263553
+GCA_001971585	Companilactobacillus allii	From scallion kimchi###Scallion kimchi in Gwangju###scallion kimchi	#Fermented	99.13	0	2	2534178	35.37	2506167
+GCA_003124125	Levilactobacillus bambusae	traditional fermented ma bamboo shoot products	#Food	98.6	0.75	40	1966274	46.31	512363
+GCA_001953135	Lactobacillus delbrueckii subsp. bulgaricus	yoghourt	#Dairy product	96.87	0	1	1868180	49.78	1868180
+GCA_000056065	Lactobacillus delbrueckii subsp. bulgaricus	Food, Bulgarian yogurt###Bulgarian yogurt###bulgarian yoghourt	#Dairy product	97.51	0	1	1864998	49.72	1864998
+GCA_000192165	Lactobacillus delbrueckii subsp. lactis	Food, Cheese, Emmental Swiss###Emmental (Swiss) cheese###Cheese,Swiss Emmenthal###emmental cheese	#Dairy product	96.24	0	26	2071079	49.8	2038844
+GCA_001190005	Lactobacillus delbrueckii subsp. sunkii	From sunki, Japanese traditional fermented vegetable(pickle)###Sunki, traditional Japanese pickles###sunki, Japanese traditional fermented vegetable	#Fermented	97.44	1	32	1945263	50.1	121749
+GCA_000160855	Lactobacillus helveticus	Food, Cheese, Emmental Swiss###Emmental (Swiss) cheese###emmental cheese	#Dairy product	97.53	0.03	49	2020582	36.78	288743
+GCA_000014525	Lacticaseibacillus paracasei	Food, Emmental cheese###Emmental cheese	#Dairy product	90.87	4.82	2	2924325	46.58	2895264
+GCA_018403745	Lactococcus formosensis	<I>Yan-tsai-shin</I> (fermented broccoli stems)###fermented broccoli stems	#Fermented	99.58	2.18	17	2115559	37.92	337726
+GCA_000820425	Lactococcus garvieae	fermented milk (raib), Algerian cow	#Dairy product	96.4	5.62	13	2253704	37.69	1512971
+GCA_002271215	Lelliottia jeotgali	Jogae-jeotgal, a traditional Korean fermented clam in Inchon###traditional Korean fermented clams (jogae-jeotgal)	#Fermented	100	0	1	4603334	54.24	4603334
+GCA_000159315	Lentilactobacillus hilgardii	Plant, Wine###wine	#Fruit (Seed)	98.69	0.44	34	2701909	39.59	661593
+GCA_000415925	Lentilactobacillus otakiensis	Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	#Fermented	98.56	0	23	2343063	42.39	244550
+GCA_000350525	Leucobacter salsicius	Jeotgal (a Korean salt-fermented food containing tiny shrimps)###jeotgal, a Korean salt-fermented food	#Fermented	98.45	1.69	28	3185418	64.5	197637
+GCA_012396485	Leuconostoc holzapfelii	Ethiopian coffee fermentation###coffee fermentation	#Shrub (Scrub)	99.13	0.83	18	1758434	43.99	218908
+GCA_000160595	Leuconostoc mesenteroides subsp. cremoris	Food, Dried cheese starter powder###Hansen's dried starter powder	#Starter culture	92.96	0.19	29	1735074	37.9	513909
+GCA_001886915	Leuconostoc mesenteroides subsp. jonggajibkimchii	Kimchi###a commercial kimchi	#Fermented	92.92	0.61	4	1983917	37.68	1893478
+GCA_000014445	Leuconostoc mesenteroides	Food, Fermenting olives###Olives###fermenting olives	#Fermented	98.54	0.19	2	2075763	37.67	2038396
+GCA_019656055	Leuconostoc miyukkimchii	Brown algae kimchi (miyukkimchi)###fermented brown algae (<i>Undaria pinnatifida</i>) L. kimchi	#Brown Algae	99.22	0.94	12	1913501	36.35	243452
+GCA_019656075	Leuconostoc palmae	Food, Palm, wine###palm wine	#Plant sap (Flux)	96.58	0.08	28	1385869	35.41	123726
+GCA_001434835	Levilactobacillus acidifarinae	Food, Wheat sourdough###Wheat sourdough###artisanal wheat sourdough	#Food	99.18	0.65	18	2914969	51.61	444236
+GCA_002933755	Levilactobacillus brevis	Green, fermenting Sevillano variety olives###green fermenting Sevillano variety olives	#Fermented	99.43	0.49	47	2494980	45.93	224770
+GCA_001435095	Levilactobacillus spicheri	Food, Rice sourdough###rice sourdough	#Herbaceous plants (Grass,Crops)	99.35	0	30	2746730	55.93	192187
+GCA_000349725	Ligilactobacillus pobuzihii	Food, Fermented cummingcordia, food###From pobuzih, fermented cummingcordia###fermented cummingcordia (pobuzihi)	#Fermented	97.71	1.09	46	2348709	37.71	125194
+GCA_000159215	Limosilactobacillus fermentum	Food, Fermented beets###Fermented beets (Beta vulgaris)###fermented beets	NA	96.67	0.92	35	1855847	52.82	219560
+GCA_001436045	Limosilactobacillus frumenti	rye-bran sourdough	#Herbaceous plants (Grass,Crops)	99.35	0	22	1732492	42.55	204018
+GCA_001435345	Limosilactobacillus pontis	Sourdough###Sour dough###rye sourdough	#Herbaceous plants (Grass,Crops)	98.63	0	49	1662095	53.49	80708
+GCA_001437055	Limosilactobacillus secaliphilus	Type II sourdough fermentation###Rye sourdough###sour dough	#Fermented	97.71	0.65	9	1645623	47.72	286054
+GCA_001436735	Liquorilactobacillus cacaonum	cocoa bean heap fermentation	#Fruit (Seed)	98.69	0	12	1917585	33.86	269985
+GCA_001434915	Liquorilactobacillus capillatus	Tofu brine, fermented###Stinky tofu brine###isolated from fermented brine used for stinky tofu production	#Fermented	99.02	1.2	47	2228516	37.63	110492
+GCA_001435235	Liquorilactobacillus ghanensis	Ghanaian cocoa fermentations###cocoa fermentation	#Fruit (Seed)	99.02	3.05	24	2602462	37.08	241714
+GCA_001434225	Liquorilactobacillus nagelii	Food, Partially fermented wine###Wines undergoing sluggish/stuck alcoholic fermentation###Commercial red wine###partially fermented wine	#Beverage	99.35	2.07	34	2495429	36.68	248325
+GCA_001436275	Liquorilactobacillus oeni	Food, Bobal grape wines###Bobal wine	#Beverage	99.35	0.65	31	2114211	37.33	412601
+GCA_007671655	Marinobacter piscensis	salted Anchovy food###Salty food	#Food	94.97	1.28	10	3336972	55.05	1134880
+GCA_002874535	Mesobacillus jeotgali	Food, Korean traditonal fermented food###jeotgal, Korean traditional fermented seafood	#Fermented	99.35	0.65	1	4703554	42.17	4703554
+GCA_008017445	Microbacterium mitrae	salted turban shell (traditional fermented seafood)	#Fermented	96.01	2.31	10	2821547	63.66	1483109
+GCA_003667525	Mycetocola reblochoni	Surface of Reblochon cheese at the late stage of ripening###surface of Reblochon cheese (late stage of ripening)	#Dairy product	98.74	1.23	29	3046112	70.46	300101
+GCA_000340475	Oceanobacillus kimchii	mustard Kimchi, a traditional Korean fermented food	#Fermented	97.79	1.07	1	3830781	35.18	3830781
+GCA_000309445	Oenococcus oeni	Food, Wine###wine	#Fruit (Seed)	97.35	0.89	39	1728186	37.81	135603
+GCA_003008535	Ottowia oryzae	Sikhye from Andongsi	#Beverage	99.79	1.49	1	3901011	66.8	3901011
+GCA_003614185	Paenibacillus aceti	Traditional acetic acid fermentation culture of Chinese cereal vinegars###from traditional acetic acid fermentation culture of cereal vinegars	#Beverage	98.69	1.22	11	5611962	47.92	5572757
+GCA_001436805	Paralactobacillus selangorensis	Chili bo, a Malaysian food ingredient###Chili bo###""chili bo""	#Food	98.23	1.3	28	2163674	46.32	529598
+GCA_004341685	Pectinatus cerevisiiphilus	beer	#Fruit (Seed)	98.6	0	49	2637495	38.52	136283
+GCA_015613245	Pediococcus pentosaceus	Food, Sake mash###sake mash	#Beverage	92.01	3.21	7	1721772	37.07	408195
+GCA_015613265	Pediococcus pentosaceus	Cheese,New Zealand Cheddar###cheddar cheese	#Dairy product	91.22	5.19	16	1897225	37.1	311962
+GCA_000940845	Propionibacterium freudenreichii	Food, Swiss cheese###Cheese,Swiss###swiss cheese	#Dairy product	97.97	0.65	1	2649166	67.34	2649166
+GCA_004136575	Rothia koreensis	Food, Jeotgal, Korean traditional fermented seafood###From Jeotgal, fermented shellfisg###Jeotgal, Korean traditional fermented seafood###Korean traditional fermented seafood (jeotgal)	#Fermented	90.9	26.67	44	2911929	64.51	118248
+GCA_000330705	Salinicoccus carnicancri	From Korean traditional fermented seafood###Crabs preserved in soy sauce, traditional Korean fermented seafood###traditional Korean fermented seafood (crabs)	#Fermented	97.94	0.27	12	2669034	47.93	637917
+GCA_001014685	Staphylococcus condimenti	Food, Soy sauce mash###Soy-sauce mash###soy sauce mash	#Food	99.43	0.42	42	2605351	34.56	203670
+GCA_900453015	Staphylococcus saprophyticus	Ropy milk	NA	91.54	1.17	2	2125505	36.67	2116047
+GCA_001870205	Vagococcus teuberi	spontaneously fermented sour-milk (fènè)	#Dairy product	96.89	0.94	2	2184285	34.1	2169060
+GCA_005405525	Weissella cibaria	Food###From chili bo###Chilli Bo###chili bo	#Food	98.77	0	25	2323953	45.14	243943
+GCA_016466705	Weissella confusa	Food, Sour carrot mash###soured carrot mash	#Herbaceous plants (Grass,Crops)	98.73	0.58	31	2206814	44.73	161796
+GCA_000420365	Weissella halotolerans	Food, Sausage###Sausage meat###sausage	#Meat	98.01	0	6	1358385	43.06	412519
+GCA_005405545	Weissella hellenica	Fermented sausage###Dry naturally fermented Greek sausage###sausage; naturally-fermented	#Meat	97.69	0.26	28	1814617	36.97	91647
+GCA_000277645	Weissella koreensis	Food, Kimuchi, Fermented vegetable food###Traditional Korean fermented-vegetable food (Kimchi)###Traditional Korean fermented-vegetable food###kimchi, fermented vegetable food	#Fermented	98.05	15.14	17	1728940	35.5	236957
+GCA_003363255	Weissella thailandensis	From fermented fish###fermented fish	#Fermented	97.4	1.58	40	1973650	38.68	112113
+GCA_001437355	Weissella viridescens	Food, Cured meat product###cured meat products	#Meat	95.35	1.21	7	1536954	41.09	476919
+GCA_000277755	Zymomonas mobilis subsp. pomaceae	Fermenting palm sap (<I>Elaeis</I> sp.)###fermenting palm sap	#Plant sap (Flux)	94.96	1.27	4	2008345	46.12	1961306
+GCA_009377195	Arthrobacter bussei	Sliced cheese	#Dairy product	99.21	0.07	15	3620993	69.17	550094
+GCA_000225825	Brachybacterium squillarum	Salt-fermented food made of tiny shrimp###food product	#Food	91.57	11.64	8	3191479	72.77	809179
+GCA_000179395	Corynebacterium variabile	Food, Cheese###Surface of a smear-ripened cheese###Cheese,Irish smear-ripened cheese (Gubbeen)###cheese	#Dairy product	99.21	3.04	1	3433007	67.15	3433007
+GCA_000226215	Dietzia alimentaria	traditional salt-fermented seafood made of clam jeotgal	#Fermented	99.16	0	39	3352817	67.34	216003
+GCA_000785105	Lentilactobacillus curieae	Stinky tofu brine###food product	#Food	99.35	0	1	2095860	39.78	2095860
+GCA_000224785	Lentibacillus jeotgali	From Garibi-jeotgal, traditional Korean fermented seafood made from scallops###Jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood made from scallops, ""Garibi-jeotgal""	#Fermented	98.53	1.61	31	3775822	42.5	312432
+GCA_000709935	Metabacillus indicus	Food, Jeotgal, a traditional Korean fermented seafood###From Jeotgal, a traditional Korean fermented seafood###jeotgal, a traditional Korean fermented seafood	#Fermented	99.03	0	22	4071380	44.36	369209
+GCA_000299295	Salimicrobium jeotgali	Jeotgal, Korean salted and fermented seafood (anchovy jeotgal)###fermented anchovy (myeolchi-jeot)	#Fermented	95.78	0	44	2712396	46.27	179350
+GCA_002218025	Vibrio casei	Food, Surfaces of two French red smear soft cheeses###surface of a French smear ripened cheese (TF11)	#Dairy product	93.65	1.74	5	4140771	40.72	2756634
