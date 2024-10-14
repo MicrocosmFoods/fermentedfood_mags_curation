@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - biopython
+  - r=4.4.1
+  - r-tidyverse=2.0.0
+  - quast=5.2.0
+  - ncbi-genome-download=0.3.3
+    

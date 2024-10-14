@@ -192,6 +192,7 @@ all_food_mags_metadata_cleaned <- left_join(all_food_mags_metadata_cleaned, comb
 
 hq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(completeness > 90) %>% 
+  filter(contigs < 100) %>% 
   filter(domain == "Bacteria" )
 
 all_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
@@ -200,9 +201,15 @@ all_bac_food_mags <- all_food_mags_metadata_cleaned %>%
 all_euk_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(domain == "Eukaryota")
 
+# cleaned metadata copied in both subdirectory and main metadata directory
 write.csv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/mag_datasets/2024-10-09-all-food-mag-metadata-cleaned.csv", row.names = FALSE, quote = FALSE)
 
+write.csv(all_food_mags_metadata_cleaned, "metadata/all-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
+
+# HQ bac MAGS metadata copied in both subdirectory and main metadata directory
 write.csv(hq_bac_food_mags, "metadata/cleaned_metadata/mag_datasets/2024-10-08-HQ-bacterial-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
+
+write.csv(hq_bac_food_mags, 'metadata/all-hq-bac-food-mag-metadata.csv', row.names = FALSE, quote = FALSE)
 
 write.csv(all_bac_food_mags, "metadata/cleaned_metadata/mag_datasets/2024-10-11-all-bac-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
 
@@ -223,3 +230,11 @@ all_food_mags_metadata_cleaned %>%
   count() %>% 
   arrange(desc(n)) %>% 
   print(n=41)
+
+all_food_mags_metadata_cleaned %>% 
+  filter(domain == "Bacteria") %>% 
+  filter(completeness > 90) %>% 
+  filter(contigs < 100) %>% 
+  group_by(study_catalog) %>% 
+  count()
+
