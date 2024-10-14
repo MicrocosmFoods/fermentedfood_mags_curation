@@ -1,3 +1,4 @@
+raw_metadata/genomequal_results
 *.log*
 work/
 raw_metadata/isolate_genomes/CheckM_report_prokaryotes.txt

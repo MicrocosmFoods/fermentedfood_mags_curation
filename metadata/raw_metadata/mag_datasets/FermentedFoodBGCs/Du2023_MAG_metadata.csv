@@ -1,0 +1,654 @@
+﻿MAG_id,Food fermentation,Species_id,Genome size (bp),Completeness (%),Contamination (%),Quality assessment,Domain,Phylum,Class,Order,Family,Genus,Species
+MAG_1,Kombucha,Species_79,8680901,94.21 ,0.63 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Variovorax,s__Variovorax sp900115375
+MAG_2,Wine,Species_81,7983613,95.74 ,2.78 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Xanthobacteraceae,g__Bradyrhizobium,s__Bradyrhizobium sp002831585
+MAG_3,Bean paste,Species_159,2584791,72.08 ,0.38 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Glutamicibacter,s__unknown151
+MAG_4,Coffee ,Species_73,1531659,61.11 ,1.47 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter orientalis
+MAG_5,Nunu,Species_165,3622318,83.33 ,1.99 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella pneumoniae
+MAG_6,Nunu,Species_167,3778646,71.87 ,2.06 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella quasipneumoniae
+MAG_7,Cheese ,Species_197,3212418,97.68 ,1.74 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown100
+MAG_8,Bean paste,Species_182,3822185,100.00 ,0.00 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Proteus,s__Proteus cibarius
+MAG_9,Bean paste,Species_2,2575931,50.27 ,9.34 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Brochotrichaceae,g__unknown4,s__unknown153
+MAG_10,Nunu,Species_164,4815789,51.72 ,1.72 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Escherichia,s__Escherichia flexneri
+MAG_11,Bean paste,Species_13,1533426,50.77 ,7.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Brochotrichaceae,g__Brochothrix,s__unknown157
+MAG_12,Chinese liquor,Species_57,2868851,75.44 ,0.86 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus licheniformis
+MAG_13,Cheese ,Species_176,3588902,60.74 ,8.69 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Serratia,s__Serratia proteamaculans_B
+MAG_14,Cheese ,Species_272,1631670,67.97 ,1.25 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus raffinolactis_A
+MAG_15,Milk kefir,Species_78,2632650,100.00 ,0.25 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter fabarum
+MAG_16,Kimchi,Species_87,3846744,99.25 ,0.85 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__Sphingomonas hengshuiensis_A
+MAG_17,Soy sauce,Species_248,2929155,98.82 ,1.58 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Idiomarina,s__unknown15
+MAG_18,Koumiss,Species_196,1553832,51.71 ,0.65 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Moraxella_A,s__unknown30
+MAG_19,Nunu,Species_165,5243648,98.94 ,0.47 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella pneumoniae
+MAG_20,Cheese ,Species_147,6284991,93.48 ,0.98 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Streptomycetales,f__Streptomycetaceae,g__Streptomyces,s__unknown82
+MAG_21,Coffee ,Species_277,1803660,76.94 ,6.25 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_22,Milk kefir,Species_127,2691977,98.79 ,0.66 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Propionibacterium,s__Propionibacterium freudenreichii
+MAG_23,Cheese ,Species_141,2859668,78.03 ,7.97 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium gubbeenense
+MAG_24,Coffee ,Species_280,1986641,50.34 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Loigolactobacillus,s__Loigolactobacillus bifermentans
+MAG_25,Coffee ,Species_277,1666608,80.27 ,2.09 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_26,Chinese liquor,Species_19,1674162,98.09 ,1.79 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc citreum
+MAG_27,Nunu,Species_177,2661231,99.62 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium_B
+MAG_28,Milk kefir,Species_40,2275289,99.06 ,0.16 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus brevis
+MAG_29,Cheese ,Species_140,2054462,75.10 ,0.58 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium yomogidense
+MAG_30,Chinese liquor,Species_68,3677296,54.40 ,5.50 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus paralicheniformis
+MAG_31,Kombucha,Species_82,3806945,95.92 ,3.04 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Rhodocyclaceae,g__Methyloversatilis,s__Methyloversatilis discipulorum_A
+MAG_32,Cheese ,Species_6,1659594,97.21 ,1.57 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc carnosum
+MAG_33,Soy sauce,Species_246,4257025,99.00 ,3.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Amphibacillaceae,g__Virgibacillus,s__Virgibacillus dokdonensis
+MAG_34,Wine,Species_107,2482570,99.27 ,0.20 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Cutibacterium,s__Cutibacterium acnes
+MAG_35,Soy sauce,Species_160,2704170,99.57 ,0.00 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__unknown20
+MAG_36,Yoghurt,Species_256,1905255,84.02 ,7.14 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus acidophilus
+MAG_37,Kombucha,Species_219,2951098,96.30 ,0.00 ,High,d__Bacteria,p__Armatimonadota,c__Fimbriimonadia,o__OS-L,f__GBS-DC,g__GBS-DC,s__GBS-DC sp001442985
+MAG_38,Cheese ,Species_199,2410245,97.99 ,6.40 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Tetragenococcus,s__Tetragenococcus koreensis
+MAG_39,Milk kefir,Species_26,1689130,52.65 ,3.32 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus kefiri
+MAG_40,Chilli paste,Species_170,4574311,98.86 ,0.51 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter himalayensis
+MAG_41,Nunu,Species_290,1434271,77.39 ,1.42 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_42,Cheese ,Species_132,2431185,66.96 ,7.83 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown127
+MAG_43,Cheese ,Species_134,3305000,97.91 ,1.69 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown96
+MAG_44,Chinese liquor,Species_45,1648615,90.38 ,1.23 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus acidilactici
+MAG_45,Bean paste,Species_133,2560056,85.45 ,0.19 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_46,Chinese liquor,Species_288,1752300,99.06 ,1.20 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__unknown76
+MAG_47,Cheese ,Species_129,3445545,80.92 ,4.43 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Actinomycetaceae,g__Ancrocorticia,s__Ancrocorticia populi
+MAG_48,Kombucha,Species_69,2825412,98.12 ,6.09 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter xylinus_C
+MAG_49,Nunu,Species_17,1737223,100.00 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides
+MAG_50,Cheese ,Species_229,2183588,87.18 ,2.69 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus equorum
+MAG_51,Cheese ,Species_185,2499117,53.73 ,1.42 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__Vibrio casei
+MAG_52,Kombucha,Species_98,2707193,90.48 ,0.55 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Xanthomonadaceae,g__unknown2,s__unknown36
+MAG_53,Bean paste,Species_292,5053502,78.89 ,6.81 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_U,s__Bacillus_U oleronius
+MAG_54,Chinese liquor,Species_260,1314780,95.83 ,3.27 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus acetotolerans
+MAG_55,Yoghurt,Species_34,929550,55.57 ,0.06 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus delbrueckii
+MAG_56,Cheese ,Species_176,3141048,74.34 ,1.82 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Serratia,s__Serratia proteamaculans_B
+MAG_57,Bean paste,Species_146,1715057,60.49 ,0.44 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium stationis
+MAG_58,Milk kefir,Species_34,1356639,67.43 ,1.03 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus delbrueckii
+MAG_59,Kimchi,Species_23,3819711,63.79 ,6.90 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__unknown42
+MAG_60,Chinese liquor,Species_289,1791522,98.91 ,0.83 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus pontis
+MAG_61,Cheese ,Species_277,2249436,89.59 ,1.16 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_62,Bean paste,Species_264,6936647,78.57 ,6.69 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_G,g__Bacillus_A,s__unknown143
+MAG_63,Bean paste,Species_133,2558475,83.56 ,2.20 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_64,Milk kefir,Species_290,1505296,74.64 ,0.02 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_65,Chilli paste,Species_58,1838748,89.24 ,3.40 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus versmoldensis
+MAG_66,Cheese ,Species_44,1751144,62.69 ,0.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_67,Yoghurt,Species_44,3469796,96.19 ,4.52 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_68,Bean paste,Species_144,3059160,93.10 ,5.32 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D gallinarum
+MAG_69,Chinese liquor,Species_244,3453065,95.13 ,8.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caldibacillaceae,g__Bacillus_J,s__Bacillus_J thermoamylovorans
+MAG_70,Coffee ,Species_72,2209237,88.25 ,2.78 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter sp002153485
+MAG_71,Chilli paste,Species_48,1628306,86.38 ,0.24 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus ethanolidurans
+MAG_72,Cheese ,Species_187,4685330,100.00 ,0.52 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Marinomonadaceae,g__Marinomonas,s__Marinomonas sp000017285
+MAG_73,Cheese ,Species_204,2850684,99.36 ,0.55 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter sp002366815
+MAG_74,Cheese ,Species_132,3198414,87.16 ,8.26 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown101
+MAG_75,Chinese liquor,Species_282,1797745,85.83 ,4.05 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus sp004010095
+MAG_76,Cheese ,Species_250,2087286,97.81 ,0.73 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Marinilactibacillus,s__Marinilactibacillus piezotolerans_A
+MAG_77,Yoghurt,Species_284,2697753,82.00 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_78,Cheese ,Species_277,2205363,73.51 ,5.33 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_79,Cheese ,Species_148,2399383,56.97 ,1.63 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_80,Kimchi,Species_12,1409778,71.73 ,9.87 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella koreensis
+MAG_81,Cheese ,Species_274,1319786,59.06 ,5.91 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_82,Cheese ,Species_103,3877167,99.14 ,0.43 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Cobetia,s__Cobetia amphilecti
+MAG_83,Cheese ,Species_183,2681489,76.76 ,0.00 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Proteus,s__unknown118
+MAG_84,Cheese ,Species_269,1880367,99.89 ,0.80 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_85,Cheese ,Species_274,1886736,50.00 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_86,Cheese ,Species_269,1784092,89.15 ,1.29 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_87,Koumiss,Species_166,2540783,99.25 ,0.01 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium
+MAG_88,Cheese ,Species_258,900801,57.28 ,0.34 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_89,Cheese ,Species_176,4624615,94.56 ,1.97 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Serratia,s__Serratia proteamaculans_B
+MAG_90,Cheese ,Species_193,3717971,91.88 ,1.46 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas distincta
+MAG_91,Coffee ,Species_277,999661,66.09 ,8.46 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_92,Yoghurt,Species_269,1664794,87.98 ,3.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_93,Cheese ,Species_258,1663021,97.08 ,6.35 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_94,Nunu,Species_253,2920659,88.49 ,1.95 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter baumannii
+MAG_95,Coffee ,Species_16,986987,54.25 ,1.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides_A
+MAG_96,Nunu,Species_165,3704351,84.30 ,1.97 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella pneumoniae
+MAG_97,Bean paste,Species_111,4133280,98.67 ,1.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_D,g__Bacillus_H,s__Bacillus_H rhizosphaerae
+MAG_98,Kombucha,Species_89,3526943,79.40 ,3.25 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Sphingomonas,s__unknown34
+MAG_99,Soy sauce,Species_177,2623152,96.42 ,2.76 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium_B
+MAG_100,Soy sauce,Species_1,2903437,95.77 ,1.58 ,High,d__Bacteria,p__Firmicutes_A,c__Clostridia,o__Tissierellales,f__SIT17,g__Senegalia,s__unknown16
+MAG_101,Cheese ,Species_258,1056173,67.24 ,0.28 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_102,Cheese ,Species_212,3881253,100.00 ,1.10 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas sp002332255
+MAG_103,Soy sauce,Species_188,2504266,85.68 ,7.22 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Tetragenococcus,s__Tetragenococcus halophilus
+MAG_104,Koumiss,Species_277,1327728,52.54 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_105,Cheese ,Species_206,2405890,70.14 ,2.37 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter sp001652315
+MAG_106,Cheese ,Species_125,3659576,97.12 ,1.75 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__unknown90
+MAG_107,Nunu,Species_263,1274426,67.86 ,8.62 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_G,g__Bacillus_A,s__Bacillus_A cereus
+MAG_108,Chinese liquor,Species_44,1660753,58.62 ,3.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_109,Coffee ,Species_72,1849343,68.97 ,0.00 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter sp002153485
+MAG_110,Cheese ,Species_132,2571382,79.33 ,2.13 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown122
+MAG_111,Kombucha,Species_107,2512928,98.03 ,1.38 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Cutibacterium,s__Cutibacterium acnes
+MAG_112,Soy sauce,Species_234,2899132,99.45 ,1.10 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus nepalensis
+MAG_113,Yoghurt,Species_274,1956345,71.16 ,7.77 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_114,Cheese ,Species_194,3363481,59.60 ,8.40 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas nigrifaciens
+MAG_115,Nunu,Species_290,1451572,83.85 ,2.65 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_116,Coffee ,Species_16,1136767,51.90 ,1.59 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides_A
+MAG_117,Cheese ,Species_44,2750983,89.41 ,6.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_118,Cheese ,Species_145,3025928,99.12 ,0.44 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium casei
+MAG_119,Milk kefir,Species_269,1459609,76.22 ,0.15 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_120,Soy sauce,Species_221,1317744,50.21 ,0.26 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Thermoactinomycetales,f__Thermoactinomycetaceae,g__Kroppenstedtia,s__unknown24
+MAG_121,Chinese liquor,Species_76,2394113,67.16 ,7.46 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter indonesiensis
+MAG_122,Cheese ,Species_164,4398221,98.57 ,0.04 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Escherichia,s__Escherichia flexneri
+MAG_123,Coffee ,Species_73,1882965,68.31 ,4.44 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter orientalis
+MAG_124,Cheese ,Species_170,4933670,99.35 ,0.58 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter himalayensis
+MAG_125,Bean paste,Species_177,2648190,99.62 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium_B
+MAG_126,Kimchi,Species_22,2473621,66.83 ,0.54 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_127,Cheese ,Species_181,4409016,97.87 ,1.11 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Hafnia,s__Hafnia paralvei
+MAG_128,Cheese ,Species_142,1863866,64.29 ,2.05 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Microbacteriaceae,g__Microbacterium,s__unknown134
+MAG_129,Koumiss,Species_258,1797817,97.13 ,0.39 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_130,Cheese ,Species_189,2564415,51.65 ,8.46 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__unknown123
+MAG_131,Bean paste,Species_292,4852161,83.22 ,1.63 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_U,s__Bacillus_U oleronius
+MAG_132,Chinese liquor,Species_16,2954163,66.27 ,9.79 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides_A
+MAG_133,Coffee ,Species_73,1840367,69.66 ,2.95 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter orientalis
+MAG_134,Chinese liquor,Species_279,1840236,74.38 ,4.86 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Loigolactobacillus,s__Loigolactobacillus coryniformis
+MAG_135,Chinese liquor,Species_258,1571027,95.56 ,0.34 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_136,Coffee ,Species_173,2562264,61.77 ,3.40 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Kosakonia,s__Kosakonia cowanii
+MAG_137,Cheese ,Species_197,3185934,98.02 ,0.60 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown102
+MAG_138,Chinese liquor,Species_7,1022554,61.47 ,0.47 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc lactis
+MAG_139,Bean paste,Species_57,4752767,98.27 ,9.95 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus licheniformis
+MAG_140,Coffee ,Species_102,2922080,84.26 ,4.70 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Rhodanobacteraceae,g__Frateuria,s__unknown49
+MAG_141,Cheese ,Species_231,1528350,56.40 ,1.60 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus saprophyticus
+MAG_142,Nunu,Species_11,1642815,85.27 ,5.10 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella confusa
+MAG_143,Wine,Species_62,1411309,58.11 ,1.24 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acidocella,s__unknown8
+MAG_144,Milk kefir,Species_258,1264266,85.36 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_145,Cheese ,Species_245,3644085,71.27 ,10.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Amphibacillaceae,g__Oceanobacillus,s__unknown91
+MAG_146,Coffee ,Species_73,1923449,67.87 ,2.88 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter orientalis
+MAG_147,Cheese ,Species_261,1946022,96.18 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus petauri
+MAG_148,Kombucha,Species_67,2221598,59.07 ,7.43 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__unknown38
+MAG_149,Coffee ,Species_295,1887297,71.34 ,0.70 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__unknown59
+MAG_150,Chinese liquor,Species_75,1978940,81.51 ,5.54 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter pasteurianus
+MAG_151,Milk kefir,Species_34,1608627,97.73 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus delbrueckii
+MAG_152,Coffee ,Species_297,960179,54.16 ,3.24 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc fallax
+MAG_153,Cheese ,Species_192,3017488,59.48 ,7.68 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas prydzensis
+MAG_154,Yoghurt,Species_269,1519415,66.08 ,3.39 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_155,Cheese ,Species_229,3189648,99.44 ,1.53 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus equorum
+MAG_156,Koumiss,Species_277,1802041,79.14 ,1.97 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_157,Sourdough,Species_47,3082045,90.84 ,4.11 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_158,Cheese ,Species_279,2423222,94.29 ,3.84 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Loigolactobacillus,s__Loigolactobacillus coryniformis
+MAG_159,Soy sauce,Species_215,3344866,93.53 ,3.53 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas halodenitrificans
+MAG_160,Kombucha,Species_84,1680189,52.75 ,0.87 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Brevundimonas,s__unknown39
+MAG_161,Soy sauce,Species_209,3276997,99.57 ,0.31 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Oleiphilaceae,g__Marinobacter,s__unknown12
+MAG_162,Yoghurt,Species_256,1999502,98.42 ,0.32 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus acidophilus
+MAG_163,Bean paste,Species_234,2884118,99.45 ,1.66 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus nepalensis
+MAG_164,Kombucha,Species_107,1672057,69.56 ,1.64 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Cutibacterium,s__Cutibacterium acnes
+MAG_165,Nunu,Species_238,1828519,93.74 ,1.10 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Macrococcus_B,s__Macrococcus_B caseolyticus
+MAG_166,Kimchi,Species_22,3325958,71.37 ,3.80 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_167,Cheese ,Species_148,3374266,93.00 ,0.87 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_168,Koumiss,Species_277,1868099,81.43 ,2.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_169,Cheese ,Species_269,1792846,97.93 ,0.92 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_170,Cheese ,Species_201,3084566,87.85 ,2.90 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter sp003542795
+MAG_171,Coffee ,Species_72,2126997,82.61 ,1.96 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter sp002153485
+MAG_172,Cheese ,Species_141,2264724,87.24 ,8.85 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium gubbeenense
+MAG_173,Wine,Species_270,1808383,76.86 ,1.15 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus sp003521145
+MAG_174,Cheese ,Species_284,2508888,84.29 ,2.28 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_175,Cheese ,Species_58,2264766,98.95 ,0.59 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus versmoldensis
+MAG_176,Cheese ,Species_207,2626228,97.61 ,0.71 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown120
+MAG_177,Soy sauce,Species_251,2705322,99.34 ,0.33 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Amphibacillaceae,g__Paraliobacillus,s__unknown19
+MAG_178,Koumiss,Species_266,2189649,100.00 ,0.75 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus parauberis
+MAG_179,Chinese liquor,Species_47,1593556,90.03 ,3.23 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_180,Cheese ,Species_239,1306576,52.87 ,6.41 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus carnosus
+MAG_181,Kimchi,Species_290,1841819,92.91 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_182,Coffee ,Species_92,3990450,66.87 ,4.77 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Rhizobiaceae,g__Ochrobactrum_A,s__Ochrobactrum_A pseudogrignonense
+MAG_183,Bean paste,Species_171,4510868,95.53 ,2.68 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Leclercia,s__Leclercia adecarboxylata
+MAG_184,Soy sauce,Species_110,2033153,66.32 ,1.83 ,Medium,d__Bacteria,p__Firmicutes_A,c__Clostridia,o__Peptostreptococcales,f__Natronincolaceae,g__Alkaliphilus_B,s__unknown22
+MAG_185,Koumiss,Species_118,2491146,91.37 ,2.65 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Rothia,s__Rothia sp002418375
+MAG_186,Bean paste,Species_292,3507761,69.29 ,4.81 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_U,s__Bacillus_U oleronius
+MAG_187,Chinese liquor,Species_281,1458325,63.53 ,1.88 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus pantheris
+MAG_188,Soy sauce,Species_223,2798090,97.18 ,0.00 ,High,d__Bacteria,p__Firmicutes_A,c__Clostridia,o__Tissierellales,f__Clostridiisalibacteraceae,g__Clostridiisalibacter,s__Clostridiisalibacter paucivorans
+MAG_189,Cheese ,Species_277,2111207,57.47 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_190,Coffee ,Species_72,2214882,88.32 ,2.44 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter sp002153485
+MAG_191,Cheese ,Species_227,1235060,68.18 ,0.29 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__Vagococcus sp003462485
+MAG_192,Chinese liquor,Species_45,1807870,97.67 ,0.46 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus acidilactici
+MAG_193,Chinese liquor,Species_244,3274874,92.34 ,3.67 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caldibacillaceae,g__Bacillus_J,s__Bacillus_J thermoamylovorans
+MAG_194,Bean paste,Species_287,2261211,86.98 ,3.81 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Planococcaceae,g__Rummeliibacillus,s__Rummeliibacillus stabekisii
+MAG_195,Kimchi,Species_12,954398,64.05 ,1.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella koreensis
+MAG_196,Bean paste,Species_254,3801552,100.00 ,0.22 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Acinetobacter,s__unknown145
+MAG_197,Yoghurt,Species_180,2142533,55.89 ,0.57 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Ewingella,s__unknown1
+MAG_198,Chinese liquor,Species_282,1877112,83.30 ,3.08 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus sp004010095
+MAG_199,Coffee ,Species_102,2848261,83.10 ,4.92 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Rhodanobacteraceae,g__Frateuria,s__unknown50
+MAG_200,Coffee ,Species_162,5234162,52.23 ,8.62 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Tatumella,s__unknown47
+MAG_201,Chinese liquor,Species_57,3429771,86.77 ,1.46 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus licheniformis
+MAG_202,Bean paste,Species_133,1927874,63.71 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_203,Chinese liquor,Species_252,1595855,93.83 ,3.28 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus_G,s__Lactobacillus_G sp004359375
+MAG_204,Yoghurt,Species_272,1860735,88.50 ,2.05 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus raffinolactis_A
+MAG_205,Nunu,Species_138,1451326,62.25 ,1.32 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Rothia,s__Rothia kristinae
+MAG_206,Cheese ,Species_156,3598023,93.31 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium casei
+MAG_207,Milk kefir,Species_14,1626820,100.00 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_208,Chinese liquor,Species_136,8127602,94.51 ,3.54 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Streptomycetales,f__Streptomycetaceae,g__Streptomyces,s__Streptomyces cacaoi
+MAG_209,Cheese ,Species_274,2206049,66.88 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_210,Chilli paste,Species_99,3299296,88.14 ,1.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus velezensis
+MAG_211,Coffee ,Species_101,2508901,62.90 ,9.39 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Xanthomonadaceae,g__Stenotrophomonas,s__Stenotrophomonas sp003086775
+MAG_212,Sourdough,Species_47,1413061,92.70 ,1.37 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_213,Kimchi,Species_22,1743349,54.35 ,7.39 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_214,Bean paste,Species_276,2955212,97.23 ,2.46 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Domibacillaceae,g__Bacillus_O,s__Bacillus_O smithii
+MAG_215,Cheese ,Species_108,3402355,91.98 ,1.67 ,High,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Sphingobacteriales,f__Sphingobacteriaceae,g__Sphingobacterium,s__unknown95
+MAG_216,Cheese ,Species_52,2251253,97.91 ,1.31 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus futsaii
+MAG_217,Kimchi,Species_22,1953607,69.36 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_218,Coffee ,Species_16,2815157,80.32 ,5.89 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides_A
+MAG_219,Cheese ,Species_170,5256892,50.16 ,7.05 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter himalayensis
+MAG_220,Chinese liquor,Species_126,2727397,53.97 ,2.83 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__unknown72
+MAG_221,Bean paste,Species_59,1885616,89.81 ,2.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Loigolactobacillus,s__Loigolactobacillus rennini
+MAG_222,Cheese ,Species_5,3083922,59.39 ,8.49 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Aerococcaceae,g__Facklamia_A,s__unknown108
+MAG_223,Cheese ,Species_37,1699863,92.39 ,0.82 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Paucilactobacillus,s__Paucilactobacillus nenjiangensis
+MAG_224,Bean paste,Species_188,2307130,92.09 ,3.75 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Tetragenococcus,s__Tetragenococcus halophilus
+MAG_225,Cheese ,Species_27,1956798,63.42 ,2.29 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus otakiensis
+MAG_226,Cheese ,Species_130,2778169,91.86 ,2.06 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium variabile
+MAG_227,Cheese ,Species_203,2469708,67.58 ,9.79 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter piscatorii
+MAG_228,Cheese ,Species_122,1356905,53.30 ,1.06 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus,s__Enterococcus faecalis
+MAG_229,Coffee ,Species_92,4509961,71.20 ,9.58 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Rhizobiaceae,g__Ochrobactrum_A,s__Ochrobactrum_A pseudogrignonense
+MAG_230,Coffee ,Species_277,1918426,67.99 ,4.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_231,Bean paste,Species_133,2215551,69.20 ,3.53 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_232,Bean paste,Species_244,3044548,90.38 ,2.53 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caldibacillaceae,g__Bacillus_J,s__Bacillus_J thermoamylovorans
+MAG_233,Cheese ,Species_158,1535493,59.33 ,9.04 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas_E,s__unknown140
+MAG_234,Cheese ,Species_120,2504677,60.63 ,4.37 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium sp900163615
+MAG_235,Coffee ,Species_277,1638566,80.30 ,3.05 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_236,Koumiss,Species_196,1499265,57.37 ,1.25 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Moraxella_A,s__unknown31
+MAG_237,Koumiss,Species_238,2064495,96.13 ,1.57 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Macrococcus_B,s__Macrococcus_B caseolyticus
+MAG_238,Milk kefir,Species_145,2844944,98.46 ,0.22 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium casei
+MAG_239,Cheese ,Species_130,2775878,93.15 ,0.45 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium variabile
+MAG_240,Cheese ,Species_145,2715368,89.77 ,3.41 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium casei
+MAG_241,Cheese ,Species_277,1402394,50.00 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_242,Chinese liquor,Species_174,2334462,57.38 ,4.39 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Pantoea,s__Pantoea agglomerans
+MAG_243,Cheese ,Species_274,2584314,75.86 ,6.90 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_244,Cheese ,Species_269,1886505,75.66 ,0.89 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_245,Cheese ,Species_189,3521040,62.31 ,5.29 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Shewanellaceae,g__Shewanella,s__unknown92
+MAG_246,Cocoa,Species_21,1323572,66.76 ,3.07 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus sakei
+MAG_247,Koumiss,Species_170,3928018,86.64 ,2.59 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter himalayensis
+MAG_248,Milk kefir,Species_14,1726482,78.74 ,1.36 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_249,Chinese liquor,Species_9,1429779,74.88 ,8.49 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella paramesenteroides
+MAG_250,Cocoa,Species_75,1516086,58.06 ,3.16 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter pasteurianus
+MAG_251,Cocoa,Species_75,2963932,90.43 ,8.65 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter pasteurianus
+MAG_252,Cocoa,Species_74,3028382,94.93 ,2.49 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter senegalensis
+MAG_253,Cocoa,Species_74,3154168,91.09 ,1.78 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter senegalensis
+MAG_254,Cocoa,Species_262,4416728,57.06 ,3.77 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_E,s__unknown65
+MAG_255,Cocoa,Species_88,3493126,89.56 ,0.92 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus subtilis
+MAG_256,Cocoa,Species_85,3526543,100.00 ,0.76 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__Brevundimonas,s__unknown64
+MAG_257,Cheese ,Species_272,1723237,87.14 ,2.26 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus raffinolactis_A
+MAG_258,Cheese ,Species_44,2849616,99.07 ,2.78 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_259,Cheese ,Species_184,4221202,95.99 ,0.89 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__Vibrio toranzoniae
+MAG_260,Cheese ,Species_213,3488561,100.00 ,0.86 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas sp900163645
+MAG_261,Cheese ,Species_22,1741772,96.74 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_262,Cheese ,Species_229,2390347,87.52 ,2.50 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus equorum
+MAG_263,Chinese liquor,Species_11,1537465,73.41 ,1.20 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella confusa
+MAG_264,Chinese liquor,Species_47,1421898,94.41 ,3.78 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_265,Chinese liquor,Species_11,1072668,61.61 ,2.05 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella confusa
+MAG_266,Chinese liquor,Species_47,1495251,93.71 ,2.26 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_267,Chinese liquor,Species_44,2896222,77.20 ,8.41 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_268,Chinese liquor,Species_9,1361321,82.71 ,3.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella paramesenteroides
+MAG_269,Chinese liquor,Species_44,2866582,76.83 ,7.18 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_270,Chinese liquor,Species_9,1610905,86.71 ,3.74 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella paramesenteroides
+MAG_271,Chinese liquor,Species_11,1479140,80.96 ,2.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella confusa
+MAG_272,Chinese liquor,Species_55,3085005,99.21 ,2.72 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus paralimentarius
+MAG_273,Chinese liquor,Species_47,1189134,70.85 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_274,Chinese liquor,Species_290,1636954,98.09 ,1.64 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_275,Chinese liquor,Species_255,2374319,92.32 ,2.38 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_E,s__Bacillus_E coagulans
+MAG_276,Chinese liquor,Species_44,3377793,61.44 ,5.14 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_277,Milk kefir,Species_258,1147746,54.49 ,0.89 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_278,Milk kefir,Species_26,2264284,99.25 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus kefiri
+MAG_279,Bean paste,Species_292,4232046,67.80 ,3.10 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_U,s__Bacillus_U oleronius
+MAG_280,Bean paste,Species_14,1842649,100.00 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_281,Bean paste,Species_68,3045312,66.76 ,3.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus paralicheniformis
+MAG_282,Bean paste,Species_99,3693479,73.68 ,4.39 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus velezensis
+MAG_283,Bean paste,Species_77,3687744,54.62 ,3.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus glycinifermentans
+MAG_284,Bean paste,Species_2,3403108,67.89 ,4.44 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Brochotrichaceae,g__Brochothrix,s__unknown148
+MAG_285,Bean paste,Species_221,3144189,100.00 ,1.03 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Thermoactinomycetales,f__Thermoactinomycetaceae,g__Kroppenstedtia,s__unknown149
+MAG_286,Bean paste,Species_46,5430501,79.31 ,9.48 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus sonorensis
+MAG_287,Bean paste,Species_99,4141791,97.73 ,8.27 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus velezensis
+MAG_288,Bean paste,Species_255,2819021,98.63 ,1.49 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_E,s__Bacillus_E coagulans
+MAG_289,Bean paste,Species_177,2509467,96.64 ,2.36 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium_B
+MAG_290,Bean paste,Species_88,3264467,79.60 ,1.38 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus subtilis
+MAG_291,Nunu,Species_271,1972612,98.94 ,2.16 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus parasuis
+MAG_292,Nunu,Species_253,1790368,56.73 ,1.53 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter baumannii
+MAG_293,Nunu,Species_164,4244780,67.24 ,0.00 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Escherichia,s__Escherichia flexneri
+MAG_294,Nunu,Species_267,1646465,94.38 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus infantarius
+MAG_295,Nunu,Species_165,2833219,63.81 ,1.65 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella pneumoniae
+MAG_296,Nunu,Species_253,1935014,62.89 ,1.11 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter baumannii
+MAG_297,Nunu,Species_165,5903521,99.23 ,4.54 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Klebsiella,s__Klebsiella pneumoniae
+MAG_298,Nunu,Species_277,2327074,100.00 ,1.01 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_299,Nunu,Species_44,3032022,91.77 ,8.68 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_300,Nunu,Species_263,2254336,61.25 ,5.60 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_G,g__Bacillus_A,s__Bacillus_A cereus
+MAG_301,Nunu,Species_138,1526171,59.56 ,2.70 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Rothia,s__Rothia kristinae
+MAG_302,Nunu,Species_11,2051373,60.97 ,0.98 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella confusa
+MAG_303,Nunu,Species_268,2174456,97.55 ,5.71 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__unknown28
+MAG_304,Milk kefir,Species_258,1287116,64.66 ,0.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_305,Milk kefir,Species_259,1979026,67.87 ,7.99 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus kefiranofaciens
+MAG_306,Kombucha,Species_66,2364380,66.67 ,9.48 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter rhaeticus
+MAG_307,Kombucha,Species_95,3405625,69.69 ,3.71 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Rhizobiaceae,g__Mesorhizobium,s__Mesorhizobium sp001705425
+MAG_308,Kombucha,Species_61,1755093,78.14 ,1.48 ,Medium,d__Bacteria,p__Deinococcota,c__Deinococci,o__Deinococcales,f__Thermaceae,g__Thermus,s__Thermus scotoductus
+MAG_309,Cheese ,Species_242,1665218,72.93 ,1.80 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Anoxybacillaceae,g__Geobacillus,s__Geobacillus stearothermophilus
+MAG_310,Cheese ,Species_60,1247867,66.81 ,0.42 ,Medium,d__Bacteria,p__Deinococcota,c__Deinococci,o__Deinococcales,f__Thermaceae,g__Thermus,s__Thermus parvatiensis
+MAG_311,Cheese ,Species_231,2396611,58.62 ,3.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus saprophyticus
+MAG_312,Cheese ,Species_253,3453700,99.73 ,0.05 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Acinetobacter,s__Acinetobacter baumannii
+MAG_313,Cheese ,Species_231,2530825,99.44 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus saprophyticus
+MAG_314,Cheese ,Species_240,1867443,83.03 ,0.02 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Anoxybacillaceae,g__Anoxybacillus,s__Anoxybacillus thermocopriae
+MAG_315,Cheese ,Species_157,3342340,96.37 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Glutamicibacter,s__Glutamicibacter arilaitensis
+MAG_316,Cheese ,Species_284,2783037,99.18 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_317,Cheese ,Species_130,3029626,98.87 ,0.60 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium variabile
+MAG_318,Cheese ,Species_153,2518792,51.16 ,1.28 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__unknown125
+MAG_319,Cheese ,Species_232,2736890,99.44 ,1.94 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus xylosus
+MAG_320,Cheese ,Species_148,4002801,100.00 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_321,Cheese ,Species_200,3361669,99.73 ,0.62 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter cibarius
+MAG_322,Cheese ,Species_152,3635045,98.84 ,3.49 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium linens
+MAG_323,Cheese ,Species_157,3595694,99.74 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Glutamicibacter,s__Glutamicibacter arilaitensis
+MAG_324,Cheese ,Species_258,1597059,88.01 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_325,Cheese ,Species_127,2269735,94.74 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Propionibacterium,s__Propionibacterium freudenreichii
+MAG_326,Coffee ,Species_72,2034858,80.65 ,3.96 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter sp002153485
+MAG_327,Coffee ,Species_102,2683884,79.19 ,4.96 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Rhodanobacteraceae,g__Frateuria,s__unknown54
+MAG_328,Coffee ,Species_94,3927980,73.84 ,4.68 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Rhizobiaceae,g__Agrobacterium,s__Agrobacterium rhizogenes_B
+MAG_329,Coffee ,Species_94,3287469,64.67 ,2.33 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Rhizobiaceae,g__Agrobacterium,s__Agrobacterium rhizogenes_B
+MAG_330,Coffee ,Species_137,4208344,100.00 ,1.25 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Cellulomonadaceae,g__Cellulosimicrobium,s__Cellulosimicrobium funkei
+MAG_331,Coffee ,Species_163,2043018,51.72 ,6.90 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Pectobacterium,s__Pectobacterium brasiliense
+MAG_332,Coffee ,Species_102,2670464,79.71 ,5.34 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Rhodanobacteraceae,g__Frateuria,s__unknown55
+MAG_333,Coffee ,Species_96,2616114,51.90 ,0.00 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas_E,s__Pseudomonas_E parafulva
+MAG_334,Coffee ,Species_286,2844712,97.73 ,4.14 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__unknown51
+MAG_335,Coffee ,Species_102,2809887,80.41 ,4.13 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Rhodanobacteraceae,g__Frateuria,s__unknown53
+MAG_336,Coffee ,Species_42,1515727,62.46 ,3.51 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Paucilactobacillus,s__Paucilactobacillus vaccinostercus
+MAG_337,Coffee ,Species_295,3724910,58.09 ,6.91 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__unknown48
+MAG_338,Coffee ,Species_295,2334737,57.56 ,2.40 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__unknown57
+MAG_339,Coffee ,Species_73,2185382,54.89 ,1.72 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter orientalis
+MAG_340,Coffee ,Species_297,1424385,56.32 ,8.30 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc fallax
+MAG_341,Coffee ,Species_42,927588,66.32 ,3.44 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Paucilactobacillus,s__Paucilactobacillus vaccinostercus
+MAG_342,Coffee ,Species_228,1560889,87.09 ,2.42 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__unknown60
+MAG_343,Coffee ,Species_273,1234185,68.62 ,1.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus chungangensis
+MAG_344,Coffee ,Species_297,2079923,84.88 ,4.95 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc fallax
+MAG_345,Coffee ,Species_102,2100272,63.03 ,4.99 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Rhodanobacteraceae,g__Frateuria,s__unknown58
+MAG_346,Coffee ,Species_295,2616520,73.01 ,3.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__unknown56
+MAG_347,Coffee ,Species_297,1833311,85.78 ,5.37 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc fallax
+MAG_348,Coffee ,Species_72,1317154,58.56 ,0.66 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter sp002153485
+MAG_349,Milk kefir,Species_75,2002730,97.51 ,0.00 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Acetobacter,s__Acetobacter pasteurianus
+MAG_350,Milk kefir,Species_14,1513001,99.47 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_351,Milk kefir,Species_269,1505601,92.67 ,0.74 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_352,Milk kefir,Species_218,4614697,97.36 ,0.19 ,High,d__Bacteria,p__Bacteroidota,c__Bacteroidia,o__Bacteroidales,f__Bacteroidaceae,g__Phocaeicola,s__Phocaeicola vulgatus
+MAG_353,Milk kefir,Species_284,2640655,99.46 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_354,Milk kefir,Species_112,2152613,100.00 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium adolescentis
+MAG_355,Milk kefir,Species_290,1723069,98.63 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_356,Milk kefir,Species_70,2833513,98.51 ,0.00 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter medellinensis
+MAG_357,Milk kefir,Species_259,1260161,78.57 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus kefiranofaciens
+MAG_358,Milk kefir,Species_291,1549697,87.83 ,0.18 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus reuteri
+MAG_359,Milk kefir,Species_259,1206935,65.02 ,4.65 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus kefiranofaciens
+MAG_360,Kimchi,Species_22,5225091,52.60 ,8.34 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_361,Kimchi,Species_22,6029714,60.71 ,7.22 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_362,Kimchi,Species_22,2105474,69.20 ,0.40 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_363,Kombucha,Species_64,3137303,99.50 ,0.50 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter entanii
+MAG_364,Kombucha,Species_90,4135315,94.87 ,2.56 ,High,d__Bacteria,p__Acidobacteriota,c__Acidobacteriae,o__Bryobacterales,f__Bryobacteraceae,g__UBA690,s__unknown32
+MAG_365,Kombucha,Species_66,2715693,96.55 ,0.00 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter rhaeticus
+MAG_366,Kombucha,Species_241,2539941,65.04 ,7.56 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Anoxybacillaceae,g__Anoxybacillus,s__unknown37
+MAG_367,Kombucha,Species_80,3737082,51.79 ,4.34 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Xanthobacteraceae,g__Afipia,s__unknown33
+MAG_368,Kombucha,Species_104,3368268,100.00 ,1.09 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Schlegelella,s__unknown35
+MAG_369,Yoghurt,Species_269,1747616,99.89 ,0.69 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_370,Yoghurt,Species_269,1683300,97.27 ,0.29 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_371,Wine,Species_105,6195076,99.88 ,0.99 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Pelomonas,s__unknown5
+MAG_372,Wine,Species_109,4415839,94.49 ,7.36 ,Medium,d__Bacteria,p__Cyanobacteria,c__Sericytochromatia,o__S15B-MN24,f__UBA4093,g__unknown1,s__unknown7
+MAG_373,Wine,Species_270,7803143,60.75 ,8.93 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus sp003521145
+MAG_374,Wine,Species_106,5256830,65.07 ,7.92 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Ralstonia,s__unknown6
+MAG_375,Cheese ,Species_17,1684672,100.00 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides
+MAG_376,Cheese ,Species_22,1842458,76.02 ,7.91 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_377,Cheese ,Species_123,1964543,56.78 ,9.48 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__unknown132
+MAG_378,Cheese ,Species_274,1722793,62.81 ,4.95 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_379,Cheese ,Species_284,2112813,74.14 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_380,Cheese ,Species_274,2414161,99.25 ,0.94 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_381,Cheese ,Species_277,3133272,62.64 ,3.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_382,Cheese ,Species_274,1831951,60.06 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_383,Cheese ,Species_18,3168411,96.78 ,0.55 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter glacincola
+MAG_384,Cheese ,Species_278,3165031,80.68 ,5.34 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown104
+MAG_385,Cheese ,Species_290,1572591,96.99 ,0.55 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_386,Cheese ,Species_277,2472468,100.00 ,0.28 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_387,Cheese ,Species_43,2963032,98.66 ,3.09 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus paraplantarum
+MAG_388,Cheese ,Species_36,1765046,90.10 ,1.90 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Paucilactobacillus,s__Paucilactobacillus wasatchensis
+MAG_389,Cheese ,Species_277,1829245,73.71 ,8.29 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_390,Cheese ,Species_284,2264670,85.65 ,3.05 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_391,Cheese ,Species_277,1778792,57.47 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_392,Cheese ,Species_269,1736661,99.60 ,0.15 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Streptococcus,s__Streptococcus thermophilus
+MAG_393,Cheese ,Species_277,1163181,68.10 ,5.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_394,Cheese ,Species_212,1588710,51.72 ,6.03 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas sp002332255
+MAG_395,Cheese ,Species_277,2218530,100.00 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_396,Cheese ,Species_277,2238838,67.82 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_397,Cheese ,Species_274,1477850,53.33 ,1.40 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_398,Cheese ,Species_211,1619570,53.17 ,1.78 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__unknown139
+MAG_399,Cheese ,Species_274,1569210,62.17 ,3.74 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_400,Cheese ,Species_274,2610346,91.12 ,3.27 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_401,Cheese ,Species_258,1639779,79.92 ,2.18 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus helveticus
+MAG_402,Cheese ,Species_14,1680251,51.39 ,9.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_403,Cheese ,Species_274,2436968,98.96 ,1.51 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_404,Cheese ,Species_203,2187362,68.14 ,6.32 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter piscatorii
+MAG_405,Cheese ,Species_249,2304778,96.76 ,1.58 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Marinilactibacillus,s__Marinilactibacillus psychrotolerans
+MAG_406,Cheese ,Species_248,3040090,100.00 ,0.51 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Idiomarina,s__unknown111
+MAG_407,Cheese ,Species_193,3300652,66.17 ,4.18 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas distincta
+MAG_408,Cheese ,Species_192,3524814,60.40 ,9.48 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas prydzensis
+MAG_409,Cheese ,Species_275,2003062,51.02 ,7.76 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown131
+MAG_410,Cheese ,Species_212,1474576,51.72 ,6.90 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas sp002332255
+MAG_411,Cheese ,Species_277,2207093,93.92 ,1.45 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_412,Cheese ,Species_243,1619827,63.71 ,9.05 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Planococcaceae,g__Sporosarcina,s__unknown138
+MAG_413,Cheese ,Species_274,1575742,71.55 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_414,Cheese ,Species_28,2304194,95.15 ,0.65 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus parabuchneri
+MAG_415,Cheese ,Species_197,1534610,57.20 ,0.75 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown141
+MAG_416,Cheese ,Species_184,778170,61.19 ,6.92 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__Vibrio toranzoniae
+MAG_417,Cheese ,Species_14,876501,58.71 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_418,Cheese ,Species_186,1931129,63.28 ,8.62 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__unknown133
+MAG_419,Cheese ,Species_272,1882646,94.03 ,0.44 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus raffinolactis_A
+MAG_420,Cheese ,Species_274,1871675,63.79 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_421,Cheese ,Species_44,2869722,99.38 ,2.78 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_422,Cheese ,Species_22,1475554,77.78 ,1.36 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_423,Cheese ,Species_272,1690227,91.94 ,1.13 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus raffinolactis_A
+MAG_424,Cheese ,Species_274,2206374,81.03 ,5.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_425,Cheese ,Species_40,2164009,93.78 ,1.11 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus brevis
+MAG_426,Cheese ,Species_169,5054908,99.60 ,0.34 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Citrobacter,s__Citrobacter freundii
+MAG_427,Cheese ,Species_243,2640793,94.83 ,8.31 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Planococcaceae,g__Sporosarcina,s__unknown119
+MAG_428,Cheese ,Species_274,1970518,91.53 ,1.12 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_429,Cheese ,Species_278,1814131,50.21 ,2.53 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown135
+MAG_430,Cheese ,Species_205,2786984,98.21 ,0.62 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter sp002810365
+MAG_431,Cheese ,Species_154,4508074,99.13 ,0.58 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium sp004745485
+MAG_432,Cheese ,Species_149,4233264,98.84 ,1.94 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium sp900169365
+MAG_433,Cheese ,Species_36,1795106,50.03 ,8.69 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__unknown3,s__Paucilactobacillus wasatchensis
+MAG_434,Cheese ,Species_213,3570490,99.14 ,0.86 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas sp900163645
+MAG_435,Cheese ,Species_214,4233793,99.86 ,1.29 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas campaniensis
+MAG_436,Cheese ,Species_157,3379317,96.53 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Glutamicibacter,s__Glutamicibacter arilaitensis
+MAG_437,Cheese ,Species_186,3289435,93.76 ,0.23 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__unknown97
+MAG_438,Cheese ,Species_194,3904018,100.00 ,0.51 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas nigrifaciens
+MAG_439,Cheese ,Species_176,5389698,89.79 ,5.99 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Serratia,s__Serratia proteamaculans_B
+MAG_440,Cheese ,Species_217,4290616,97.27 ,0.79 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Advenella,s__Advenella sp003533245
+MAG_441,Cheese ,Species_179,4785368,88.44 ,1.34 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Serratia,s__Serratia liquefaciens
+MAG_442,Cheese ,Species_168,2842029,70.63 ,0.19 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Lelliottia,s__Lelliottia amnigena
+MAG_443,Cheese ,Species_168,3768938,55.81 ,9.22 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Lelliottia,s__Lelliottia amnigena
+MAG_444,Cheese ,Species_249,3068876,50.86 ,4.31 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Marinilactibacillus,s__Marinilactibacillus psychrotolerans
+MAG_445,Cheese ,Species_184,4576661,96.96 ,1.66 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__Vibrio toranzoniae
+MAG_446,Cheese ,Species_187,4751863,100.00 ,4.96 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Marinomonadaceae,g__Marinomonas,s__Marinomonas sp000017285
+MAG_447,Cheese ,Species_190,4020987,80.08 ,7.49 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__unknown85
+MAG_448,Cheese ,Species_140,3832187,80.12 ,3.49 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium yomogidense
+MAG_449,Cheese ,Species_148,3719265,98.26 ,0.58 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_450,Cheese ,Species_142,3956875,88.22 ,8.47 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Microbacteriaceae,g__Microbacterium,s__unknown86
+MAG_451,Cheese ,Species_191,3237797,54.80 ,1.72 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__unknown98
+MAG_452,Cheese ,Species_191,3756941,56.90 ,1.72 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__unknown89
+MAG_453,Cheese ,Species_157,2919421,80.74 ,4.46 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Glutamicibacter,s__Glutamicibacter arilaitensis
+MAG_454,Cheese ,Species_185,3820370,96.23 ,1.25 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Vibrionaceae,g__Vibrio,s__Vibrio casei
+MAG_455,Cheese ,Species_194,3423699,96.44 ,1.63 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__Pseudoalteromonas nigrifaciens
+MAG_456,Cheese ,Species_200,3254218,90.03 ,6.90 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter cibarius
+MAG_457,Cheese ,Species_148,3613854,96.51 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_458,Cheese ,Species_121,3219773,59.31 ,9.48 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium alimentarium
+MAG_459,Cheese ,Species_131,3114573,67.30 ,9.45 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown106
+MAG_460,Cheese ,Species_284,2443637,96.20 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_461,Cheese ,Species_124,2885203,54.26 ,7.13 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__unknown116
+MAG_462,Cheese ,Species_148,3974541,96.71 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_463,Cheese ,Species_229,3312254,90.47 ,5.51 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus equorum
+MAG_464,Cheese ,Species_148,3025328,66.23 ,2.60 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_465,Cheese ,Species_214,2995058,51.72 ,5.17 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas campaniensis
+MAG_466,Cheese ,Species_34,1655752,94.60 ,0.65 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus delbrueckii
+MAG_467,Cheese ,Species_60,1863711,92.80 ,1.06 ,High,d__Bacteria,p__Deinococcota,c__Deinococci,o__Deinococcales,f__Thermaceae,g__Thermus,s__Thermus parvatiensis
+MAG_468,Cheese ,Species_60,1829661,85.93 ,0.85 ,Medium,d__Bacteria,p__Deinococcota,c__Deinococci,o__Deinococcales,f__Thermaceae,g__Thermus,s__Thermus parvatiensis
+MAG_469,Cheese ,Species_127,2495530,98.79 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Propionibacterium,s__Propionibacterium freudenreichii
+MAG_470,Cocoa,Species_8,1285705,85.69 ,1.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Fructobacillus,s__Fructobacillus pseudoficulneus
+MAG_471,Cocoa,Species_65,2151297,82.03 ,0.00 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter maltaceti
+MAG_472,Cocoa,Species_71,3431943,94.84 ,5.64 ,Medium,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Komagataeibacter,s__Komagataeibacter saccharivorans
+MAG_473,Cocoa,Species_119,2601891,91.54 ,3.17 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Acetobacterales,f__Acetobacteraceae,g__Kozakia,s__Kozakia baliensis
+MAG_474,Cocoa,Species_296,1712385,94.88 ,2.14 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__Liquorilactobacillus cacaonum
+MAG_475,Cocoa,Species_290,1869141,99.18 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_476,Cocoa,Species_290,1853423,93.72 ,0.82 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_477,Cocoa,Species_290,1738106,95.36 ,0.55 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Limosilactobacillus,s__Limosilactobacillus fermentum
+MAG_478,Cocoa,Species_3,2294212,98.17 ,1.28 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__Liquorilactobacillus nagelii
+MAG_479,Cocoa,Species_44,3087551,98.15 ,2.78 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_480,Cocoa,Species_4,2182107,98.69 ,9.69 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Liquorilactobacillus,s__Liquorilactobacillus vini
+MAG_481,Cocoa,Species_16,1938111,93.30 ,1.39 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides_A
+MAG_482,Cocoa,Species_97,4562076,96.41 ,0.64 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Pseudomonadaceae,g__Pseudomonas_E,s__unknown63
+MAG_483,Soy sauce,Species_116,2876596,95.47 ,0.87 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Yaniella,s__unknown17
+MAG_484,Soy sauce,Species_208,3387228,97.24 ,2.47 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Oleiphilaceae,g__Marinobacter,s__unknown10
+MAG_485,Soy sauce,Species_146,2163701,85.20 ,2.04 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium stationis
+MAG_486,Soy sauce,Species_208,1830630,52.59 ,1.72 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Oleiphilaceae,g__Marinobacter,s__unknown23
+MAG_487,Soy sauce,Species_135,3058553,99.77 ,0.68 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown14
+MAG_488,Soy sauce,Species_244,3381382,54.03 ,9.42 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caldibacillaceae,g__Bacillus_J,s__Bacillus_J thermoamylovorans
+MAG_489,Soy sauce,Species_220,2506286,96.17 ,3.19 ,High,d__Bacteria,p__Firmicutes_F,c__Halanaerobiia,o__Halanaerobiales,f__Halanaerobiaceae,g__Halanaerobium,s__unknown21
+MAG_490,Soy sauce,Species_46,4174964,97.02 ,1.63 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus sonorensis
+MAG_491,Soy sauce,Species_188,2254696,98.68 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Tetragenococcus,s__Tetragenococcus halophilus
+MAG_492,Soy sauce,Species_216,3480362,99.14 ,1.78 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Chromohalobacter,s__unknown9
+MAG_493,Soy sauce,Species_248,3239899,99.38 ,2.77 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Idiomarina,s__unknown13
+MAG_494,Soy sauce,Species_215,2725647,52.74 ,1.75 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas halodenitrificans
+MAG_495,Yoghurt,Species_257,1504775,73.82 ,9.48 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__unknown27
+MAG_496,Yoghurt,Species_34,1430200,51.74 ,9.49 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus delbrueckii
+MAG_497,Yoghurt,Species_114,1958495,59.91 ,9.97 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium breve
+MAG_498,Yoghurt,Species_285,2676482,96.26 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus rhamnosus
+MAG_499,Yoghurt,Species_257,1451796,85.18 ,2.74 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__unknown2
+MAG_500,Yoghurt,Species_265,3296849,99.18 ,0.14 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae_C,g__Bacillus_E,s__Bacillus_E coagulans_A
+MAG_501,Yoghurt,Species_277,2288455,100.00 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_502,Yoghurt,Species_113,1924349,100.00 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium animalis
+MAG_503,Yoghurt,Species_34,1814841,99.03 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactobacillus,s__Lactobacillus delbrueckii
+MAG_504,Chinese liquor,Species_48,1724561,71.03 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus ethanolidurans
+MAG_505,Chinese liquor,Species_279,2100045,92.27 ,1.27 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Loigolactobacillus,s__Loigolactobacillus coryniformis
+MAG_506,Chinese liquor,Species_50,2173492,87.36 ,3.87 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Furfurilactobacillus,s__unknown75
+MAG_507,Chinese liquor,Species_25,1754755,80.00 ,3.23 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus diolivorans
+MAG_508,Chinese liquor,Species_30,2153565,91.25 ,5.42 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus buchneri
+MAG_509,Chinese liquor,Species_10,1102238,66.29 ,2.15 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella cibaria
+MAG_510,Chinese liquor,Species_55,2085468,53.09 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus paralimentarius
+MAG_511,Chinese liquor,Species_31,2332683,91.82 ,4.64 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus parafarraginis
+MAG_512,Chinese liquor,Species_57,2890537,76.58 ,1.88 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus licheniformis
+MAG_513,Chinese liquor,Species_40,1055258,70.97 ,1.43 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus brevis
+MAG_514,Chinese liquor,Species_42,1378685,74.59 ,1.38 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Paucilactobacillus,s__Paucilactobacillus vaccinostercus
+MAG_515,Chinese liquor,Species_29,2255200,70.87 ,5.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus sunkii
+MAG_516,Chinese liquor,Species_284,2418130,90.57 ,4.03 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus paracasei
+MAG_517,Chinese liquor,Species_44,2474787,68.97 ,7.52 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_518,Chinese liquor,Species_55,1649003,60.34 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus paralimentarius
+MAG_519,Chinese liquor,Species_283,1710734,66.49 ,4.89 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__unknown77
+MAG_520,Chinese liquor,Species_175,2860831,62.07 ,3.45 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Yersinia,s__Yersinia enterocolitica
+MAG_521,Chinese liquor,Species_47,1557551,89.83 ,1.94 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus pentosaceus
+MAG_522,Chinese liquor,Species_279,2032300,90.31 ,2.45 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Loigolactobacillus,s__Loigolactobacillus coryniformis
+MAG_523,Chinese liquor,Species_29,1709147,67.24 ,6.44 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus sunkii
+MAG_524,Chinese liquor,Species_32,2339774,84.29 ,5.33 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus rapi
+MAG_525,Chinese liquor,Species_31,2501316,86.16 ,9.39 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus parafarraginis
+MAG_526,Chinese liquor,Species_235,2349716,67.55 ,5.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus gallinarum
+MAG_527,Chinese liquor,Species_33,1305373,93.13 ,0.00 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus hilgardii
+MAG_528,Chinese liquor,Species_281,2127072,95.50 ,2.75 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lacticaseibacillus,s__Lacticaseibacillus pantheris
+MAG_529,Chinese liquor,Species_91,3286820,99.09 ,0.91 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhodobacterales,f__Rhodobacteraceae,g__Paracoccus,s__Paracoccus tibetensis
+MAG_530,Chinese liquor,Species_22,1533031,88.16 ,2.04 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_531,Chinese liquor,Species_51,1052273,63.79 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus cellicola
+MAG_532,Chinese liquor,Species_28,1910339,90.39 ,3.42 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus parabuchneri
+MAG_533,Chinese liquor,Species_49,1119522,78.64 ,1.01 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Pediococcus,s__Pediococcus parvulus
+MAG_534,Chinese liquor,Species_40,1935449,86.83 ,6.52 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus brevis
+MAG_535,Chinese liquor,Species_25,1136617,68.10 ,8.54 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus diolivorans
+MAG_536,Chinese liquor,Species_54,2405231,55.89 ,3.40 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus crustorum
+MAG_537,Chinese liquor,Species_28,2607809,80.35 ,9.03 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus parabuchneri
+MAG_538,Chinese liquor,Species_38,2747613,78.81 ,4.56 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__unknown71
+MAG_539,Chinese liquor,Species_233,2579309,84.92 ,3.36 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Thermoactinomycetales,f__Thermoactinomycetaceae,g__Kroppenstedtia,s__Kroppenstedtia eburnea
+MAG_540,Chinese liquor,Species_293,1521398,80.21 ,2.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__26KH-42,s__unknown79
+MAG_541,Chinese liquor,Species_222,1139670,92.50 ,0.63 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Fructilactobacillus,s__Fructilactobacillus sanfranciscensis
+MAG_542,Chinese liquor,Species_93,4556770,99.42 ,1.96 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Rhizobiales,f__Rhizobiaceae,g__Ochrobactrum,s__Ochrobactrum anthropi
+MAG_543,Chinese liquor,Species_55,2266518,91.66 ,3.33 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus paralimentarius
+MAG_544,Chinese liquor,Species_10,1344691,72.44 ,2.28 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella cibaria
+MAG_545,Chinese liquor,Species_54,2805921,89.99 ,6.48 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus crustorum
+MAG_546,Chinese liquor,Species_221,3257660,100.00 ,5.71 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Thermoactinomycetales,f__Thermoactinomycetaceae,g__Kroppenstedtia,s__unknown69
+MAG_547,Chinese liquor,Species_86,3563996,93.09 ,4.01 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Caulobacterales,f__Caulobacteraceae,g__PMMR1,s__unknown67
+MAG_548,Chinese liquor,Species_53,2561369,84.96 ,6.26 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus mindensis
+MAG_549,Chinese liquor,Species_83,4281405,99.82 ,0.77 ,High,d__Bacteria,p__Proteobacteria,c__Alphaproteobacteria,o__Sphingomonadales,f__Sphingomonadaceae,g__Novosphingobium,s__unknown66
+MAG_550,Chinese liquor,Species_54,2804139,93.11 ,3.05 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus crustorum
+MAG_551,Chinese liquor,Species_16,1431579,57.69 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc pseudomesenteroides_A
+MAG_552,Chinese liquor,Species_39,2975108,78.79 ,8.58 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus hammesii
+MAG_553,Cheese ,Species_155,1895093,94.43 ,3.20 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_G,s__Enterococcus_G italicus
+MAG_554,Cheese ,Species_166,2188059,93.35 ,1.87 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium
+MAG_555,Cheese ,Species_138,2133749,82.89 ,2.59 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Rothia,s__Rothia kristinae
+MAG_556,Cheese ,Species_128,3206830,100.00 ,1.32 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Propionibacteriales,f__Propionibacteriaceae,g__Acidipropionibacterium,s__Acidipropionibacterium acidipropionici
+MAG_557,Cheese ,Species_294,1658001,85.81 ,2.47 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Aerococcaceae,g__Aerococcus,s__Aerococcus urinaeequi
+MAG_558,Cheese ,Species_122,2820496,96.66 ,1.69 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus,s__Enterococcus faecalis
+MAG_559,Cheese ,Species_40,2019068,93.23 ,0.36 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus brevis
+MAG_560,Cheese ,Species_20,1612467,92.15 ,2.01 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Ligilactobacillus,s__Ligilactobacillus acidipiscis
+MAG_561,Cheese ,Species_210,1373701,86.60 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Aerococcaceae,g__Bavariicoccus,s__Bavariicoccus seileri
+MAG_562,Cheese ,Species_152,2666309,82.54 ,0.19 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium linens
+MAG_563,Cheese ,Species_115,1949766,87.92 ,1.02 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Bifidobacteriaceae,g__Bifidobacterium,s__Bifidobacterium crudilactis
+MAG_564,Cheese ,Species_129,1744343,81.81 ,1.08 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Actinomycetaceae,g__Ancrocorticia,s__Ancrocorticia populi
+MAG_565,Cheese ,Species_44,1724560,74.43 ,5.71 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_566,Cheese ,Species_43,3068487,72.55 ,6.03 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus paraplantarum
+MAG_567,Kimchi,Species_14,944720,54.96 ,0.13 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc mesenteroides
+MAG_568,Kimchi,Species_12,1364476,79.33 ,6.57 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella koreensis
+MAG_569,Kimchi,Species_21,1183025,55.46 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus sakei
+MAG_570,Kimchi,Species_15,1518796,68.63 ,5.10 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Leuconostoc,s__Leuconostoc gelidum
+MAG_571,Kimchi,Species_12,981681,66.21 ,2.04 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Weissella,s__Weissella koreensis
+MAG_572,Kimchi,Species_21,890422,54.31 ,3.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus sakei
+MAG_573,Chilli paste,Species_56,1403008,81.50 ,0.79 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Companilactobacillus,s__Companilactobacillus alimentarius
+MAG_574,Chilli paste,Species_44,2285240,61.39 ,1.34 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lactiplantibacillus,s__Lactiplantibacillus plantarum
+MAG_575,Chilli paste,Species_40,2315695,95.13 ,0.64 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus brevis
+MAG_576,Chilli paste,Species_170,4898402,97.62 ,5.32 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter himalayensis
+MAG_577,Chilli paste,Species_20,2563367,72.72 ,3.93 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Ligilactobacillus,s__Ligilactobacillus acidipiscis
+MAG_578,Chilli paste,Species_41,2266329,94.31 ,3.51 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Levilactobacillus,s__Levilactobacillus suantsaii
+MAG_579,Chilli paste,Species_172,4433834,78.54 ,8.62 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Leclercia,s__Leclercia sp000755535
+MAG_580,Chilli paste,Species_169,5266593,99.03 ,2.89 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Citrobacter,s__Citrobacter freundii
+MAG_581,Koumiss,Species_122,2541543,65.50 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus,s__Enterococcus faecalis
+MAG_582,Koumiss,Species_133,2514274,55.17 ,1.72 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_583,Koumiss,Species_155,1949686,89.96 ,2.32 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_G,s__Enterococcus_G italicus
+MAG_584,Koumiss,Species_57,3820885,95.97 ,0.88 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus licheniformis
+MAG_585,Koumiss,Species_277,2342845,72.41 ,5.17 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis
+MAG_586,Koumiss,Species_139,2676614,97.70 ,0.66 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Kocuria,s__Kocuria salsicia
+MAG_587,Koumiss,Species_26,2383770,99.06 ,1.99 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Lentilactobacillus,s__Lentilactobacillus kefiri
+MAG_588,Bean paste,Species_226,2895999,66.38 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__Vagococcus fluvialis
+MAG_589,Bean paste,Species_35,1945943,63.21 ,2.63 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Atopostipes,s__unknown156
+MAG_590,Bean paste,Species_224,1063947,50.23 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown160
+MAG_591,Bean paste,Species_224,1064230,57.10 ,8.85 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown159
+MAG_592,Bean paste,Species_88,3599997,96.68 ,0.81 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus subtilis
+MAG_593,Bean paste,Species_237,2898324,96.89 ,2.21 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus_A,s__Staphylococcus_A lentus
+MAG_594,Bean paste,Species_236,2589850,94.48 ,2.39 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus_A,s__Staphylococcus_A sciuri
+MAG_595,Bean paste,Species_224,2582832,90.63 ,1.93 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown152
+MAG_596,Bean paste,Species_226,2403481,53.76 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__Vagococcus fluvialis
+MAG_597,Bean paste,Species_24,1198366,55.98 ,7.76 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_I,s__Enterococcus_I aquimarinus
+MAG_598,Bean paste,Species_122,2770992,99.55 ,0.60 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus,s__Enterococcus faecalis
+MAG_599,Bean paste,Species_235,2776312,98.95 ,1.93 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus gallinarum
+MAG_600,Bean paste,Species_236,1732920,76.22 ,1.29 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus_A,s__Staphylococcus_A sciuri
+MAG_601,Bean paste,Species_236,1835443,80.81 ,4.60 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus_A,s__Staphylococcus_A sciuri
+MAG_602,Bean paste,Species_226,2111242,82.35 ,3.50 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__Vagococcus fluvialis
+MAG_603,Bean paste,Species_226,2663885,95.20 ,0.92 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__Vagococcus fluvialis
+MAG_604,Bean paste,Species_224,2454101,87.90 ,7.80 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown154
+MAG_605,Bean paste,Species_224,2740777,93.07 ,3.87 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown150
+MAG_606,Bean paste,Species_247,2569775,98.28 ,4.21 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Salinicoccaceae,g__Jeotgalicoccus,s__Jeotgalicoccus nanhaiensis
+MAG_607,Bean paste,Species_225,3996566,50.86 ,9.48 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown144
+MAG_608,Bean paste,Species_244,3069597,95.54 ,1.67 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Caldibacillaceae,g__Bacillus_J,s__Bacillus_J thermoamylovorans
+MAG_609,Bean paste,Species_226,3424001,69.31 ,0.00 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__Vagococcus fluvialis
+MAG_610,Bean paste,Species_177,3212400,97.14 ,8.07 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_B,s__Enterococcus_B faecium_B
+MAG_611,Bean paste,Species_225,3487912,75.67 ,7.45 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Vagococcaceae,g__Vagococcus,s__unknown146
+MAG_612,Bean paste,Species_24,1873534,72.93 ,2.15 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_I,s__Enterococcus_I aquimarinus
+MAG_613,Bean paste,Species_133,1518247,53.14 ,2.94 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_614,Bean paste,Species_159,2255493,60.90 ,0.61 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Glutamicibacter,s__unknown155
+MAG_615,Bean paste,Species_99,2762795,63.08 ,0.16 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Bacillales,f__Bacillaceae,g__Bacillus,s__Bacillus velezensis
+MAG_616,Sourdough,Species_22,2248259,94.00 ,3.43 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Lactobacillaceae,g__Latilactobacillus,s__Latilactobacillus curvatus
+MAG_617,Sourdough,Species_133,4066036,55.60 ,7.30 ,Medium,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Enterococcaceae,g__Enterococcus_D,s__Enterococcus_D casseliflavus
+MAG_618,Cheese ,Species_170,4418055,98.27 ,1.18 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Enterobacteriaceae,g__Enterobacter,s__Enterobacter himalayensis
+MAG_619,Cheese ,Species_149,3941753,98.55 ,0.58 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium sp900169365
+MAG_620,Cheese ,Species_178,3286708,99.42 ,1.26 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__Psychrobacter sp003530515
+MAG_621,Cheese ,Species_148,3517843,96.80 ,0.58 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_622,Cheese ,Species_202,2939255,97.58 ,0.51 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown114
+MAG_623,Cheese ,Species_198,2539542,87.03 ,4.99 ,Medium,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown124
+MAG_624,Cheese ,Species_249,2328928,94.64 ,2.91 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Carnobacteriaceae,g__Marinilactibacillus,s__Marinilactibacillus psychrotolerans
+MAG_625,Cheese ,Species_131,2910598,98.31 ,0.45 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown115
+MAG_626,Cheese ,Species_197,2842680,92.70 ,0.55 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown117
+MAG_627,Cheese ,Species_274,2155551,93.51 ,0.94 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Lactobacillales,f__Streptococcaceae,g__Lactococcus,s__Lactococcus lactis_E
+MAG_628,Cheese ,Species_150,4032739,97.09 ,0.29 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__unknown84
+MAG_629,Cheese ,Species_100,3220377,96.59 ,1.38 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Xanthomonadales,f__Xanthomonadaceae,g__Luteimonas,s__unknown99
+MAG_630,Cheese ,Species_63,3925938,98.58 ,0.00 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Burkholderiales,f__Burkholderiaceae,g__Alcaligenes,s__Alcaligenes aquatilis
+MAG_631,Cheese ,Species_148,3121237,89.20 ,1.79 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_632,Cheese ,Species_195,3419742,93.17 ,0.88 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Enterobacterales,f__Alteromonadaceae,g__Pseudoalteromonas,s__unknown94
+MAG_633,Cheese ,Species_161,2606786,82.66 ,1.53 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Arthrobacter_H,s__unknown121
+MAG_634,Cheese ,Species_143,2489731,99.92 ,0.67 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Microbacteriaceae,g__Agrococcus,s__Agrococcus casei
+MAG_635,Cheese ,Species_148,3720003,93.90 ,1.16 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_636,Cheese ,Species_120,3930033,87.72 ,2.83 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium sp900163615
+MAG_637,Cheese ,Species_148,3233014,80.32 ,4.36 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_638,Cheese ,Species_121,3659035,95.71 ,3.04 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium alimentarium
+MAG_639,Cheese ,Species_211,3177698,93.68 ,0.54 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__unknown103
+MAG_640,Cheese ,Species_148,3105359,86.23 ,1.16 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_641,Cheese ,Species_141,2729594,98.06 ,0.51 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Microbacteriaceae,g__Microbacterium,s__Microbacterium gubbeenense
+MAG_642,Cheese ,Species_213,3718018,99.14 ,0.86 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Halomonadaceae,g__Halomonas,s__Halomonas sp900163645
+MAG_643,Cheese ,Species_197,3054082,97.47 ,1.04 ,High,d__Bacteria,p__Proteobacteria,c__Gammaproteobacteria,o__Pseudomonadales,f__Moraxellaceae,g__Psychrobacter,s__unknown110
+MAG_644,Cheese ,Species_151,3762890,90.15 ,1.65 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__unknown88
+MAG_645,Cheese ,Species_148,3342608,94.19 ,0.00 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_646,Cheese ,Species_148,3185369,85.25 ,0.64 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_647,Cheese ,Species_117,2290452,82.30 ,1.44 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Micrococcaceae,g__Yaniella,s__unknown128
+MAG_648,Cheese ,Species_148,3278537,92.27 ,0.58 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Brevibacteriaceae,g__Brevibacterium,s__Brevibacterium aurantiacum
+MAG_649,Cheese ,Species_121,3874981,98.54 ,0.58 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium alimentarium
+MAG_650,Cheese ,Species_145,2122953,80.50 ,1.08 ,Medium,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__Corynebacterium casei
+MAG_651,Cheese ,Species_132,3107352,99.23 ,0.53 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Mycobacteriales,f__Mycobacteriaceae,g__Corynebacterium,s__unknown107
+MAG_652,Cheese ,Species_120,3805871,91.23 ,1.75 ,High,d__Bacteria,p__Actinobacteriota,c__Actinomycetia,o__Actinomycetales,f__Dermabacteraceae,g__Brachybacterium,s__Brachybacterium sp900163615
+MAG_653,Cheese ,Species_230,2640116,95.28 ,4.17 ,High,d__Bacteria,p__Firmicutes,c__Bacilli,o__Staphylococcales,f__Staphylococcaceae,g__Staphylococcus,s__Staphylococcus equorum_A
