@@ -238,3 +238,54 @@ all_food_mags_metadata_cleaned %>%
   group_by(study_catalog) %>% 
   count()
 
+# plot stats of substrate & group counts
+substrate_categories_plot <- all_food_mags_metadata_cleaned %>%
+  filter(domain == "Bacteria") %>% 
+  filter(completeness > 90) %>% 
+  filter(contigs < 100) %>%
+  group_by(substrate) %>%
+  mutate(substrate_count = n()) %>% 
+  ungroup() %>%
+  mutate(substrate = fct_lump_min(substrate, min = 20, other_level = "other")) %>%  
+  ggplot(aes(y=fct_infreq(substrate))) +   
+  geom_bar(aes(fill=substrate)) + 
+  scale_fill_brewer(palette = "Set3") +   
+  theme_classic() +                   
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12), 
+    axis.text.y = element_text(size = 12), 
+    text = element_text(size = 12), 
+    legend.position = "none", 
+    legend.text = element_text(size = 12),    
+    legend.title = element_text(size = 12),
+    title = element_text(size = 12, face = "bold")
+  ) +
+  scale_x_continuous(expand = c(0, 0)) +
+  xlab("Number of Bacterial Genomes") +
+  ylab("Food Substrate Category") + 
+  ggtitle("High-Quality Genomes across Food Substrate Categories")
+
+phylo_groups_plot <- all_food_mags_metadata_cleaned %>%
+  filter(domain == "Bacteria") %>% 
+  filter(completeness > 90) %>% 
+  filter(contigs < 100) %>%
+  ggplot(aes(y=fct_infreq(group))) +   
+  geom_bar(aes(fill=group)) + 
+  scale_fill_brewer(palette = "Set2") +   
+  theme_classic() +                   
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12), 
+    axis.text.y = element_text(size = 12), 
+    text = element_text(size = 12), 
+    legend.position = "none", 
+    legend.text = element_text(size = 12),    
+    legend.title = element_text(size = 12),
+    title = element_text(size = 12, face = "bold")
+  ) +
+  scale_x_continuous(expand = c(0, 0)) +
+  xlab("Number of Bacterial Genomes") +
+  ylab("Phylogenetic Group") + 
+  ggtitle("Number of HQ Bacterial Genomes across Phylogenetic Groups")
+
+ggsave("figs/hq-genomes-substrate-categories-plot.png", substrate_categories_plot, width=11, height=8, units=c("in"))
+ggsave("figs/hq-genomes-phylo-groups-plot.png", phylo_groups_plot, width=11, height=8, units=c("in"))
