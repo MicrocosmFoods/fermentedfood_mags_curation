@@ -185,23 +185,10 @@ all_food_mags_metadata_cleaned <- all_food_mags_metadata %>%
   ) %>% 
   select(mag_id, original_substrate, substrate_category, everything())
 
-all_food_mags_metadata_cleaned %>% 
-  group_by(group) %>% 
-  count() %>% 
-  arrange(desc(n)) %>% 
-  print(n=30)
-  
+# write out this intermediate table for manually curating categories
+write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/2024-11-01-raw-metadata-for-curation.tsv")
 
-all_food_mags_metadata_cleaned %>% 
-  group_by(substrate) %>% 
-  count() %>% 
-  arrange(desc(n)) %>% 
-  print(n=20)
-
-all_food_mags_metadata_cleaned %>% 
-  filter(completeness > 90) %>% 
-  filter(domain == "Bacteria") %>% 
-  count() # ~5900 HQ bacterial MAGs
+# read in the curated metadata table to join with assembly quality information
 
 ## QUAST stats on genome assembly quality
 combined_quast_stats <- read_tsv("metadata/raw_metadata/all_quast_stats.tsv", col_names = c("mag_id", "contigs_0", "contigs_1000", "contigs_5000", "contigs_10000", "contigs_25000", "contigs50000", "total_length_0", "total_length_1000", "total_length_5000", "total_length_10000", "total_length_25000", "total_length_50000", "contigs", "largest_contig", "total_length", "gc", "n50", "n90", "auN", "L50", "L90", "n_per_100kbp")) %>% 
