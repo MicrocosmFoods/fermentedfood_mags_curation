@@ -101,7 +101,7 @@ all_food_mags_metadata <- bind_rows(du2023_metadata_cleaned, carlino2024_complet
   mutate(substrate_category = tolower(substrate_category)) %>% 
   mutate(specific_substrate = tolower(specific_substrate))
 
-# substrate categories reorganized to match broad categories in Caffrey 2024
+# substrate categories cleaned up as best as possible before manual curation
 # below the first word listed is the broad category, after the arrow are entries that were changed to the broad category. 
 # phyla are simplified into "groups" based on previous NCBI major groupings
 # dairy -> cheese, nunu, koumiss
@@ -188,42 +188,62 @@ all_food_mags_metadata_cleaned <- all_food_mags_metadata %>%
 # write out this intermediate table for manually curating categories
 write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/2024-11-01-raw-metadata-for-curation.tsv")
 
+####################
+# Manually curated metadata 
+# Sample description - original description from the study of origin
+# Fermented Food - the food type
+# specific_substrate - the food substrate, such as cheese is the fermented food but the specific substrate is milk
+# substrate_category - larger category of the substrate, such as cheese is dairy
+# General category - broadest category, such as fermented_beverages could have several types of drinks in them
+####################
+
 # read in the curated metadata table to join with assembly quality information
+manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_metadata/2024-11-04-manually-curated-mag-metadata.tsv")
+
+colnames(manually_curated_metadata) <- c("mag_id", "sample_description", "fermented_food", "specific_substrate", "substrate_category", "general_category", "source", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog", "phylo_group")
+
+carlino_sample_info <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics/2024-11-04-Carlino-sample-metadata.tsv") %>% 
+  mutate(source = paste(dataset_name, sample_id, sep="__")) %>% 
+  select(source, "fermented/non-fermented")
+
+colnames(carlino_sample_info) <- c("source", "fermented_status")
+
+manually_curated_metadata_cleaned <- manually_curated_metadata %>% 
+  left_join(carlino_sample_info) %>% 
+  filter(!is.na(substrate_category)) %>% 
+  filter(is.na(fermented_status) | fermented_status == "F") %>% 
+  select(-fermented_status)
 
 ## QUAST stats on genome assembly quality
+## combine the manually curated metadata with assembly quality
+## Then split out bacteria, archaea, and eukaryote assemblies since mostly focusing on processing bacterial assemblies of varying quality
 combined_quast_stats <- read_tsv("metadata/raw_metadata/all_quast_stats.tsv", col_names = c("mag_id", "contigs_0", "contigs_1000", "contigs_5000", "contigs_10000", "contigs_25000", "contigs50000", "total_length_0", "total_length_1000", "total_length_5000", "total_length_10000", "total_length_25000", "total_length_50000", "contigs", "largest_contig", "total_length", "gc", "n50", "n90", "auN", "L50", "L90", "n_per_100kbp")) %>% 
   select(mag_id, contigs, total_length, gc, n50)
 
-all_food_mags_metadata_cleaned <- left_join(all_food_mags_metadata_cleaned, combined_quast_stats) %>% 
+all_food_mags_metadata_cleaned <- left_join(manually_curated_metadata_cleaned, combined_quast_stats) %>% 
   drop_na(contigs) %>% 
-  select(mag_id, substrate, completeness, contamination, contigs, total_length, gc, n50, domain, phylum, class, order, family, genus, species, group, study_catalog)
+  select(mag_id, sample_description, fermented_food, specific_substrate, substrate_category, general_category, completeness, contamination, contigs, total_length, gc, n50, domain, phylum, class, order, family, genus, species, phylo_group, study_catalog, source)
+
+all_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
+  filter(domain == "Bacteria")
 
 hq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>% 
   filter(domain == "Bacteria" )
 
-all_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria")
-
 all_euk_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(domain == "Eukaryota")
 
-# cleaned metadata copied in both subdirectory and main metadata directory
-write.csv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/mag_datasets/2024-10-09-all-food-mag-metadata-cleaned.csv", row.names = FALSE, quote = FALSE)
-
-write_tsv(all_food_mags_metadata_cleaned, "metadata/all-food-mags-metadata.tsv")
+# cleaned metadata
+write_tsv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/2024-11-04-all-food-mag-metadata-cleaned.csv")
 
 # HQ bac MAGS metadata copied in both subdirectory and main metadata directory
-write.csv(hq_bac_food_mags, "metadata/cleaned_metadata/mag_datasets/2024-10-08-HQ-bacterial-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
+write_tsv(hq_bac_food_mags, 'metadata/cleaned_metadata/2024-11-04-all-hq-bac-food-mags-metadata.tsv')
+write_tsv(all_bac_food_mags, "metadata/cleaned_metadata/2024-11-04-all-bac-food-mags-metadata.tsv")
+write_tsv(all_euk_food_mags, "metadata/cleaned_metadata/2024-11-04-all-euk-food-mags-metadata.tsv")
 
-write_tsv(hq_bac_food_mags, 'metadata/all-hq-bac-food-mag-metadata.tsv')
-
-write.csv(all_bac_food_mags, "metadata/cleaned_metadata/mag_datasets/2024-10-11-all-bac-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
-
-write.csv(all_euk_food_mags, "metadata/cleaned_metadata/mag_datasets/2024-10-11-all-euk-food-mags-metadata.csv", row.names = FALSE, quote = FALSE)
-
-# plot mag stats with main group
+# mag stats
 all_food_mags_metadata_cleaned %>% 
   filter(domain == "Bacteria") %>% 
   filter(completeness > 90) %>% 
@@ -234,7 +254,7 @@ all_food_mags_metadata_cleaned %>%
   filter(domain == "Bacteria") %>% 
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>% 
-  group_by(group, substrate) %>% 
+  group_by(phylo_group, substrate_category) %>% 
   count() %>% 
   arrange(desc(n)) %>% 
   print(n=41)
@@ -251,12 +271,12 @@ substrate_categories_plot <- all_food_mags_metadata_cleaned %>%
   filter(domain == "Bacteria") %>% 
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>%
-  group_by(substrate) %>%
+  group_by(substrate_category) %>%
   mutate(substrate_count = n()) %>% 
   ungroup() %>%
-  mutate(substrate = fct_lump_min(substrate, min = 20, other_level = "other")) %>%  
-  ggplot(aes(y=fct_infreq(substrate))) +   
-  geom_bar(aes(fill=substrate)) + 
+  mutate(substrate_category = fct_lump_min(substrate_category, min = 20, other_level = "other")) %>%  
+  ggplot(aes(y=fct_infreq(substrate_category))) +   
+  geom_bar(aes(fill=substrate_category)) + 
   scale_fill_brewer(palette = "Set3") +   
   theme_classic() +                   
   theme(
@@ -273,27 +293,6 @@ substrate_categories_plot <- all_food_mags_metadata_cleaned %>%
   ylab("Food Substrate Category") + 
   ggtitle("High-Quality Genomes across Food Substrate Categories")
 
-phylo_groups_plot <- all_food_mags_metadata_cleaned %>%
-  filter(domain == "Bacteria") %>% 
-  filter(completeness > 90) %>% 
-  filter(contigs < 100) %>%
-  ggplot(aes(y=fct_infreq(group))) +   
-  geom_bar(aes(fill=group)) + 
-  scale_fill_brewer(palette = "Set2") +   
-  theme_classic() +                   
-  theme(
-    axis.text.x = element_text(angle = 45, hjust = 1, size = 12), 
-    axis.text.y = element_text(size = 12), 
-    text = element_text(size = 12), 
-    legend.position = "none", 
-    legend.text = element_text(size = 12),    
-    legend.title = element_text(size = 12),
-    title = element_text(size = 12, face = "bold")
-  ) +
-  scale_x_continuous(expand = c(0, 0)) +
-  xlab("Number of Bacterial Genomes") +
-  ylab("Phylogenetic Group") + 
-  ggtitle("Number of HQ Bacterial Genomes across Phylogenetic Groups")
+substrate_categories_plot
 
 ggsave("figs/hq-genomes-substrate-categories-plot.png", substrate_categories_plot, width=11, height=8, units=c("in"))
-ggsave("figs/hq-genomes-phylo-groups-plot.png", phylo_groups_plot, width=11, height=8, units=c("in"))

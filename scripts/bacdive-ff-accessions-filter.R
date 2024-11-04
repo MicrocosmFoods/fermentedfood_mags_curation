@@ -61,12 +61,6 @@ hq_bacdive_genbank_metadata <- complete_bacdive_genbank_metadata %>%
   filter(completeness > 90) %>% 
   filter(contigs < 50)
 
-# all metadata copied in subdirectory and main metadata directory
-write_tsv(complete_bacdive_genbank_metadata, "metadata/cleaned_metadata/isolate_genomes/2024-10-11-complete-bacdive-ff-genbank-metadata.tsv")
+# write intermediate metadata to manually curate and match the mag metadata categories
+write_tsv(complete_bacdive_genbank_metadata, "metadata/raw_metadata/manually_curated_metadata/2024-11-04-complete-bacdive-ff-genbank-metadata.tsv")
 
-write_tsv(complete_bacdive_genbank_metadata, "metadata/all-bacdive-ff-metadata.tsv")
-
-# copy HQ metadata in subdirectory and main metadata directory
-write_tsv(hq_bacdive_genbank_metadata, "metadata/cleaned_metadata/isolate_genomes/2024-10-14-hq-bacdive-ff-genbank-metadata.tsv")
-
-write_tsv(hq_bacdive_genbank_metadata, "metadata/all-hq-bacdive-ff-metadata.tsv")
