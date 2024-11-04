@@ -232,6 +232,13 @@ hq_bac_food_mags <- all_food_mags_metadata_cleaned %>%
   filter(contigs < 100) %>% 
   filter(domain == "Bacteria" )
 
+all_food_mags_metadata_cleaned %>% 
+  filter(domain == "Bacteria") %>% 
+  filter(completeness > 50) %>% 
+  filter(contamination < 10) %>% 
+  filter(contigs < 200) %>% 
+  count()
+
 all_euk_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(domain == "Eukaryota")
 
