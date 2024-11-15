@@ -212,7 +212,12 @@ manually_curated_metadata_cleaned <- manually_curated_metadata %>%
   left_join(carlino_sample_info) %>% 
   filter(!is.na(substrate_category)) %>% 
   filter(is.na(fermented_status) | fermented_status == "F") %>% 
-  select(-fermented_status)
+  select(-fermented_status) %>%
+  mutate(across(
+    c("fermented_food", "specific_substrate", "substrate_category", "general_category"),
+    ~ str_trim(.) %>%  
+      str_replace_all("[,/]", " ") %>%
+      str_replace_all("\\s+", "_")))
 
 ## QUAST stats on genome assembly quality
 ## combine the manually curated metadata with assembly quality
