@@ -217,7 +217,8 @@ manually_curated_metadata_cleaned <- manually_curated_metadata %>%
     c("fermented_food", "specific_substrate", "substrate_category", "general_category"),
     ~ str_trim(.) %>%  
       str_replace_all("[,/]", " ") %>%
-      str_replace_all("\\s+", "_")))
+      str_replace_all("\\s+", "_"))) %>% 
+  filter(!is.na(fermented_food))
 
 ## QUAST stats on genome assembly quality
 ## combine the manually curated metadata with assembly quality
@@ -242,18 +243,25 @@ all_food_mags_metadata_cleaned %>%
   filter(completeness > 50) %>% 
   filter(contamination < 10) %>% 
   filter(contigs < 200) %>% 
-  count()
+  count() # 5550 MQ genomes
+
+mq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
+  filter(domain == 'Bacteria') %>% 
+  filter(completeness > 50) %>% 
+  filter(contamination < 10) %>% 
+  filter(contigs < 200)
 
 all_euk_food_mags <- all_food_mags_metadata_cleaned %>% 
   filter(domain == "Eukaryota")
 
 # cleaned metadata
-write_tsv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/2024-11-04-all-food-mag-metadata-cleaned.csv")
+write_tsv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/2024-11-18-all-food-mag-metadata-cleaned.csv")
 
-# HQ bac MAGS metadata copied in both subdirectory and main metadata directory
-write_tsv(hq_bac_food_mags, 'metadata/cleaned_metadata/2024-11-04-all-hq-bac-food-mags-metadata.tsv')
-write_tsv(all_bac_food_mags, "metadata/cleaned_metadata/2024-11-04-all-bac-food-mags-metadata.tsv")
-write_tsv(all_euk_food_mags, "metadata/cleaned_metadata/2024-11-04-all-euk-food-mags-metadata.tsv")
+# write out MAG metadata
+write_tsv(hq_bac_food_mags, 'metadata/cleaned_metadata/2024-11-18-all-hq-bac-food-mags-metadata.tsv')
+write_tsv(all_bac_food_mags, "metadata/cleaned_metadata/2024-11-18-all-bac-food-mags-metadata.tsv")
+write_tsv(all_euk_food_mags, "metadata/cleaned_metadata/2024-11-18-all-euk-food-mags-metadata.tsv")
+write_tsv(mq_bac_food_mags, 'metadata/cleaned_metadata/2024-11-18-all-mq-bac-food-mags-metadata.tsv')
 
 # mag stats
 all_food_mags_metadata_cleaned %>% 

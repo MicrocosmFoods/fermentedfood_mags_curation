@@ -1,0 +1,470 @@
+ID	Species	Culture collection number	Isolation source	Country	Continent	Category 1	Category 2	Category 3
+2	Acetobacter aceti	DSM 3508, ATCC 15973, NCIB 8621, CCUG 18122, LMG 1261-t1, LMG 1261 1, CCTM 3043, NBRC 14818, JCM 7641, BCRC 11688, CCM 3620, CECT 298, CGMCC 1.1809, CIP 103111, ICMP 8807, IFO 14818, LMD 23.1, LMG 1261, LMG 1504, NCCB 23001, NCIMB 8621, VTT E-042567, VTT E-97828	Food, Alcohol vinegar###Beech-wood shavings of vinegar plant###alcohol turned to vinegar			#Environmental	#Microbial community	
+12	Acetobacter cerevisiae	DSM 14362, ATCC 23765, LMG 1625, NCIMB 8894, JCM 17273, CIP 107722, VTT E-042461	Beer###beer (ale) in storage	Canada	North America	#Engineered	#Food production	#Beverage
+10	Acetobacter estunensis	DSM 4493, ATCC 23753, CCUG 18130, IAM 14359, LMG 1626, NCIMB 8935, JCM 21172, BCRC 12953, CCM 3613, IFO 13751, NBRC 13751	Apple juice or cider or associated equipment###cider making	United Kingdom	Europe	#Engineered	#Food production	#Beverage
+23	Acetobacter fabarum	DSM 19596, LMG 24244	cocoa bean heap fermentation	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+22	Acetobacter ghanensis	DSM 18895, LMG 23848	traditional heap fermentation of Ghanaian cocoa beans	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+23488	Acetobacter indonesiensis	DSM 3805, NCIB 7215, ATCC 9432, CECT 474, LMG 1607, NCIMB 7125, NCIMB 8141, NCTC 7215, NRRL B-55, JCM 21170, IAM 14357, NCIMB 7215, NCIMB 8090	vinegar			#Condition	#Acidic	
+23489	Acetobacter lambici	DSM 27328, LMG 27439	fermenting lambic beer	Belgium	Europe	#Engineered	#Food production	#Beverage
+20	Acetobacter nitrogenifigens	DSM 23921, LMG 23498, MTCC 6912, JCM 33644, BCC 33377, BCRC 80095, NBRC 105050, NRIC 0976, TBRC 15	Kombucha tea	India	Asia	#Engineered	#Food production	#Beverage
+132838	Acetobacter oeni	DSM 17891, CECT 5830, LMG 21952	Wine	Portugal	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+8	Acetobacter orleanensis	DSM 4492, ATCC 12876, CCUG 18126, IMET 10752, LMD 31.3, LMG 1282, LMG 1583, NCIMB 8622, PDDCC 8809, KCTC 12329, JCM 7639, BCRC 11568, CCM 3610, ICMP 8809, IFO 13752, NBRC 13752, NCCB 31003, VTT E-042463	Belgian bottled beer###beer	Belgium	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+4	Acetobacter pasteurianus	DSM 3509, ATCC 33445, LMD 22.1, JCM 7640, BCRC 14145, CCM 2374, CCUG 18125, CGMCC 1.1810, CIP 103108, ICMP 8808, LMG 1262, NBRC 106471, NCCB 22001, NCIMB 12228, VTT E-97830, IMET 10733	Food, Beer###beer			#Host Body-Site	#Plant	#Fruit (Seed)
+23459	Acetobacter pasteurianus	DSM 25273	viegar	Italy	Europe	#Engineered	#Food production	#Beverage
+11	Acetobacter pomorum	DSM 11825, LTH 2458, CIP 105762	Food, Apple vinegar###industrial cider vinegar fermentation	Germany	Europe	#Engineered	#Food production	#Beverage
+311	Achromobacter sp.	DSM 30031, ATCC 337, CCUG 228, NCTC 3233	ropy milk			#Environmental	#Microbial community	
+12634	Acidipropionibacterium acidipropionici	DSM 20272, ATCC 4875, NCDO 570, NCIB 8070, JCM 6432, IFO 12425, NBRC 12425, NCIMB 8070, VPI 10402, CIP 53.164	Food, Cheese, Emmenthal###Emmenthaler cheese###emmental cheese			#Engineered	#Food production	#Dairy product
+12648	Acidipropionibacterium jensenii	DSM 20275, ATCC 4871, NCDO 571, NCIB 5963	buttermilk			#Engineered	#Food production	#Dairy product
+12649	Acidipropionibacterium jensenii	DSM 20278, ATCC 4867, NCDO 572, NCIB 5960	buttermilk			#Engineered	#Food production	#Dairy product
+12650	Acidipropionibacterium jensenii	DSM 20279, ATCC 4870, CCM 1860, NCDO 565, NCIB 5962, CCUG 28150, LMG 16727, JCM 6433, NCIMB 5962, VPI 5169	Emmenthaler cheese###emmental cheese			#Engineered	#Food production	#Dairy product
+12651	Acidipropionibacterium jensenii	CCUG 48883, CIP 103028, NCIMB 8071, DSM 20535, ATCC 4868, NCDO 850, NCIB 8071	Food, Buttermilk###buttermilk			#Engineered	#Food production	#Dairy product
+12654	Acidipropionibacterium thoenii	DSM 20276, ATCC 4874, CCM 1865, CCUG 28149, HAMBI 247, JCM 6437, LMG 16455, NCDO 568, NCIB 5966, CGMCC 1.2228, CIP 103029, LMG 16731, NCIMB 5966, VPI 0412, VTT E-79095	Food, Cheese, Emmenthal###Emmenthaler cheese###emmental cheese			#Engineered	#Food production	#Dairy product
+12655	Acidipropionibacterium thoenii	DSM 20277, ATCC 4872, NCDO 854, NCIB 8072, CCUG 36817, CIP 64.34, NCIMB 8072	Food, Cheese, Emmenthal###Emmenthal cheese###emmental cheese			#Engineered	#Food production	#Dairy product
+158421	Acidipropionibacterium virtanenii	DSM 106790, VTT E-113202	finnish malted barley###malted barley	Finland	Europe	#Engineered	#Food production	#Fermented
+152400	Acinetobacter sp.	CCUG 46674	Dairy industry	Sweden	Europe	#Engineered	#Food production	#Dairy product
+159600	Actinophytocola sp.	DSM 45504, NRRL B-16160	farm soil	USA	North America	#Engineered	#Food production	#Aquaculture
+132287	Aeromicrobium camelliae	DSM 103358, CGMCC 1.12942, JCM 30592	Ripened Pu'er tea	China	Asia	#Engineered	#Food production	#Beverage
+11063	Aeromicrobium tamlense	DSM 19087, JCM 13811, NRRL B-24466, CIP 109549	Dried seaweed from Samyang beach###dried seaweed	Republic of Korea	Asia	#Condition	#Xerophilic	
+6668	Agrilactobacillus composti	DSM 18527, JCM 14202, NRIC 0689, CIP 109571	Environment, Compost of distilled shochu residue###Compost of distilled shochu residue###composting material of distilled shochu residue	Japan	Asia	#Engineered	#Food production	#Beverage
+7256	Agrococcus casei	DSM 18061, CIP 109629, LMG 22410, JCM 14916	Food, Sear-ripened cheeses, surfaces###Gubbeen cheese	United Kingdom###Ireland	Europe	#Engineered	#Food production	#Dairy product
+7258	Agrococcus jejuensis	DSM 22002, JCM 14256, KCTC 19198	From seaweed###Dried seaweed around Samyang Beach in Jeju###Dried seaweed	Republic of Korea	Asia	#Condition	#Xerophilic	
+7281	Agromyces atrinae	DSM 23870, JCM 15913, KCTC 19593	From Jeotgal, fermented shellfisg###traditional fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+24183	Agromyces soli	DSM 27631, JCM 16247, KCTC 19549, MTCC 11074, NBRC 109063	From farm soil###Farm soil near Daejeon###farm soil	Republic of Korea	Asia	#Engineered	#Food production	#Aquaculture
+414	Alicyclobacillus acidiphilus	DSM 14558, IAM 14935, NRIC 0496, JCM 21417, CIP 107723, NBRC 100859, NRIC 6496	Acidic beverage###Off-flavoured, acidic beverage###acidic beverage, that was off-flavored	Japan	Asia	#Condition	#Acidic	
+17254	Aliivibrio finisterrensis	DSM 23419, CECT 7228, LMG 23869, CMJ 11.1	cultured Manila clamp <i> Ruditapes philippinarum</i>	Spain	Europe	#Host	#Invertebrates (Other)	#Mollusca
+442	Alishewanella jeotgali	DSM 24035, JCM 15561, KCTC 22429, CGMCC 1.10666	From Flatfish Sik Hae###Gajami sikhae (jeotgal), a traditional Korean fermented seafood###gajami sikhae (jeotgal), a traditional fermented Korean food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+22946	Alkalibacterium gilvum	DSM 25751, JCM 18271	mould-ripened, soft cheese (Brie cheese)	France	Europe	#Engineered	#Food production	#Dairy product
+22947	Alkalibacterium gilvum	DSM 25752	Cheese (Blue-Brie)	Germany	Europe	#Engineered	#Food production	#Dairy product
+22948	Alkalibacterium gilvum	DSM 25753	cheese (Blue)	Italy	Europe	#Engineered	#Food production	#Dairy product
+22949	Alkalibacterium gilvum	DSM 25754	cheese (Brie)	France	Europe	#Engineered	#Food production	#Dairy product
+22950	Alkalibacterium gilvum	DSM 25755	cheese (Tilsiter)	Switzerland	Europe	#Engineered	#Food production	#Dairy product
+22951	Alkalibacterium gilvum	DSM 25757	cheese (Brie)	France	Europe	#Engineered	#Food production	#Dairy product
+22952	Alkalibacterium gilvum	DSM 25758	cheese (Blue-Brie)	Germany	Europe	#Engineered	#Food production	#Dairy product
+22953	Alkalibacterium gilvum	DSM 25759	cheese (Brie)	France	Europe	#Engineered	#Food production	#Dairy product
+22954	Alkalibacterium gilvum	DSM 25760	cheese (Brie)	France	Europe	#Engineered	#Food production	#Dairy product
+133636	Allobacillus halotolerans	BCRC 17939, LMG 24826	food product			#Engineered	#Food production	#Food
+23741	Amphibacillus indicireducens	DSM 27992, JCM 17250, NCIMB 14686	Polygonum indigo (<I>Polygonum tinctorium</I> Lour.) fermentation liquor from Date City###Polygonum Indigo (<i>Polygonum tinctorium</i> Lour.) fermentation liquor	Japan	Asia	#Engineered	#Food production	#Beverage
+6572	Apilactobacillus kunkeei	CCUG 53901, CIP 107675, DSM 12361, ATCC 700308, JCM 16173, LMG 18925	Commercial Cabernet Sauvignon wine###Partially fermented grape juice###commercial grape wine undergoing a sluggish/stuck alcoholic fermentation	United States of America###USA	North America	#Engineered	#Food production	#Beverage
+159175	Arthrobacter bussei	DSM 109896, LMG 31480, NCCB 100733	Sliced cheese	Germany	Europe	#Engineered	#Food production	#Dairy product
+7552	Arthrobacter sp.	DSM 20122	cheese			#Engineered	#Food production	#Dairy product
+7555	Arthrobacter sp.	DSM 20144, ATCC 6918, NCDO 743, NCIB 8180, NCTC 2416	creamery butter			#Engineered	#Food production	#Dairy product
+133942	Sediminibacterium lactis	KCCM 90108, JCM 18484	Donkey (<I>Equus asinus</I>) milk powder in Suwon Province###food product	Republic of Korea	Asia	#Engineered	#Food production	#Food
+146967	Bacillus amyloliquefaciens	CCUG 32562	Bread	Sweden	Europe	#Engineered	#Food production	#Food
+158610	Heyndrickxia camelliae	CGMCC 1.15374, KCTC 33845	From pu'er tea###a ripened Pu'er tea sample obtained from a manufacturer	China	Asia	#Engineered	#Food production	#Beverage
+140881	Bacillus piscicola	JCM 19598, LMG 28281, PCU 340, TISTR 2295	Fish sauce (<I>Nam-pla</I>) from a factory###Fish sauce collected from a factory	Thailand	Asia	#Engineered	#Industrial	#Plant (Factory)
+815	Bacillus smithii	DSM 4216, IFO 15311, NBRC 15311, NRRL NRS-173, CCUG 27413, LMG 12526, JCM 9076, CGMCC 1.3752, CIP 103790	Food, Cheese###cheese	United States of America	North America	#Engineered	#Food production	#Dairy product
+966	Bacillus subtilis	DSM 1971, ATCC 21394	soil or fermented soybean			#Engineered	#Food production	#Fermented
+133012	Bacillus wiedmannii	DSM 102050, CIP 111364, LMG 29269, FSL W8-0169	Animal, Raw milk stored in a dairy powder processing plant###silo raw milk sample collected from a dairy powder processing plant###raw milk stored in a dairy powder processing plant	United States of America###USA	North America	#Engineered	#Industrial	#Plant (Factory)
+5363	Bavariicoccus seileri	DSM 19936, CCUG 55508, WCC 4188	Surface of mature German red smear soft cheese###surface and smear water of smear-ripened soft cheeses	Germany	Europe	#Environmental	#Aquatic	
+154870	Bavariicoccus seileri	CCUG 55507	Surface of mature German red smear soft cheese	Germany	Europe	#Engineered	#Food production	#Dairy product
+154871	Bavariicoccus seileri	CCUG 55509	Smear water of German red smear soft cheese	Germany	Europe	#Engineered	#Food production	#Dairy product
+1733	Bifidobacterium animalis subsp. lactis	CCUG 37979, DSM 10140, CIP 105265, JCM 10602, BCRC 17394, CGMCC 1.2226, LMG 18314, NRRL B-41405, VTT E-97847, WDCM 00223	Fermented milk###yoghurt	Switzerland	Europe	#Engineered	#Food production	#Dairy product
+140884	Bifidobacterium aquikefiri	LMG 28769, CCUG 67145	Water kefir###A household water kefir fermentation process carried out in 2014	Belgium	Europe	#Environmental	#Aquatic	
+151330	Bifidobacterium bifidum	CCUG 43775	Industrial starter culture	Sweden	Europe	#Engineered	#Industrial	#Industrial production
+1747	Bifidobacterium mongoliense	DSM 21395, JCM 15461, YIT 10443, KCTC 5848	Airag, a traditional fermented mare's milk product from Mongolia###airag, the Mongolian traditional beverage made of fermented mare's milk	Mongolia	Asia	#Engineered	#Food production	#Beverage
+159329	Bifidobacterium tibiigranuli	DSM 108414, LMG 31086, TMW 2.2057	Water Kefir	Germany	Europe	#Environmental	#Aquatic	
+3909	Brachybacterium alimentarium	DSM 10672, CNRZ 925, CCUG 50349, CCM 4520, ATCC 700067, LMG 19551, CIP 104811, JCM 11607, IAM 14578, IFO 16118, NBRC 16118, NCIMB 13431	Food, Surface of Beaufort, Gruyère###Surface of Gruyère cheese###Cheese,Gruyère and Beaufort###cheese, surface of Gruyère	France	Europe	#Engineered	#Food production	#Dairy product
+133630	Brachybacterium squillarum	KACC 14221, JCM 16464	Salt-fermented food made of tiny shrimp###food product	Republic of Korea	Asia	#Engineered	#Food production	#Food
+3910	Brachybacterium tyrofermentans	CCUG 50353, CCM 4521, DSM 10673, CNRZ 926, JCM 11610, ATCC 700068, CIP 104812, IAM 14579, IFO 16119, LMG 19552, NBRC 16119, NCIMB 13430	Food, Surface rind of Beaufort, Gruyère###Surface of Beaufort cheese###Cheese,Gruyère and Beaufort###cheese, surface of Beaufort	France	Europe	#Engineered	#Food production	#Dairy product
+11412	Brevibacillus parabrevis	DSM 5550, ATCC 8186, CIP 110335, IFO 12333, NBRC 12333, NRS 779	Food, Oka cheese###Oka cheese			#Engineered	#Food production	#Dairy product
+11414	Brevibacillus parabrevis	DSM 5618, NRS 780	turkish cheese			#Engineered	#Food production	#Dairy product
+1863	Brevibacterium aurantiacum	DSM 20426, ATCC 9175, NCDO 739, NCIB 8546, JCM 2590, BCRC 10379, CCUG 12159, CCUG 23574, CECT 76, CIP 63.12, IAM 1902, IFO 12171, IMET 10996, KCTC 3084, LMG 22546, NBRC 12171, NCIMB 8546, VKM Ac-2111	Food, Cheese, Camembert###camembert cheese			#Host	#Fungi	
+1834	Brevibacterium casei	DSM 20657, ATCC 35513, NCDO 2048, CCUG 29001, JCM 2594, BCRC 12214, CCM 4100, CECT 4161, CGMCC 1.1930, CIP 102111, IFO 14812, IMET 10997, KCTC 3082, KCTC 3085, NBRC 14812, NCIMB 702048, VKM Ac-2114, IAM 2594	Food, Cheese, Cheddar###cheddar cheese			#Engineered	#Food production	#Dairy product
+130226	Brevibacterium jeotgali	DSM 29217, JCM 18571, KACC 16911	<i>seau-jeot</i> (shrimp jeotgal), a traditional fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+1842	Brevibacterium linens	DSM 20425, ATCC 9172, NCIB 9909, CCUG 47677, CIP 101125, IMET 11075, JCM 1327, NCIMB 9909, BCRC 10631, CECT 69, CGMCC 1.1890, HAMBI 2038, IAM 12437, IFO 12142, IMSNU 12001, KCTC 9099, LMG 21451, MTCC 268, NBRC 12142, NRRL B-4210, VKM Ac-2112, VTT E-94529	Food, Cheese, Harzerkase###Dairy product###Cheese,Harzerkäse###harzer cheese	Germany	Europe	#Engineered	#Food production	#Dairy product
+2271	Carnobacterium jeotgali	DSM 23388, JCM 15539, KCTC 13251	From Korean traditional fermented food###Korean traditional fermented food (jeotgal)###traditional Korean fermented food "toha jeotgal"	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+158759	Castellaniella fermenti	BCRC 81023, JCM 31755	Fermented meal in Taiwan###fermented meal	Taiwan, Province of China	Asia	#Engineered	#Food production	#Food
+12573	Cellulosimicrobium cellulans	DSM 20155, NCIB 9097	cassava fermentation			#Host	#Plants	#Shrub (Scrub)
+5678	Chryseobacterium shigense	CCUG 55591, CIP 14047, DSM 17126, NCIMB 14047, BAMY 1001, CIP 108958	lactic acid beverage	Japan	Asia	#Engineered	#Food production	#Beverage
+24197	Citricoccus sp.	DSM 15393	ripened cheese surface, Swiss Tilsit cheese	Switzerland	Europe	#Engineered	#Food production	#Dairy product
+24198	Citricoccus sp.	DSM 15394	ripened cheese surface, Swiss Tilsit cheese	Switzerland	Europe	#Engineered	#Food production	#Dairy product
+132388	Clostridium liquoris	DSM 100320, ACCC 00785	An old fermentation pit###fermentation pit used for the production of Chinese strong-flavoured liquor	China	Asia	#Engineered	#Food production	#Beverage
+130249	Clostridium swellfunianum	DSM 27788, CICC 10730, JCM 19606	Pit mud of the <I>Luzhou-flavor</I> liquor manufacturer###pit mud of the Chinese <i>Luzhou-flavor</i> liquor manufacturer	China	Asia	#Engineered	#Food production	#Beverage
+2763	Clostridium thermopalmarium	DSM 5974, ATCC 51427	palm wine	Senegal	Africa	#Host Body Product	#Plant	#Plant sap (Flux)
+2735	Clostridium tyrobutyricum	DSM 663	emmental cheese			#Engineered	#Food production	#Dairy product
+133504	Cobetia crustatorum	KCTC 22486, JCM 15644, NRIC 0824	From jogae jeotgal###Jeotgal, traditional Korean fermented seafood###Fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6579	Companilactobacillus bobalius	DSM 19674, CECT 7310, JCM 16180, CIP 109926, KACC 16343, LMG 25239, NBRC 107149	Bobal grape must###Spanish Bobal grape must	Spain	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+6455	Companilactobacillus farciminis	DSM 20184, ATCC 29644, NCIB 11717, CCUG 30671, JCM 1097, BCRC 14043, CECT 571, CIP 103136, KCTC 3681, LMG 9200, NBRC 107150, NCFB 2330, NCIMB 11717, NRRL B-4566, VTT E-991267, NCDO 2330, IMET 11462	Food, Sausage###sausage			#Engineered	#Food production	#Meat
+6456	Companilactobacillus farciminis	DSM 20180, ATCC 29645, JCM 1092	sausage			#Engineered	#Food production	#Meat
+24143	Companilactobacillus furfuricola	DSM 27174, JCM 18764, NRIC 0900, Nu 27, LMG 29538	Fermented rice bran paste, "nukadoko"###Nukadoko (fermented rice bran paste for Japanese pickles)	Japan	Asia	#Engineered	#Food production	#Food
+24144	Companilactobacillus furfuricola	DSM 27175, JCM 18765, NRIC 0901, Nu 29, NU Nu29	Fermented rice bran paste, "nukadoko"###Nukadoko (fermented rice bran paste for Japanese pickles)	Japan	Asia	#Engineered	#Food production	#Food
+23075	Companilactobacillus ginsenosidimutans	DSM 24154, EMML 3041	Kimchi (Korean fermented food)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+24136	Companilactobacillus heilongjiangensis	DSM 28069, LMG 26166, NCIMB 14701, JCM 30916, KCTC 21032	Chinese pickle###Chinese traditional pickle	China	Asia	#Engineered	#Food production	#Food
+132362	Companilactobacillus insicii	DSM 29801, CECT 8802	industrial pure pork salami###fermented raw meat (industrial-type pure pork salami)	Germany	Europe	#Engineered	#Food production	#Meat
+23074	Companilactobacillus kimchiensis	DSM 24716, JCM 17702, KACC 15533	Kimchi (traditional fermented food)###kimchi, fermented Korean food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6578	Companilactobacillus kimchii	CCUG 45370, ATCC BAA-131, CIP 107019, DSM 13961, JCM 10707, KCTC 8903P, KACC 12383, NBRC 106466, NRIC 0493	Food, Fermented vegetable, Kimchi###fermented vegetable (kimchi)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6592	Companilactobacillus mindensis	DSM 14500, CCUG 48642, LMG 21932, TMW 1.80, JCM 12532, CIP 107874, LMG 21508, NBRC 107162	Commercial sourdough###Industrial rye sourdough starter preparation (BRS)###sourdough	Germany	Europe	#Engineered	#Food production	#Fermented
+6628	Companilactobacillus nantensis	DSM 16982, CIP 108546, TMW 1.1265, JCM 16171, LMG 23510, NBRC 107153, NCIMB 14360	Food, Traditional French wheat sourdough###French wheat sourdough###wheat sourdough	France	Europe	#Engineered	#Food production	#Food
+6674	Companilactobacillus nodensis	DSM 19682, CIP 109958, JCM 14932, NBRC 107160	Food, Rice bran, Japanse pickles###Rice bran###Japanese pickles	Japan	Asia	#Engineered	#Food production	#Food
+6577	Companilactobacillus paralimentarius	DSM 13238, JCM 10415, CCUG 43349, LMG 19152, CIP 106794, NBRC 107152, NCIMB 13723	sourdough	Japan	Asia	#Engineered	#Food production	#Fermented
+6689	Companilactobacillus tucceti	DSM 20183, CECT 5920, JCM 18037, CIP 110049, KCTC 21005	Food, Meat, sausage###sausage			#Engineered	#Food production	#Meat
+6593	Companilactobacillus versmoldensis	CCUG 54626, DSM 14857, ATCC BAA-478, NCCB 100034, JCM 16174, CECT 5773, CIP 107931, KCTC 3814, LMG 21929, NBRC 106069	Poultry, raw fermented sausage###Raw fermented sausage###poultry salami	Germany	Europe	#Host	#Birds	
+3082	Corynebacterium bovis	DSM 20582, ATCC 7715, NCTC 3224, CCUG 2705, JCM 11947, BCRC 12363, CIP 54.80, IMET 10632, JCM 1482, NCDO 1689, NCIMB 701689, PCM 2047	Food, Milk###milk	United States of America	North America	#Engineered	#Food production	#Dairy product
+3207	Corynebacterium casei	CCUG 57201, CIP 107182, DSM 44701, DPC 5298, LMG S-19264, NCIMB 30130, JCM 12072, LMG 19264	Food, Cheese###Cheese,surface of smear-ripened cheese###surface of a smear-ripened cheese###cheese	Ireland	Europe	#Engineered	#Food production	#Dairy product
+3085	Corynebacterium flavescens	CCUG 28791, DSM 20296, ATCC 10340, NCDO 1320, NCIB 8707, JCM 1317, BCRC 12131, CECT 536, CGMCC 1.1885, CIP 69.5, IAM 12638, IAM 1642, IFO 14136, IMET 11080, IMSNU 21211, KCCM 41095, KCTC 3414, LMG 4046, NBRC 14136, NCCB 42012, NCFB 1320, NCIMB 8707, VKM Ac-1956	Food, Cheese###cheese			#Engineered	#Food production	#Dairy product
+23876	Corynebacterium frankenforstense	DSM 45800, CCUG 63371, CIP 110785, JCM 32210	Raw cow milk###bulk milk tank of a dairy farm	Germany	Europe	#Engineered	#Industrial	#Engineered product
+3125	Corynebacterium variabile	DSM 20536, ATCC 33010, IFO 14757, NBRC 14757, NCDO 2097, CCUG 23851, CCM 3383, LMG 19059, JCM 1377, BCRC 14862, CECT 4164, IAM 12549, KCTC 9102	meshanger cheese			#Engineered	#Food production	#Dairy product
+3126	Corynebacterium variabile	DSM 20537	meshanger cheese			#Engineered	#Food production	#Dairy product
+3127	Corynebacterium variabile	DSM 44702, CIP 107183, DPC 5310, JCM 12073, LMG S-19265, NCIMB 30131, CCUG 57202, LMG 19265, LMG 21937, LMG S-19625	Food, Cheese###Surface of a smear-ripened cheese###Cheese,Irish smear-ripened cheese (Gubbeen)###cheese	Ireland	Europe	#Engineered	#Food production	#Dairy product
+4265	Dietzia alimentaria	DSM 45698, JCM 16360, KACC 21126, NBRC 109780	traditional salt-fermented seafood made of clam jeotgal	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+132178	Enterobacter hormaechei subsp. xiangfangensis	DSM 101093, CCUG 62994, LMG 27195, NCIMB 14836	Sourdough	China	Asia	#Engineered	#Food production	#Fermented
+145456	Enterococcus durans	CCUG 28591, NCTC 8130	Roquefort cheese			#Engineered	#Food production	#Dairy product
+5295	Enterococcus faecium	DSM 2146, ATCC 6057, WDCM 00177, NBRC 113009, CIP 106742, CCM 2308, CECT 8108	Food, Cheese###cheese			#Engineered	#Food production	#Dairy product
+5342	Enterococcus italicus	DSM 15952, CCUG 50447, LMG 22039, CIP 108583	Food, Cheese, Toma Piemontese###Cheese,Italian Toma,from bovine milk###toma cheese	Italy	Europe	#Engineered	#Food production	#Dairy product
+5362	Enterococcus lactis	DSM 23655, LMG 25958	raw milk cheese (Bitto PDO)	Italy	Europe	#Engineered	#Food production	#Dairy product
+5317	Enterococcus malodoratus	DSM 20681, ATCC 43197, NCDO 846, CCUG 30572, CCM 4056, JCM 8730, BCRC 17125, CECT 971, CGMCC 1.2493, CIP 103012, HAMBI 1569, KCTC 3641, LMG 10747, NBRC 100489, NCIMB 700846, NCTC 12365	Food, Cheese, Gouda###Cheese,Gouda###gouda cheese	Netherlands	Europe	#Engineered	#Food production	#Dairy product
+146196	Enterococcus malodoratus	CCUG 30573, CCM 4057	Cheese,Gouda			#Engineered	#Food production	#Dairy product
+24005	Enterococcus olivae	DSM 25431, CCM 8603, CECT 8063	spanish-style green olive fermentations	Spain	Europe	#Engineered	#Food production	#Fermented
+5352	Enterococcus thailandicus	DSM 21767, CCM 7793, KCTC 13134, NBRC 101867, NRIC 0107, PCU 282, TISTR 933	From fermented sausage(mum)###fermented sausage (mum)	Thailand	Asia	#Engineered	#Food production	#Meat
+132922	Enterococcus xiangfangensis	DSM 105127, CCM 8607, LMG 27495, NCIMB 14834	traditional pickle	China	Asia	#Engineered	#Food production	#Fermented
+151278	Escherichia coli	CCUG 43601	Cheese	Sweden	Europe	#Engineered	#Food production	#Dairy product
+141095	Franconibacter daqui	LMG 29914, CGMCC 1.15944	Daqu sample	China	Asia	#Engineered	#Food production	#Beverage
+6464	Fructilactobacillus fructivorans	DSM 20607, ATCC 27394, NCDO 1985	wine			#Host Body-Site	#Plant	#Fruit (Seed)
+6519	Fructilactobacillus sanfranciscensis	DSM 20451, ATCC 27651, NRRL B-3934, CCUG 30143, LMG 7946, JCM 5668, BCRC 14063, CIP 103252, KCTC 3205, LMG 16002, LMG 17498, NRIC 1548, NRRL: B-3934	Food, San Francisco sour dough###San Francisco sour dough###San Francisco sourdough	United States of America	North America	#Engineered	#Food production	#Food
+6520	Fructilactobacillus sanfranciscensis	DSM 20663, ATCC 43332, JCM 11032, CIP 102982	Food, Sour dough###sourdough			#Engineered	#Food production	#Fermented
+6864	Fructobacillus durionis	DSM 19113, CCUG 49949, CIP 108761, LAB 1679, LMG 22556, JCM 17831, BCRC 81233, CECT 7089, NRIC 0663	Traditional Malaysian acid-fermented condiment (tempoyak)###Tempoyak (Malaysian acid-fermented condiment made from pulp of the durian fruit)###Tempoyak	Malaysia	Asia	#Engineered	#Food production	#Fermented
+6601	Furfurilactobacillus rossiae	CCUG 52239, ATCC BAA-822, DSM 15814, CIP 109910, JCM 16176, LMG 22972, VTT E-052790	Food, Wheat sourdough###wheat sourdough	Italy	Europe	#Engineered	#Food production	#Food
+6662	Furfurilactobacillus siliginis	DSM 22696, CIP 109367, KCTC 3985, NBRC 101315, JCM 16155, NCIMB 14361	Food, Wheat-flour sample taken from standard Korean wheat-flour No. 3, produced by DaeHan Flour Mills, Korea (http://www.dhflour.co.kr)###From fermented food###wheat sourdough	Republic of Korea	Asia	#Engineered	#Food production	#Food
+130439	Garicola koreensis	DSM 28238, JCm 18572, KACC 16909	Seau-jeot, a traditional fermented seafood###saeu-jeot (Korean salted fermented shrimp)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+23501	Gluconobacter cerevisiae	DSM 27644, LMG 27748, CIP 110637	fermenting lambic beer	Belgium	Europe	#Engineered	#Food production	#Beverage
+49	Gluconobacter oxydans	DSM 7145, ATCC 19357, NCIB 9013	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+52	Gluconobacter oxydans	DSM 50049, ATCC 621, CIP 104737, NCIB 7069, NRRL B-72, CCUG 18135, ATCC 33448, NCTC 7069, LMG 1673, NCTC 621, ATCC 23774, JCM 20429, ATCC 23773, BCRC 12581, CCM 1787, IAM 12137, IFO 3130, KCTC 2779, LMG 1400, NBRC 3130, NCIMB 6723, NCTC 6723, CIP 53.162, CCM 1783, IFO 3172, IMET 10507, LMG 1393, NCDO 2008, LMG 1402, LMG 1401, NCIMB 7069	Other, Amstel beer###Beer	Netherlands	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+23496	Gluconobacter oxydans	DSM 4494, ATCC 19357, NCIB 9013	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+152146	Gluconobacter oxydans	CCUG 45891	Alcoholic beverage,Swedish 'Glögg'	Sweden	Europe	#Engineered	#Food production	#Beverage
+7602	Glutamicibacter arilaitensis	DSM 16368, CIP 108037, JCM 13566, IAM 15318, NCIMB 14258, VTT E-072719	Food, Cheese, Reblochon###Surface of Reblochon cheese###Reblochon cheese	France	Europe	#Engineered	#Food production	#Dairy product
+7601	Glutamicibacter bergerei	DSM 16367, CIP 108036, CCUG 52342, JCM 13567, IAM 15319, NCIMB 14259	Food, Cheese, Camembert###Surface of Camembert cheese###Cheese,Camembert###camembert cheese	France	Europe	#Host	#Fungi	
+1466	Gracilibacillus thailandensis	DSM 23862, JCM 15569, PCU 304, TISTR 1881, CGMCC 1.10450	Fermented fish (<I>pla-ra</I>) in Thailand###fermented fish (pla-ra) from a market###pla-ra (traditional fermented fish)	Thailand	Asia	#Engineered	#Food production	#Fermented
+5972	Haladaptatus cibarius	DSM 19505, JCM 15962, KCTC 4055	Jeotgal, traditional Korean fermented seafood###salt-fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+5968	Halalkalicoccus jeotgali	DSM 18796, CECT 7217, JCM 14584, KCTC 4019, CGMCC 1.8490, NBRC 110681	From jeotgal###Shrimp jeotgal, traditional Korean fermented seafood###salted shrimp jeotgal (traditional Korean fermented seafood)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+134070	Halarchaeum nitratireducens	JCM 16331, CECT 7573	Commercial solar salt sample from seawater in Japan###food product			#Engineered	#Food production	#Food
+24088	Halarchaeum rubridurum	DSM 22443, CECT 7535, JCM 16108	Commercial solar salt sample produced in the Philippines###commercial solar sea salt	Philippines	Asia	#Environmental	#Aquatic	#Marine
+133624	Haloarcula salaria	BCC 40029, JCM 15759, PCU 313	Salt in a fish sauce sample from Thailand###food product			#Engineered	#Food production	#Food
+133623	Haloarcula tradensis	BCC 40030, JCM 15760, PCU 314	Salt in a fish sauce sample from Thailand###food product			#Engineered	#Food production	#Food
+134335	Halobacterium salinarum	BCC 24372, JCM 14661, PCU 302	Salt-fermented fish product (pla-ra) of Thailand###salt fermented fish			#Engineered	#Food production	#Fermented
+133787	Halobaculum magnesiiphilum	JCM 17821, KCTC 4100, NBRC 109044	Commercial sea salt produced in Japan###food product			#Engineered	#Food production	#Food
+133995	Halomicroarcula pellucida	JCM 17820, CECT 7537	Solar salt 'Sel marin de Guérande' from France###food product			#Engineered	#Food production	#Food
+6034	Halomonas alimentaria	DSM 15356, JCM 10888, KCCM 41042, KCTC 12950, CGMCC 1.3500, CIP 107381	Food, Jeotgal, korean traditinal fermented seafood###From jeotgal (Korean traditional fermented seafood)###Jeotgal, Korean traditional fermented seafood###seafood jeotgal	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+154210	Halomonas elongata	CCUG 52759	Table-olive fermentation	Tunisia	Africa	#Engineered	#Food production	#Fermented
+140921	Halomonas garicola	KACC 18117, JCM 30151	Traditional Korean fermented shrimp sauce (saeu-jeot)###Saeu-jeot, a Korean salted and fermented shrimp sauce; sample obtained after 81 days of fermentation			#Engineered	#Food production	#Fermented
+158384	Halomonas nigrificans	DSM 105749	acid curd cheese Quargel###cheese	Germany	Europe	#Engineered	#Food production	#Dairy product
+133245	Haloparvum alkalitolerans	JCM 30442, KCTC 4214	From commercial salt made from seawater in Philippines and sold in Japan###Commercial salt made from seawater in the Philippines###commercial salt made from seawater	Philippines	Asia	#Environmental	#Aquatic	#Marine
+5956	Halorubrum cibi	DSM 19504, JCM 15757, KCTC 4026	Salt-fermented seafood, shrimp jeotgal###shrimp jeotgal, a traditional Korean salt-fermented food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+131122	Halorubrum sp.	DSM 19576, KCTC 4054	Salt-fermented food	Republic of Korea	Asia	#Condition	#Saline	
+5885	Natrinema thermotolerans	DSM 18794, CECT 7218, JCM 14585, KCTC 4020, CCTCC AB 2015393	From shrimp jeotgal, a traditional salt-fermented food###Shrimp jeotgal, a traditional salt-fermented food from Korea###shrimp jeotgal, a traditional fermented food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+131330	Psychroserpens magnus	DSM 26283, JCM 18636, KCTC 32140	Intestine of cultured flounder (<I>Paralichthys olivaceus</I>) collected from a fish farm in Shandong Province###intestine of cultured flounder <i>Paralichthys olivaceus</i>	China	Asia	#Host Body-Site	#Gastrointestinal tract	
+1511	Jeotgalibacillus alimentarius	DSM 18867, CIP 107405, JCM 10872, KCCM 80002, CCM 7134, KCTC 13914	Food, Jeotgal, fermented seafood###Jeotgal, Korean traditional fermented seafood###jeotgal (traditional Korean fermented seafood)###traditional fermented seafood (jeotgal)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+14411	Jeotgalicoccus halotolerans	DSM 17274, CCM 7135, CCUG 47728, CIP 107958, JCM 11198, KCCM 41448, CGMCC 1.6779	Jeotgal###Jeotgal (traditional Korean fermented seafood)###jeotgal, traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+14412	Jeotgalicoccus psychrophilus	DSM 19085, JCM 11199, KCCM 41449, CCUG 47729, CCM 7136, CGMCC 1.6772, CIP 107952	Food, Fermented seafood jeotgal###Jeotgal, traditional Korean fermented seafood###Jeotgal (traditional Korean fermented seafood)###jeotgal, Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+151280	Klebsiella pneumoniae	CCUG 43603	Ovine cheese	Sweden	Europe	#Host	#Mammals	#Caprinae (Sheep/Goat)
+150416	Klebsiella sp.	CCUG 39852	Industrial fermentation starter	Japan	Asia	#Engineered	#Food production	#Starter culture
+7665	Kocuria atrinae	DSM 23883, JCM 15914, KCTC 19594	From Jeotgal, fermented shellfisg###Korean traditional fermented seafood###jeotgal, traditional fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+7666	Kocuria salsicia	DSM 24776, JCM 16361, KACC 21128, NBRC 109970	traditional salt-fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+159749	Komagataeibacter cocois	CGMCC 1.15338, JCM 31140	gel pellicle sample of naturally fermented coconut milk	China	Asia	#Engineered	#Food production	#Fermented
+22893	Komagataeibacter europaeus	DSM 13109, ZIM B021 (type 1), ZIM B021, ZIM B021, type 1	cider vinegar	Slovenia	Europe	#Engineered	#Industrial	
+22894	Komagataeibacter europaeus	DSM 13110, ZIM B021 (type 2), ZIM B021, ZIM B021, type 2	cider vinegar	Slovenia	Europe	#Engineered	#Industrial	
+22895	Komagataeibacter europaeus	DSM 13112, ZIM B028	wine vinegar	Slovenia	Europe	#Engineered	#Food production	#Food
+85	Komagataeibacter hansenii	DSM 5602, ATCC 35959, BCC 6318, CCUG 18123, LMG 1527, NBRC 14820, NCIMB 8746, JCM 7643, BCRC 14157, CGMCC 1.1811, CIP 103110, IFO 14820, VTT E-97829	Food, Local vinegar brew###Local vinegar brewery###Mutant derived from vinegar isolate NCIB 8745###vinegar	Israel	Asia	#Condition	#Acidic	
+23507	Komagataeibacter hansenii	DSM 46602, ATCC 23769, CCM 1808, IMET 10313, NCIB 8246, RIA 813	vinegar	Israel	Asia	#Condition	#Acidic	
+92	Komagataeibacter intermedius	DSM 11804, BCC 36457, JCM 16936, LMG 18909, BCC 36447, BCRC 17055, CIP 105780, ZIM B073	Swiss Kombucha beverage###Liquid phase of a tea fungus beverage (Kombucha)###tea fungus beverage (Komucha)	Switzerland	Europe	#Engineered	#Food production	#Beverage
+22896	Komagataeibacter intermedius	DSM 13111, ZIM B022, CIP 105781	Cider vinegar production acetator###cider vinegar	Slovenia	Europe	#Engineered	#Industrial	
+45	Komagataeibacter kakiaceti	DSM 24098, JCM 25156, LMG 26206, NRIC 0798, BCRC 80743	Kaki vinegar in Kumamoto Pref.###kaki vinegar	Japan	Asia	#Host Body-Site	#Plant	#Fruit (Seed)
+91	Komagataeibacter oboediens	DSM 11826, JCM 16937, LMG 18849, NCIMB 13557, LTH 2460, BCC 36445, BCRC 17057, CIP 105763	Food, Red wine vinegar###Submerged cider vinegar fermentation at a factory###industrial red wine vinegar fermentation	Germany	Europe	#Engineered	#Food production	#Beverage
+90	Komagataeibacter xylinus	DSM 46605, ATCC 14851, IMET 10316, NCIB 8132	vinegar brew			#Engineered	#Food production	#Food
+140736	Kushneria konosiri	KACC 14623, JCM 16805	Korean traditional salt-fermented seafood Daemi-jeot###Daemi-jeot, a traditional Korean salted and fermented seafood, which is made of larval gizzard shad (Konosirus punctatus) with solar salt	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6085	Kushneria sinocarnis	DSM 23229, CCTCC AB 209027, NRRL B-59197	Chinese traditional cured meat	China	Asia	#Engineered	#Food production	#Meat
+6670	Lacticaseibacillus camelliae	DSM 22697, BCC 21233, CIP 109883, JCM 13995, NRIC 0672, PCU 273	Plant, Fermented tea leaves###Fermented tea leaves (<I>miang</I>) in Thailand###fermented tea leaves (miang)	Thailand	Asia	#Host Body-Site	#Plant	#Leaf (Phyllosphere)
+6559	Lacticaseibacillus casei	CCUG 21451, IAM 12473, LMG 6904, DSM 20011, ATCC 393, NCDO 161, WDCM 00100, JCM 1134, BCRC 10697, CECT 475, CIP 103137, IFO 15883, KCTC 3109, NBRC 15883, NCIMB 11970, NRRL B-1922, VTT E-85225, IID 892, CCM 7088, NCTC 13641	Food, Cheese###cheese			#Engineered	#Food production	#Dairy product
+6583	Lacticaseibacillus manihotivorans	CCUG 42894, DSM 13343, LMG 18010, OND 32, JCM 12514, CIP 105851, KCTC 21010	Cassava fermentation process###Cassava fermenter###cassava sour starch fermentation	Colombia	Middle and South America	#Engineered	#Food production	#Fermented
+6551	Lacticaseibacillus paracasei subsp. paracasei	DSM 20006, JCM 1163, KCTC 3166	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6555	Lacticaseibacillus paracasei subsp. paracasei	DSM 20312, ATCC 27092	lactic acid beverage "Yakult"			#Engineered	#Food production	#Beverage
+6659	Lacticaseibacillus paracasei subsp. paracasei	DSM 23505	Traditional beverage boza	Bulgaria	Europe	#Engineered	#Food production	#Beverage
+24130	Lacticaseibacillus porcinae	DSM 28071, CCUG 62266, LMG 26767, KCTC 21027, JCM 19617	From nem chua samples(fermented pork)###Traditional Vietnamese nem chua###Food,Nem chua (fermented pork)###nem chua samples (fermented pork)	Vietnam	Asia	#Engineered	#Food production	#Meat
+24140	Lacticaseibacillus songhuajiangensis	KCTC 21025, DSM 28401, CCUG 62990, LMG 27191, NCIMB 14832, JCM 30918, CIP 110708	Sourdough###traditional sourdough###From traditional sourdough	China	Asia	#Engineered	#Food production	#Food
+6671	Lacticaseibacillus thailandensis	DSM 22698, BCC 21235, CIP 109884, JCM 13996, NRIC 0671, PCU 272	Plant, Fermented tea leaves###fermented tea leaves (miang)	Thailand	Asia	#Host Body-Site	#Plant	#Leaf (Phyllosphere)
+6626	Lactiplantibacillus argentoratensis	DSM 16365, CIP 108320, CCUG 50787, DKO 22, JCM 16169, BCRC 17638, NBRC 106468, NRIC 0653	Plant, Root of fermented manioc###Vegetable matrices###Sour cassava (fufu)###fermented cassava roots (fufu)	Nigeria	Africa	#Host Body-Site	#Plant	#Root (Rhizome)
+6682	Lactiplantibacillus fabifermentans	DSM 21115, LMG 24284	cocoa bean heap fermentation	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+131552	Lactiplantibacillus herbarum	DSM 100358, CCTCC AB 2015090	traditional Chinese fermented radish	China	Asia	#Engineered	#Food production	#Fermented
+24139	Lactiplantibacillus mudanjiangensis	DSM 28402, CCUG 62991, LMG 27194, KCTC 21026, CIP 110706	Korean pickle, Japanese pickle, Chinese pickle###Pickle###traditional pickle###From traditional pickle	China	Asia	#Engineered	#Food production	#Fermented
+6490	Lactiplantibacillus pentosus	DSM 16366	brines,table olive fermentation	Portugal	Europe	#Condition	#Saline	
+6493	Lactiplantibacillus plantarum subsp. plantarum	DSM 2601, ATCC 10241, NCDO 343, NCIB 7220, JCM 1551, BCRC 12251, CECT 749, CIP 71.39, KCTC 3104, LMG 9208, NCFB 343, NCIMB 7220, NCIMB 8184, NCTC 7220	Food, Sauerkraut###pickled cabbage	United Kingdom	Europe	#Condition	#Saline	
+6495	Lactiplantibacillus plantarum subsp. plantarum	DSM 6872	salami and sausage Pamplona type (Chorizo tipo Pamplona)	Spain	Europe	#Engineered	#Food production	#Meat
+6496	Lactiplantibacillus plantarum subsp. plantarum	DSM 10492	olive brine; Spanish style	Portugal	Europe	#Condition	#Saline	
+6497	Lactiplantibacillus plantarum subsp. plantarum	DSM 12028	dry fermented sausage ("chouriço")	Portugal	Europe	#Engineered	#Food production	#Meat
+6498	Lactiplantibacillus plantarum	DSM 13273, ATCC BAA-171, NRRL B-14768, CCUG 45396, CIP 106786, JCM 11125, NCIMB 14068	Fermenting jojoba meal###Jojoba meal###jojoba meal fermentation	United States of America###USA	North America	#Host	#Plants	#Shrub (Scrub)
+24124	Lactiplantibacillus plantarum subsp. plantarum	DSM 1055, NRRL B-5461	bread dough	USA	North America	#Engineered	#Food production	#Food
+130964	Lactiplantibacillus plantarum subsp. plantarum	DSM 100813	Monastrell grape must	Spain	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+23073	Lactiplantibacillus xiangfangensis	DSM 27103, LMG 26013, NCIMB 14687, JCM 30915, KCTC 21028, NBRC 108914	Chinese pickle###pickle	China	Asia	#Engineered	#Food production	#Food
+6402	Lactobacillus acetotolerans	DSM 20749, ATCC 43578, JCM 3825, CCUG 32229, LMG 10751, CIP 103180, NCIMB 12799, NBI 3014, CECT 4019, NCFB 2798	Food, Turbid broth of rice vinegar###Turbid broth of rice vinegar###fermented vinegar broth	Japan	Asia	#Engineered	#Food production	
+150992	Ligilactobacillus acidipiscis	CCUG 42959	Cheese,Halloumi			#Engineered	#Food production	#Dairy product
+150993	Ligilactobacillus acidipiscis	CCUG 42960	Cheese,Halloumi			#Engineered	#Food production	#Dairy product
+150994	Ligilactobacillus acidipiscis	CCUG 42962	Cheese,Halloumi			#Engineered	#Food production	#Dairy product
+142532	Lactobacillus acidophilus	CCUG 12853, LMG 8151	Commersial acidophilus-milk produced by Arla	Sweden	Europe	#Engineered	#Food production	#Dairy product
+146219	Lactobacillus acidophilus	CCUG 30632	Industrial lactic acid starter	Sweden	Europe	#Engineered	#Food production	#Starter culture
+151950	Companilactobacillus alimentarius	CCUG 45310	Industrial fermented sausage	Sweden	Europe	#Engineered	#Food production	#Meat
+151951	Companilactobacillus alimentarius	CCUG 45311	Industrial fermented sausage	Sweden	Europe	#Engineered	#Food production	#Meat
+141151	Companilactobacillus allii	KCTC 21077, JCM 31938	From scallion kimchi###Scallion kimchi in Gwangju###scallion kimchi	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6571	Lactobacillus amylolyticus	DSM 11664, CCUG 39901, CIP 107338, JCM 12529, LMG 18796	Brewery###acidified beer wort	Germany	Europe	#Condition	#Acidic	
+159711	Levilactobacillus bambusae	BCRC 80970, NBRC 112377	traditional fermented ma bamboo shoot products	Taiwan, Province of China	Asia	#Engineered	#Food production	#Food
+150969	Loigolactobacillus bifermentans	CCUG 42896, LMG 11432	Cheese			#Engineered	#Food production	#Dairy product
+138176	Levilactobacillus brevis	CIP 105138, ATCC 27306, CCRC 14045, CCUG 21960, JCM 1183, LMG 7935, BCRC 14045	Food, Wine###Wine			#Host Body-Site	#Plant	#Fruit (Seed)
+150456	Levilactobacillus brevis	CCUG 39980	Carrots,ecological fermentation	Sweden	Europe	#Engineered	#Food production	#Fermented
+155513	Levilactobacillus brevis	CCUG 57950	Pickles	Sweden	Europe	#Condition	#Saline	
+146615	Lacticaseibacillus casei	CCUG 31608	Milk starter culture			#Host Body Product	#Other	#Animal produced food (natural)
+134233	Companilactobacillus crustorum	CCUG 53174, CIP 109613, LMG 23699, JCM 15951, NBRC 107159	Food, Wheat sourdough###Wheat sourdough###Sourdough	Belgium	Europe	#Engineered	#Food production	#Fermented
+133853	Lentilactobacillus curieae	JCM 18524, CCTCC M 2011381	Stinky tofu brine###food product	China	Asia	#Engineered	#Food production	#Food
+140766	Furfurilactobacillus curtus	JCM 31185, VTT E-94560	beer	Finland	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+150486	Latilactobacillus curvatus	CCUG 41416	Cabbage,ecological,end of natural fermentation	Sweden	Europe	#Engineered	#Food production	#Fermented
+6448	Lactobacillus delbrueckii subsp. bulgaricus	DSM 20080	yoghourt			#Engineered	#Food production	#Dairy product
+6449	Lactobacillus delbrueckii subsp. bulgaricus	DSM 20081, ATCC 11842, NCDO 1489, WDCM 00102, CCUG 41390, CIP 101027, LMG 6901, IMET 10708, JCM 1002, BCRC 10696, CCM 7190, CCUG 21450, CECT 4005, IAM 12472, IFO 13953, KCTC 3635, LMG 13551, NBRC 13953, NCFB 1489, NCIMB 11778, NCTC 12712, NRIC 1688, VKM B-1923, VTT E-96662	Food, Bulgarian yogurt###Bulgarian yogurt###bulgarian yoghourt			#Engineered	#Food production	#Dairy product
+151049	Lactobacillus delbrueckii subsp. bulgaricus	CCUG 43157, LMG 22210	LBU culture,food industry	Sweden	Europe	#Engineered	#Laboratory	#Lab enrichment
+6450	Lactobacillus delbrueckii	CCUG 34222, CCM 7191, DSM 20074, ATCC 9649, NCDO 213, NCIB 8130, JCM 1012, BCRC 12195, CECT 286, CGMCC 1.2624, CIP 57.8, IAM 12474, IFO 3202, KCTC 1047, LMG 6412, NBRC 3202, NCIMB 8130, NRIC 1053, NRRL B-763, VKM B-1596, VTT E-98097	sour grain mash			#Engineered	#Food production	#Food
+6610	Lactobacillus delbrueckii subsp. indicus	DSM 15996, LMG 22083, CCUG 51390, CIP 108704, JCM 15610, NCC 725	Indian dairy products###Dairy fermented product###traditional dairy fermented product (Dahi type)	India	Asia	#Engineered	#Food production	#Dairy product
+6451	Lactobacillus delbrueckii subsp. lactis	DSM 20072, ATCC 12315, NCDO 1438, CCUG 31454, IAM 12476, JCM 1248, BCRC 12256, CGMCC 1.2132, CGMCC 1.2625, CIP 101028, KACC 12417, KCTC 3636, LMG 7942, NBIMCC 1012, NBRC 102622, NCFB 1438, NRIC 1683, NRRL B-4525, VTT E-93488	Food, Cheese, Emmental Swiss###Emmental (Swiss) cheese###Cheese,Swiss Emmenthal###emmental cheese			#Engineered	#Food production	#Dairy product
+24129	Lactobacillus delbrueckii subsp. sunkii	DSM 24966, JCM 17838, KCTC 15515, YIT 11221	From sunki, Japanese traditional fermented vegetable(pickle)###Sunki, traditional Japanese pickles###sunki, Japanese traditional fermented vegetable	Japan	Asia	#Engineered	#Food production	#Fermented
+146319	Limosilactobacillus fermentum	CCUG 30889, NCIMB 12117	Ogi',a fermented corn product			#Engineered	#Food production	#Fermented
+133700	Companilactobacillus futsaii	JCM 17355, BCRC 80278, YM 0097	Fu-tsai, a traditional fermented mustard product###Fermented mustard	Taiwan, Province of China	Asia	#Engineered	#Food production	
+6471	Lactobacillus helveticus	DSM 20075, ATCC 15009, CCUG 30139, IMET 10709, LMG 6413, CCTM 3036, JCM 1120, BCRC 12936, CCM 7193, CECT 4305, CIP 103146, IFO 15019, KCTC 3545, LMG 13555, NBRC 15019, NCFB 2712, NCIMB 11971, NRIC 1545, NRRL B-4526, NCDO 2712	Food, Cheese, Emmental Swiss###Emmental (Swiss) cheese###emmental cheese			#Engineered	#Food production	#Dairy product
+153568	Lactobacillus helveticus	CCUG 50205, NCIMB 14005, JCM 30912, BCRC 17499, LMG 22464	Malt whisky distilleries###Malt whisky	Japan	Asia	#Engineered	#Food production	#Beverage
+6561	Lactobacillus johnsonii	DSM 20553, JCM 2122, LMG 18184	sour milk			#Engineered	#Food production	#Dairy product
+6622	Lactobacillus kefiranofaciens	CCUG 32248, LMG 9916, CIP 103307, DSM 5016, ATCC 43761, JCM 6985, BCRC 16059, CECT 5954, CGMCC 1.3402, KCTC 5075, LMG 19149, NCFB 2797, NCIMB 702797, NRIC 1718	Food, Kefir grains###kefir grains			#Engineered	#Food production	
+6623	Lactobacillus kefiranofaciens subsp. kefiranofaciens	DSM 5017, JCM 7446	kefir grains			#Engineered	#Food production	
+6566	Lactobacillus kefiranofaciens subsp. kefirgranum	DSM 10550, JCM 8572, CCUG 49353, ATCC 51647, LMG 19819, CIP 104241, LMG 15132, GCL 1701, CCUG 39467, CECT 5919, CGMCC 1.3398, CGMCC 1.3689, KCTC 5086, LMG 19150, NCIMB 13720	Plant, Kefir grains###Kefir grains###Kefir grains from E.C.Hansen's lab.,Copenhagen,DK###kefir grain	Denmark###Japan	Europe###Asia	#Engineered	#Food production	
+133577	Secundilactobacillus kimchicus	KCTC 12976, JCM 15530, DCY 51	From kimchi###Kimchi###food product	Republic of Korea	Asia	#Engineered	#Food production	#Food
+151560	Liquorilactobacillus mali	CCUG 44319	Cider,apple,industrially processed	Sweden	Europe	#Engineered	#Industrial	#Industrial production
+151915	Liquorilactobacillus mali	CCUG 45194	Cider,pear,disturbed process-turbidity-whitening	Sweden	Europe	#Engineered	#Food production	#Beverage
+154729	Liquorilactobacillus mali	CCUG 55001	Cider,pear	Sweden	Europe	#Engineered	#Food production	#Beverage
+137568	Lacticaseibacillus paracasei	CIP 107868, ATCC 334, CCUG 31169	Food, Emmental cheese###Emmental cheese			#Engineered	#Food production	#Dairy product
+146616	Lacticaseibacillus paracasei	CCUG 31609	Milk starter culture			#Host Body Product	#Other	#Animal produced food (natural)
+151558	Lacticaseibacillus paracasei	CCUG 44316	Industrially produced cider	Sweden	Europe	#Engineered	#Food production	#Beverage
+143934	Lactiplantibacillus plantarum	CCUG 21963, LMG 7940 1	Cheese			#Engineered	#Food production	#Dairy product
+148205	Lactiplantibacillus plantarum	CCUG 35035	Sour dough [6476]			#Engineered	#Food production	#Food
+150382	Lactiplantibacillus plantarum	CCUG 39786	Vegetable,fermented	Sweden	Europe	#Engineered	#Food production	#Fermented
+150484	Lactiplantibacillus plantarum	CCUG 41414	Cabbage,ecological,end of natural fermentation	Sweden	Europe	#Engineered	#Food production	#Fermented
+153731	Lactiplantibacillus argentoratensis	CCUG 50788	Fermented millet (baba)	Nigeria	Africa	#Engineered	#Food production	#Fermented
+146224	Lacticaseibacillus rhamnosus	CCUG 30651, LMG ID239	Industrial lactic acid starter	Sweden	Europe	#Engineered	#Food production	#Starter culture
+151138	Paralactobacillus selangorensis	CCUG 43348, LMG 17713	Chili bo			#Engineered	#Food production	#Food
+139743	Lactobacillus sp.	DSM 16305	Cheese	Denmark	Europe	#Engineered	#Food production	#Dairy product
+143635	Lactobacillus sp.	CCUG 20675	Sour dough	Sweden	Europe	#Engineered	#Food production	#Fermented
+146320	Lactobacillus sp.	CCUG 30890, NCIMB 12118	Ogi',a fermented corn product			#Engineered	#Food production	#Fermented
+146321	Lactobacillus sp.	CCUG 30891, NCIMB 12119	Ogi',a fermented corn product			#Engineered	#Food production	#Fermented
+159832	Companilactobacillus nuruki	KACC 18726, NBRC 112011	Nuruk. A Korean fermentation starter	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+14691	Lactococcus cremoris	DSM 20069, ATCC 19257, NCDO 607, NCIB 8662, CCUG 21953, LMG 6897, IMET 10707, JCM 16167, BCRC 12586, CECT 7100, CIP 102301, CNCTC 6910, HAMBI 1588, NBRC 100676, NCFB 607, NCIMB 8662	Raw milk###Cheese starter culture	New zealand	Australia and Oceania	#Engineered	#Food production	#Starter culture
+134042	Lactococcus formosensis	NBRC 109475, BCRC 80576, JCM 31966, LMG 29105	<I>Yan-tsai-shin</I> (fermented broccoli stems)###fermented broccoli stems	Taiwan, Province of China	Asia	#Engineered	#Food production	#Fermented
+130969	Lactococcus garvieae	DSM 29394, CSUR P1376	fermented milk (raib), Algerian cow	Algeria	Africa	#Engineered	#Food production	#Dairy product
+145429	Lactococcus lactis	CCUG 28474	Cheese	Sweden	Europe	#Engineered	#Food production	#Dairy product
+144926	Lactococcus cremoris	CCUG 27116	Lactic acid culture,'Flora Danica'	Denmark	Europe	#Engineered	#Food production	#Starter culture
+152120	Lactococcus cremoris	CCUG 45836, LMG 9458	Cheese starter			#Engineered	#Food production	#Dairy product
+6532	Lapidilactobacillus dextrinicus	DSM 20293, CIP 102405, ATCC 700477	Food, Beer###beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6445	Latilactobacillus curvatus	DSM 20495, Tro 8	fermented cabbage leaves	Thailand	Asia	#Engineered	#Food production	#Fermented
+6446	Latilactobacillus curvatus	DSM 20496	pickled cabbage			#Condition	#Saline	
+6447	Latilactobacillus curvatus	DSM 20499, Tro 17	fermented cabbage leaves	Thailand	Asia	#Engineered	#Food production	#Fermented
+6602	Latilactobacillus sakei subsp. carnosus	DSM 15831, CCUG 31331, CIP 105422, JCM 11031, KCTC 3802, BCRC 17500, CECT 5766, KCTC 5053, LMG 17302, NBRC 107868	From fermented meat product(raw sausage)###Fermented meat product###Raw sausage###fermented meat produkt	Germany	Europe	#Engineered	#Food production	#Meat
+6516	Latilactobacillus sakei subsp. sakei	DSM 20494, JCM 1128, CIP 104494	Pickled cabbage###sauerkraut			#Condition	#Saline	
+6517	Latilactobacillus sakei subsp. sakei	DSM 20497	pickled cabbage			#Condition	#Saline	
+6518	Latilactobacillus sakei subsp. sakei	DSM 20498, Tro 11	fermented cabbage leaves	Thailand	Asia	#Engineered	#Food production	#Fermented
+6570	Latilactobacillus sakei	CCUG 30501, DSM 20017, ATCC 15521, WDCM 00015, JCM 1157, BCRC 14622, CECT 906, CGMCC 1.2142, CIP 103139, IFO 15893, KCTC 3603, LMG 9468, NBRC 15893, NCFB 2714, NCIMB 13090, NRIC 1071, VTT E-991032, NCDO 2714, CCM 7203, NCTC 13636	Food, Starter of sake###Moto (starter of sake)###Sake starter,'Moto'###"Moto" starter of sake			#Engineered	#Food production	#Beverage
+158809	Lelliottia jeotgali	KCCM 43247, JCM 31901	Jogae-jeotgal, a traditional Korean fermented clam in Inchon###traditional Korean fermented clams (jogae-jeotgal)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+1362	Lentibacillus halophilus	DSM 19123, CIP 109343, JCM 12149, PCU 240, TISTR 1549, NCIMB 14363	Food, Fish, sauce###Fish-sauce fermentation in Thailand###fish sauce###fish-sauce fermentation	Thailand	Asia	#Engineered	#Food production	#Fermented
+1367	Lentibacillus jeotgali	DSM 23924, JCM 15795, KCTC 13300	From Garibi-jeotgal, traditional Korean fermented seafood made from scallops###Jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood made from scallops, "Garibi-jeotgal"	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+134103	Lentibacillus juripiscarius	JCM 12147, PCU 229, TISTR 1535, DSM 16577, CGMCC 1.6153, CIP 108664	Food, Fish, sauce###Fish sauce (nam-pla) produced in Thailand###fish sauce	Thailand	Asia	#Engineered	#Food production	
+1363	Lentibacillus kapialis	DSM 19124, JCM 12580, PCU 259, TISTR 1551, CIP 109544	Shrimp paste, fermented###Fermented shrimp paste ('ka-pi') produced in Thailand###fermented shrimp paste###fermented shrimp paste from a market	Thailand	Asia	#Engineered	#Food production	#Fermented
+6643	Lentilactobacillus farraginis	DSM 18382, JCM 14108, NRIC 0676, CIP 109567	Environment, Compost of distilled shochu residue###Compost of distilled shochu residue###composting material of distilled shochu residue	Japan	Asia	#Engineered	#Food production	#Beverage
+6472	Lentilactobacillus hilgardii	DSM 20051	wine			#Host Body-Site	#Plant	#Fruit (Seed)
+6473	Lentilactobacillus hilgardii	DSM 20176, ATCC 8290, NCDO 264, NCIB 8040, CCUG 30140, LMG 6895, JCM 1155, BCRC 12937, CECT 4786, CIP 103007, IFO 15886, KCTC 3500, NBIMCC 3445, NBRC 15886, NCFB 264, NCIMB 8040, NRIC 1060, NRRL B-1843, VTT E-991266	Plant, Wine###wine			#Host Body-Site	#Plant	#Fruit (Seed)
+6476	Lentilactobacillus kefiri	DSM 20485, ATCC 8007, NCDO 190, NCIB 8120, CIP 106379, NCIMB 8120	Plant, Kefir grains###kefir grains			#Engineered	#Food production	
+6477	Lentilactobacillus kefiri	DSM 20587, ATCC 35411, VKM B-2244, CCUG 30673, JCM 5818, BCRC 14011, CGMCC 1.3399, CIP 103006, IFO 15888, KCTC 3611, LMG 9480, NBRC 15888, NCFB 2737, NCIMB 12798, NRIC 1693, VTT E-93520, NCDO 2737, PCM 2501	Food, Kefir grains###kefir grains			#Engineered	#Food production	
+6478	Lentilactobacillus kefiri	DSM 20588	drink kefir			#Engineered	#Food production	#Dairy product
+6684	Lentilactobacillus kisonensis	DSM 19906, JCM 15041, NRIC 0741, YIT 11168, CIP 110026	Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	Japan	Asia	#Engineered	#Food production	#Fermented
+6685	Lentilactobacillus otakiensis	DSM 19908, JCM 15040, NRIC 0742, YIT 11163, CIP 110027	Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	Japan	Asia	#Engineered	#Food production	#Fermented
+6540	Lentilactobacillus parabuchneri	DSM 5706, NCDO 1066	cream cheese			#Engineered	#Food production	#Dairy product
+6543	Lentilactobacillus parabuchneri	DSM 5987, LTH 1389	cheese			#Engineered	#Food production	#Dairy product
+6544	Lentilactobacillus parabuchneri	DSM 15352, CIP 106749, JCM 12511, LMG 22038, NCIMB 13725	Environment, Blair athol distillery###Late fermentation sample from a malt whiskey distillery###blair athol distillery	United Kingdom	Europe	#Engineered	#Food production	#Beverage
+6644	Lentilactobacillus parafarraginis	DSM 18390, JCM 14109, NRIC 0677, CIP 109568	Environment, Compost of distilled shochu residue###Compost of distilled shochu residue###composting material of distilled shochun residue	Japan	Asia	#Engineered	#Food production	#Beverage
+6567	Lentilactobacillus parakefiri	CCUG 39468, GCL 1731, ATCC 51648, DSM 10551, IFO 15890, JCM 8573, NBRC 15890, CGMCC 1.3400, CIP 104242, KCTC 5044, KCTC 5087, LMG 15133, NCIMB 13300, JCM 8753	Plant, Kefir grains###Kefir grains###Kefir grains from E.C.Hansen's lab.,Copenhagen,DK###kefir grain	Denmark	Europe	#Engineered	#Food production	
+6686	Lentilactobacillus rapi	DSM 19907, JCM 15042, NRIC 0743, YIT 11204, CIP 110029, NBRC 109618	Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	Japan	Asia	#Engineered	#Food production	#Fermented
+6687	Lentilactobacillus sunkii	DSM 19904, JCM 15039, NRIC 0744, YIT 11161, CIP 110028	Sunki, non-salted pickle solution###Sunki, traditional Japanese pickles###non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	Japan	Asia	#Engineered	#Food production	#Fermented
+6688	Lentilactobacillus sunkii	DSM 19905, JCM 15046, YIT 11549	non-salted pickle solution used in production of sunki (Japanese traditional fermented leaves and stems of red turnips)	Japan	Asia	#Engineered	#Food production	#Fermented
+7361	Leucobacter celer	DSM 26651, JCM 16465, KACC 14220, NAL 101	Gajami sikhae (jeotgal), a traditional Korean fermented seafood###gajami-sikhae, a traditional Korean fermented food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+132119	Leucobacter salsicius	DSM 103340, JCM 16362, KACC 21127	Jeotgal (a Korean salt-fermented food containing tiny shrimps)###jeotgal, a Korean salt-fermented food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+150455	Leuconostoc citreum	CCUG 39979	Carrots,ecological fermentation	Sweden	Europe	#Engineered	#Food production	#Fermented
+6836	Leuconostoc fallax	DSM 20189, ATCC 700006, CCUG 30061, JCM 9694, CCM 4303, CECT 4701, CECT 7087, CGMCC 1.2438, CIP 104855, KCTC 3537, LMG 13177, LMG 18975, NCFB 2796, NCIMB 702796, NRIC 0210, VTT E-98973	Pickled cabbage (Sauerkraut)###sauerkraut			#Condition	#Saline	
+6839	Leuconostoc holzapfelii	DSM 21478, CCUG 54536, LMG 23990, JCM 16942, NCIMB 14555	Ethiopian coffee fermentation###coffee fermentation	Ethiopia	Africa	#Host	#Plants	#Shrub (Scrub)
+6837	Leuconostoc inhae	DSM 15101, KCTC 3774, JCM 17833, CECT 7026, CIP 108081, LMG 22919, NRIC 0562	Food, Kimchi, fermented vegetale food in Korea###From Kimchi(fermented vegetable food in Korea)###Kimchi###kimchi (fermented vegetable food in Korea)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6817	Leuconostoc lactis	DSM 20192, CCUG 21964, LMG 7940t2, LMG 7940	cheese			#Engineered	#Food production	#Dairy product
+141962	Leuconostoc lactis	CCUG 8883 B	Kefir	Sweden	Europe	#Engineered	#Food production	#Beverage
+150485	Leuconostoc mesenteroides	CCUG 41415	Cabbage,ecological,end of natural fermentation	Sweden	Europe	#Engineered	#Food production	#Fermented
+151341	Leuconostoc mesenteroides	CCUG 43796	Cider,final industrial product	Sweden	Europe	#Engineered	#Food production	#Beverage
+6820	Leuconostoc mesenteroides subsp. cremoris	DSM 20346, ATCC 19254, CCM 2078, NCDO 543, CCUG 21965, LMG 6909, NCIMB 12008, JCM 16943, CCTM 2731, CIP 103009, IMET 10693, NBRC 107766, NCFB 543, NRRL B-3252, VKM B-1420	Food, Dried cheese starter powder###Hansen's dried starter powder			#Engineered	#Food production	#Starter culture
+140557	Leuconostoc mesenteroides subsp. jonggajibkimchii	JCM 31787, KCCM 43249, BCRC 81165	Kimchi###a commercial kimchi	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6825	Leuconostoc mesenteroides	DSM 20343, ATCC 8293, CCM 1803, NCDO 523, NCIB 8023, CCUG 30066, NRRL B-3470, JCM 6124, CIP 102305, IMET 10695, LMG 8205, NCIMB 8023	Food, Fermenting olives###Olives###fermenting olives			#Engineered	#Food production	#Fermented
+6841	Leuconostoc miyukkimchii	DSM 25624, JCM 17445, KACC 15353	Brown algae kimchi (miyukkimchi)###fermented brown algae (<i>Undaria pinnatifida</i>) L. kimchi	Republic of Korea	Asia	#Host	#Algae	#Brown Algae
+6840	Leuconostoc palmae	DSM 21144, LMG 24510, TMW 2.694, JCM 16944, CIP 110077	Food, Palm, wine###palm wine	Germany###Senegal	Europe###Africa	#Host Body Product	#Plant	#Plant sap (Flux)
+6832	Leuconostoc pseudomesenteroides	DSM 5625, NCDO 2053	commercial starter culture	Switzerland	Europe	#Environmental	#Microbial community	
+144927	Leuconostoc falkenbergense	CCUG 27119, LMG 10779	Lactic culture,(Flora Danica)	Sweden	Europe	#Engineered	#Food production	#Starter culture
+156162	Leuconostoc pseudomesenteroides	CCUG 60588, LMG 22615	Dairy product	Romania	Europe	#Engineered	#Food production	#Dairy product
+147336	Leuconostoc sp.	CCUG 33390	Cider extract	Sweden	Europe	#Engineered	#Food production	#Beverage
+6661	Levilactobacillus acidifarinae	CCUG 50162, DSM 19394, CCM 7240, LMG 22200, JCM 15949, BCRC 80774, CIP 108702, NBRC 107156	Food, Wheat sourdough###Wheat sourdough###artisanal wheat sourdough	Belgium	Europe	#Engineered	#Food production	#Food
+6651	Levilactobacillus brevis	DSM 1268, NCIB 8561	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6656	Levilactobacillus brevis	CCUG 21531, DSM 20556, ATCC 8287, CCM 1815, IAM 1082, IFO 3345, NBRC 3345, NCDO 474, NCIB 8038, JCM 1559, BCRC 10361, BUCSAV 220, KCTC 3102, LMG 7761, NCIMB 8038, NCTC 13386, NRIC 1034	Green, fermenting Sevillano variety olives###green fermenting Sevillano variety olives			#Engineered	#Food production	#Fermented
+6624	Levilactobacillus hammesii	DSM 16381, CIP 108387, TMW 1.1236, CCUG 51325, JCM 16170, BCRC 80779, LMG 23074	Food, Wheat sourdough###French sourdough###wheat sourdough	France	Europe	#Engineered	#Food production	#Food
+6625	Levilactobacillus hammesii	DSM 16382, TMW 1.602	wheat sourdough	France	Europe	#Engineered	#Food production	#Food
+24128	Levilactobacillus koreensis	DSM 27983, JCM 16448, KCTC 13530, DCY 50, BCRC 81078	From cabbage kimchi(traditional Korean fermented food)###Kimchi###cabbage kimchi	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6667	Levilactobacillus namurensis	DSM 19117, CCUG 52843, CIP 109498, LMG 23583, JCM 15612, BCRC 80773, NBRC 107158	Food, Sourdough based on wheat, rye and spelt flour###Belgian sourdough###Sourdough based on wheat,rye and spelt flour###sourdough, manufactured with wheat, rye and spelt flour	Belgium	Europe	#Host	#Plants	#Herbaceous plants (Grass,Crops)
+6679	Levilactobacillus senmaizukei	DSM 21775, NBRC 103853, TISTR 1847, CIP 109886	Japanese pickle###pickles	Japan	Asia	#Condition	#Saline	
+6595	Levilactobacillus spicheri	DSM 15429, LMG 21871, LTH 5753, JCM 15956, BCRC 80775, CIP 108581, NBRC 107155	Food, Rice sourdough###rice sourdough	Germany	Europe	#Host	#Plants	#Herbaceous plants (Grass,Crops)
+130365	Levilactobacillus yonginensis	DSM 29216, JCM 18023, KACC 16236, BCRC 81079	Kimchi###Korean fermented food, Kimchi	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6660	Levilactobacillus zymae	DSM 19395, CCM 7241, LMG 22198, CCUG 50163, JCM 15957, BCRC 80776, CIP 108703, NBRC 107157	Food, Wheat sourdough###Wheat sourdough###artisanal wheat sourdough	Belgium	Europe	#Engineered	#Food production	#Food
+6605	Ligilactobacillus acidipiscis	DSM 15353, CCUG 42961, CIP 106393, ATCC BAA-288, JCM 11551, KCTC 13900, NBRC 102164	Food, Cheese###Halloumi cheese###Cheese,Halloumi###cheese, Halloumi	Cyprus	Europe	#Engineered	#Food production	#Dairy product
+6606	Ligilactobacillus acidipiscis	CCUG 46556, CIP 106750, PCU 207, DSM 15836, HSCC 1411, JCM 10692, NRIC 0300, TISTR 1386, NBRC 102163	Fermented fish (pla-ra)###fermented fish	Thailand	Asia	#Engineered	#Food production	#Fermented
+24127	Ligilactobacillus pobuzihii	DSM 28122, KCTC 13174, NBRC 103219, RIFY 6501, JCM 18084, CIP 110289	Food, Fermented cummingcordia, food###From pobuzih, fermented cummingcordia###fermented cummingcordia (pobuzihi)	Taiwan, Province of China	Asia	#Engineered	#Food production	#Fermented
+6458	Limosilactobacillus fermentum	DSM 20052, ATCC 14931, NCDO 1750, CCUG 30138, LMG 6902, JCM 1173, BCRC 12190, CECT 4007, CIP 102980, IFO 15885, KCTC 3112, NBRC 15885, NCIMB 11840, NRIC 1752, NRRL B-4524, VTT E-93489	Food, Fermented beets###Fermented beets (Beta vulgaris)###fermented beets			#Engineered	#Food production	
+6576	Limosilactobacillus frumenti	CCUG 56446, CIP 106922, JCM 11122, DSM 13145, LMG 19473, TMW 1.666	rye-bran sourdough	Germany	Europe	#Host	#Plants	#Herbaceous plants (Grass,Crops)
+6575	Limosilactobacillus panis	DSM 6035, JCM 11053, CCUG 37482, CIP 109875	Rye sourdough###sourdough	Germany	Europe	#Engineered	#Food production	#Fermented
+6562	Limosilactobacillus pontis	DSM 8475, ATCC 51518, JCM 11051, LMG 14187, CCUG 33456, LTH 2587, CIP 104232	Sourdough###Sour dough###rye sourdough	Germany	Europe	#Host	#Plants	#Herbaceous plants (Grass,Crops)
+6563	Limosilactobacillus pontis	DSM 8476, ATCC 51519, LMG 14188, LTH 1735	rye sourdough	Germany	Europe	#Host	#Plants	#Herbaceous plants (Grass,Crops)
+6669	Limosilactobacillus secaliphilus	DSM 17896, CCUG 53218, TMW 1.1309, CIP 109557, JCM 15613	Type II sourdough fermentation###Rye sourdough###sour dough	Germany	Europe	#Engineered	#Food production	#Fermented
+6681	Liquorilactobacillus cacaonum	DSM 21116, LMG 24285	cocoa bean heap fermentation	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+6680	Liquorilactobacillus capillatus	DSM 19910, BCRC 17811, JCM 15044, YIT 11306, LMG 29533, CIP 109977	Tofu brine, fermented###Stinky tofu brine###isolated from fermented brine used for stinky tofu production	Taiwan, Province of China	Asia	#Engineered	#Food production	#Fermented
+6657	Liquorilactobacillus ghanensis	DSM 18630, CCUG 53453, CIP 109616, JCM 15611	Ghanaian cocoa fermentations###cocoa fermentation	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+6658	Liquorilactobacillus ghanensis	DSM 18631, CCUG 53454	cocoa fermentation	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+6672	Liquorilactobacillus hordei	DSM 19519, CIP 109892, JCM 16179, LMG 24241	malted barley	Belgium	Europe	#Engineered	#Food production	#Fermented
+6673	Liquorilactobacillus hordei	DSM 19520	malted barley	Belgium	Europe	#Engineered	#Food production	#Fermented
+6482	Liquorilactobacillus mali	DSM 20444, ATCC 27053, NCIB 10560, JCM 1116, BCRC 12940, BCRC 14057, CCM 2878, CCUG 30141, CCUG 32228, CIP 103142, KCTC 3596, LMG 6899, NBIMCC 3316, NBRC 102159, NCFB 2168, NCIMB 10560, NRIC 1692, NRRL B-4563, VKM B-1600, NCDO 2168	Food, Apple juice from cider press###apple juice from cider press			#Engineered	#Food production	#Beverage
+6586	Liquorilactobacillus nagelii	DSM 13675, ATCC 700692, CCUG 43575, JCM 12492, KCTC 21009, CIP 107647	Food, Partially fermented wine###Wines undergoing sluggish/stuck alcoholic fermentation###Commercial red wine###partially fermented wine	United States of America###USA	North America	#Engineered	#Food production	#Beverage
+6676	Liquorilactobacillus oeni	DSM 19972, CECT 7334, JCM 18036, CIP 110039	Food, Bobal grape wines###Bobal wine	Spain	Europe	#Engineered	#Food production	#Beverage
+6621	Liquorilactobacillus satsumensis	DSM 16230, NRIC 0604, CCUG 52399, JCM 12392, CIP 109882, NCIMB 14549	Food, Fermented rice###Mashes of shouchu (traditional Japanese distilled spirits)###shochu mash	Japan	Asia	#Engineered	#Food production	#Beverage
+6683	Liquorilactobacillus uvarum	DSM 19971, CECT 7335, CIP 109959, JCM 16870	Spanish Boba grape must###Spanish bobal grape must###must of Bobal grape variety	Spain	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+6641	Liquorilactobacillus vini	DSM 20605, CECT 5924, Mont 4, JCM 14280, CIP 109261	Grape must ferment at high temperature###Fermenting grape musts###grape must, fermenting at high temperature			#Engineered	#Food production	#Beverage
+6638	Loigolactobacillus rennini	DSM 17732, JCM 13462	soy sauce mash	Japan	Asia	#Engineered	#Food production	#Food
+14648	Mammaliicoccus fleurettii	DSM 13212, ATCC BAA-274, CIP 106114, CCUG 43834	Food, Goat, raw milk cheese###Cheese made from raw goat's milk###goat milk cheese	France	Europe	#Host Body Product	#Fluids	#Milk
+156635	Marinobacter piscensis	CCUG 63769, DSM 26804	salted Anchovy food###Salty food	Tunisia	Africa	#Engineered	#Food production	#Food
+11279	Marinospirillum insulare	DSM 21763, LMG 21802, NBRC 100033	fermented fish brine (kusaya gravy)	Japan	Asia	#Engineered	#Food production	#Fermented
+1250	Mesobacillus jeotgali	DSM 18226, CIP 107104, JCM 10885, KCCM 41040, BCRC 20126, CCM 7133, CGMCC 1.3651, KCTC 3839	Food, Korean traditonal fermented food###jeotgal, Korean traditional fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+1223	Metabacillus indicus	DSM 16189, KCTC 3880, BCRC 80033, CIP 108730	Food, Jeotgal, a traditional Korean fermented seafood###From Jeotgal, a traditional Korean fermented seafood###jeotgal, a traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+134213	Methylobacterium jeotgali	KCTC 12671, LMG 23639	From fermented food (Shrimp Jeotgal)###food product	Republic of Korea	Asia	#Engineered	#Food production	#Food
+7381	Microbacterium gubbeenense	DSM 15944, LMG 19263, NCIMB 30129, DPC 5286, JCM 12075, CCM 7309, CIP 107184, IAM 15193, LMG S-19263, NBRC 103073, NRRL B-24242	Food, Cheese###surface of a smear-ripened cheese	Ireland	Europe	#Engineered	#Food production	#Dairy product
+7456	Microbacterium mitrae	DSM 24780, JCM 16363, KACC 21129, NBRC 109971	salted turban shell (traditional fermented seafood)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+7471	Mycetocola reblochoni	DSM 18580, JCM 30549, LMG 22367	Surface of Reblochon cheese at the late stage of ripening###surface of Reblochon cheese (late stage of ripening)			#Engineered	#Food production	#Dairy product
+5967	Natronococcus jeotgali	DSM 18795, CECT 7216, JCM 14583, KCTC 4018, CGMCC 1.7070, NBRC 110680	From jeotgal###Shrimp jeotgal, traditional Korean fermented seafood###salted shrimp jeotgal (traditional fermented food in Korea)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+7769	Nesterenkonia jeotgali	DSM 19081, JCM 12610, KCTC 19053, CIP 109490, NCIMB 14784	Food, Jeotgal, traditional Korean fermented seafood###From Jeotgal###Jeotgal, Korean traditional fermented seafood###jeotgal, Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+144819	Obesumbacterium proteus	CCUG 26657	Ale yeast,brewery A	United Kingdom	Europe	#Host	#Yeast	
+144820	Obesumbacterium proteus	CCUG 26658	Ale yeast,brewery B	United Kingdom	Europe	#Host	#Yeast	
+144821	Obesumbacterium proteus	CCUG 26659	Ale yeast,brewery B,#2	United Kingdom	Europe	#Host	#Yeast	
+144822	Obesumbacterium proteus	CCUG 26660	Ale yeast,brewery B,#3	United Kingdom	Europe	#Host	#Yeast	
+144823	Obesumbacterium proteus	CCUG 26661	Ale yeast,brewery B,#4	United Kingdom	Europe	#Host	#Yeast	
+144824	Obesumbacterium proteus	CCUG 26662	Ale yeast,brewery C	United Kingdom	Europe	#Host	#Yeast	
+144825	Obesumbacterium proteus	CCUG 26663	Ale yeast,brewery D	United Kingdom	Europe	#Host	#Yeast	
+144826	Obesumbacterium proteus	CCUG 26664	Ale yeast,brewery E	United Kingdom	Europe	#Host	#Yeast	
+23737	Oceanobacillus indicireducens	DSM 28042, JCM 17251, NCIMB 14685, BCRC 80660	Fermented Polygonum indigo (<I>Polygonum tinctorium</I> Lour.) liquor sample aged for 4 days prepared in a laboratory###fermented Polygonum indigo ( <i>Polygonum tinctorium</i> Lour.) liquor sample aged for 4 days prepared in a laboratory	Japan	Asia	#Engineered	#Food production	#Beverage
+1378	Oceanobacillus kapialis	DSM 23158, KCTC 13177, PCU 300, TISTR 1858	From Shrimp paste (ka-pi)###fermented shrimp paste (ka-pi)	Thailand	Asia	#Engineered	#Food production	#Fermented
+132897	Oceanobacillus kimchii	DSM 23341, JCM 16803, KACC 14914, BCRC 80659	mustard Kimchi, a traditional Korean fermented food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6810	Oenococcus oeni	DSM 20252, ATCC 23279, NCDO 1674, JCM 6125, BCRC 14062, CCUG 30067, CCUG 30199, CCUG 32250, CECT 217, CIP 106144, KCTC 3072, LMG 9851, NBRC 100497, NCIMB 11648, NRIC 1543, NRRL B-3472, VTT E-97832	Food, Wine###wine			#Host Body-Site	#Plant	#Fruit (Seed)
+6811	Oenococcus oeni	DSM 20255, NCDO 1709	wine			#Host Body-Site	#Plant	#Fruit (Seed)
+6812	Oenococcus oeni	DSM 20257, NCDO 1696	wine			#Host Body-Site	#Plant	#Fruit (Seed)
+159691	Oenococcus sicerae	DSM 107163, CIRM-BIA 2288, JCM 33895, UCMA 15228, CIRM BIA2288	Fermented apple juices (ciders)###Apple juice in fermentation (cider)	France	Europe	#Host Body-Site	#Plant	#Fruit (Seed)
+159829	Ottowia oryzae	KACC 19325, NBRC 113109	Sikhye from Andongsi	Republic of Korea	Asia	#Engineered	#Food production	#Beverage
+140618	Paenibacillus aceti	CGMCC 1.15420, JCM 31170	Traditional acetic acid fermentation culture of Chinese cereal vinegars###from traditional acetic acid fermentation culture of cereal vinegars	China	Asia	#Engineered	#Food production	#Beverage
+158707	Paracoccus alimentarius	KCTC 62138, NBRC 113023	From Fermented Walleye Pollack###a Korean foodstuff, salted pollack	Republic of Korea	Asia	#Condition	#Saline	
+6582	Paralactobacillus selangorensis	DSM 13344, ATCC BAA-66, CCUG 43347, CIP 106482, LMG 17710, JCM 19618, NCIMB 13672	Chili bo, a Malaysian food ingredient###Chili bo###"chili bo"	Malaysia	Asia	#Engineered	#Food production	#Food
+6599	Paucilactobacillus vaccinostercus	DSM 15802, CCUG 45405, CIP 107501, LMG 19193, JCM 12184	tempoyak	Malaysia	Asia	#Engineered	#Food production	#Fermented
+17137	Pectinatus cerevisiiphilus	DSM 20467, ATCC 29359, CCC B-1022	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6399	Pediococcus argentinicus	DSM 23026, CCUG 54535, CRL 776, LMG 23999, JCM 30771, NBRC 107827	Argentinean fermented wheat flour###Wheat flour,commercial###fermented wheat flour	Argentina	Middle and South America	#Engineered	#Food production	
+6382	Pediococcus damnosus	DSM 20289	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6383	Pediococcus damnosus	DSM 20291	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+150692	Pediococcus damnosus	CCUG 41974, ATCC 43013, LMG 16740	Wine	Australia	Australia and Oceania	#Host Body-Site	#Plant	#Fruit (Seed)
+6386	Pediococcus inopinatus	DSM 20287, CCUG 43284, CCM 3452, LMG 11410	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6392	Pediococcus pentosaceus	DSM 20333, ATCC 33314, IFO 3884, NBRC 3884, NCDO 1859, JCM 5885, BCRC 14053, CGMCC 1.2441, KCTC 3116, LMG 11385, NCIMB 12009, VKM B-2206, VTT E-88312, CIP 102261	Food, Sake mash###sake mash			#Engineered	#Food production	#Beverage
+6394	Pediococcus pentosaceus	CCUG 28436, DSM 46292, CCM 822, IFO 12229, IMET 10900, NBRC 12229, SG 1468	Cheese,New Zealand Cheddar###cheddar cheese	New Zealand	Australia and Oceania	#Engineered	#Food production	#Dairy product
+150415	Pediococcus pentosaceus	CCUG 39851	Industrial fermentation starter	Japan	Asia	#Engineered	#Food production	#Starter culture
+6860	Periweissella beninensis	DSM 22752, JCM 18047, LMG 25373	Cassava fermentations in Ketou###fermented cassava	Benin	Africa	#Host	#Plants	#Shrub (Scrub)
+6858	Periweissella ghanensis	DSM 19935, LMG 24286	fermented cocoa beans	Ghana	Africa	#Host Body-Site	#Plant	#Fruit (Seed)
+23827	Pisciglobus halotolerans	DSM 27630, KCTC 13150, PCU 316, TISTR 1958	From fish sauce###fermented fish sauce	Thailand	Asia	#Engineered	#Food production	#Fermented
+11971	Planococcus koreensis	DSM 15895, CIP 107134, JCM 10704, KCTC 3684, CGMCC 1.3646, KCTC 3684.	Food, Jeotgal, korean traditional fermented seafood###From Jeotgal, Korean traditional fermented seafood###Jeotgal, Korean traditional fermented seafood###jeotgal (korean traditional fermented seafood)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+133209	Polygonibacillus indicireducens	JCM 30831, NCIMB 14982	Fermented <I>Polygonum</I> indigo (<I>Polygonum tinctorium</I> Lour.) liquor sample from a craft centre###Polygonum indigo (Polygonum tinctorium Lour.) fermentation liquor for dyeing obtained from a craft center	Japan	Asia	#Engineered	#Food production	#Beverage
+12642	Propionibacterium freudenreichii	CCUG 7433, DSM 20271, ATCC 6207, CCM 1857, NCDO 564, NCIB 5959, NCTC 10470, CIP 103026, NCIMB 5959, CIP 55.101, CIP 59.23	Food, Swiss cheese###Cheese,Swiss###swiss cheese			#Engineered	#Food production	#Dairy product
+12644	Propionibacterium freudenreichii	DSM 20270	cheese			#Engineered	#Food production	#Dairy product
+143387	Propionibacterium freudenreichii	CCUG 18835, CCM 121, ATCC 4866, NCTC 5964	Cheese,emmenthal			#Engineered	#Food production	#Dairy product
+153244	Propionibacterium freudenreichii	CCUG 48870, LMG 16419	Bread dough with beer yeast	Italy	Europe	#Host	#Yeast	
+17182	Propionispira paucivorans	DSM 7200	pitching yeast			#Host	#Yeast	
+17183	Propionispira paucivorans	DSM 7201	pitching yeast			#Host	#Yeast	
+17184	Propionispira paucivorans	DSM 20756, ATCC 49689	pitching yeast	Germany	Europe	#Host	#Yeast	
+17186	Propionispira raffinosivorans	DSM 7199	pitching yeast			#Host	#Yeast	
+17187	Propionispira raffinosivorans	DSM 20765, ATCC 49691, VTT E-90406	pitching yeast	Germany	Europe	#Host	#Yeast	
+151767	Proteus sp.	CCUG 44817	Cheese,not pasteurised (opast. mjölk, Langres)			#Engineered	#Food production	#Dairy product
+132975	Proteus terrae subsp. cibarius	DSM 100173, JCM 30699, KACC 18404	Korean fermented seafood, Jeotgal###Jeotgal (Korean traditional fermented seafood)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+8189	Psychrobacter alimentarius	DSM 16065, KCTC 12186, JCM 12315, CIP 110989	Food, Squid jeotgal, traditional Korean fermented seafood###From squid jeotgal###Squid jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+8190	Psychrobacter alimentarius	DSM 16066, JCM 12316, KCTC 12187	Squid jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+8194	Psychrobacter cibarius	DSM 16327, KCTC 12256, CIP 108733	Food, Jeotgal, a traditional Korean fermented seafood###From Jeotgal, a traditional Korean fermented seafood###jeotgal, a traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+8195	Psychrobacter cibarius	DSM 16328	jeotgal, a traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+143335	Psychrobacter immobilis	CCUG 18505, LMG 7020	Camembert cheese	France	Europe	#Host	#Fungi	
+8206	Psychrobacter jeotgali	DSM 23423, CIP 107956, JCM 11463, KCCM 41559, KCTC 22762, NCIMB 14247	Food, Jeotgal, korean traditional fermented seafood###Jeotgal, traditional Korean fermented seafood###Jeotgal (traditional Korean fermented seafood)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+5921	Psychrobacter sp.	DSM 5684, ATCC 25862, NCIMB 1812	pickled mackerel			#Host	#Fishes	
+5630	Psychroflexus halocasei	DSM 23581, CCUG 59705, LMG 25857, WCC 4520	Cheese rind###sticky surface of a semi-hard, Raclette-type cheese	Austria	Europe	#Engineered	#Food production	#Dairy product
+159736	Pueribacillus theae	CGMCC 1.15924, KCTC 333888	ripened Pu'er tea sample obtained from a manufacturer	China	Asia	#Engineered	#Food production	#Beverage
+133210	Pullulanibacillus camelliae	CGMCC 1.15371, JCM 31236	Ripened Pu'er tea###ripened Pu’er tea sample obtained from a manufacturer	China	Asia	#Engineered	#Food production	#Beverage
+131362	Pullulanibacillus pueri	DSM 100927, CGMCC 1.12777, JCM 30075	ripened Pu'er tea	China	Asia	#Engineered	#Food production	#Beverage
+1258	Rossellomorea vietnamensis	DSM 18898, CIP 108672, HSCC 1663, JCM 11124, NRIC 0531, NRRL B-23890, BCRC 80102, LMG 24742, NBRC 101237	Food, Fish, sauce###vietnamese fish sauce	Japan	Asia	#Engineered	#Food production	#Food
+7664	Rothia koreensis	DSM 23367, JCM 15915, KCTC 19595, CIP 110210	Food, Jeotgal, Korean traditional fermented seafood###From Jeotgal, fermented shellfisg###Jeotgal, Korean traditional fermented seafood###Korean traditional fermented seafood (jeotgal)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+140081	Salimicrobium jeotgali	DSM 105371, JCM 19758, KACC 16972	Jeotgal, Korean salted and fermented seafood (anchovy jeotgal)###fermented anchovy (myeolchi-jeot)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+14438	Salinicoccus carnicancri	DSM 23852, JCM 15796, KCTC 13301	From Korean traditional fermented seafood###Crabs preserved in soy sauce, traditional Korean fermented seafood###traditional Korean fermented seafood (crabs)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+14430	Salinicoccus jeotgali	DSM 22324, KCTC 13030, LMG 23640, JCM 16981	From jeotgal, traditional Korean fermented seafood###Jeotgal, traditional Korean fermented seafood###traditional Korean fermented seafood (jeotgal)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+14432	Salinicoccus siamensis	DSM 21576, JCM 12822, PCU 242, TISTR 1562, CIP 109726	Fermented shrimp paste###Fermented shrimp paste (ka-pi) produced###Fermented shrimp paste (ka-pi) produced in Thailand	Thailand	Asia	#Engineered	#Food production	#Fermented
+17246	Salinivibrio siamensis	DSM 26187, JCM 14472, PCU 301, TISTR 1810	Fermented fish (<I>pla-ra</I>) in Thailand###fermented fish (pla-ra)	Thailand	Asia	#Engineered	#Food production	#Fermented
+6637	Schleiferilactobacillus harbinensis	DSM 16991, CIP 109152, JCM 16178, CCUG 54937, AHU 1762, SBT 10908, LMG 24040, NBRC 100982	Food, Traditional fermented vegetables Suan cai###Traditional fermented vegetables 'Suan cai'###Fermented vegetables 'Suan cai'###chinese traditional fermented vegetable Suan cai	China	Asia	#Engineered	#Food production	#Fermented
+24131	Schleiferilactobacillus shenzhenensis	DSM 28193, CCTCC M 2011481, KACC 16878	fermented beverage	China	Asia	#Engineered	#Food production	#Beverage
+133011	Scopulibacillus daqui	DSM 28236, CICC 10824	high temperature daqu (saccharifying and fermenting agent) of sesame-flavour liquor	China	Asia	#Engineered	#Food production	#Beverage
+6435	Secundilactobacillus collinoides	DSM 20486, ATCC 27611, NCIB 10924	fermenting apple juice			#Engineered	#Food production	
+6436	Secundilactobacillus collinoides	DSM 20515, ATCC 27612, NCIB 10925, CCUG 32259, NCIMB 10925, JCM 1123, BCRC 11649, CECT 922, CIP 103008, LMG 11717, LMG 9194, NBRC 107765, NCFB 2805, NCDO 2746	Food, Fermenting apple juice###fermenting apple juice			#Engineered	#Food production	
+6537	Secundilactobacillus malefermentans	CCUG 32206, LMG 11455, CIP 103367, DSM 5705, ATCC 49373, NCDO 1410, JCM 12497, CECT 5928, IFO 15905, KCTC 3548, NBRC 15905, NCIMB 701410, NRIC 1779	Other, Beer###beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6538	Secundilactobacillus malefermentans	DSM 20177, ATCC 11305, NCDO 2344, NCIB 8516, JCM 1189, CIP 103170, LMG 11416, NCFB 2344, NCIMB 8516	Food, Beer###beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6539	Secundilactobacillus malefermentans	DSM 20570, ATCC 11306, NCIB 8517	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6697	Secundilactobacillus odoratitofui	DSM 19909, BCRC 17810, JCM 15043, YIT 11304, LMG 30911	Stinky tofu brine in Taipei###fermented brine used for stinky tofu production	Taiwan, Province of China	Asia	#Engineered	#Food production	#Food
+24133	Secundilactobacillus oryzae	DSM 26518, JCM 18671, KCTC 21047, SG 293, CIP 110586	Fermented rice grain, Oryza sativa Lactobacillus japonica###From fermented rice grains###Fermented rice grain (<I>Oryza sativa</I> L. subsp. <I>japonica</I>)###fermented rice grains	Japan	Asia	#Engineered	#Food production	#Fermented
+6597	Secundilactobacillus paracollinoides	DSM 20197, ATCC 8291, NCIB 11719, NCTC 4955, JCM 1113, LMG 11990, NCFB 454, NCIMB 11719	beer			#Host Body-Site	#Plant	#Fruit (Seed)
+6694	Secundilactobacillus similis	DSM 23365, JCM 2765, LMG 23904, BCRC 80777, CIP 110209	Fermented cane molasses###Fermented molasses###fermented cane molasses at alcohol plants	Thailand	Asia	#Engineered	#Industrial	#Plant (Factory)
+17160	Selenomonas lacticifex	DSM 20757, ATCC 49690	pitching yeast	Germany	Europe	#Host	#Yeast	
+14516	Staphylococcus carnosus	DSM 20501, ATCC 51365, CCUG 15605, CIP 103274, GIFU 10766	Food, Dry sausage###dry sausage			#Engineered	#Food production	#Meat
+14634	Staphylococcus carnosus	DSM 11676, JCM 6067, CCUG 39903, CIP 105758, NCIMB 13560, NCTC 13826	Food, Fermenting fish and shrimp sauces###Pla-chom (fermented small fish)###fermented fish sauce (Pla-chom)	Thailand	Asia	#Engineered	#Food production	#Fermented
+14635	Staphylococcus carnosus	DSM 11677, JCM 6065, CIP 105759	Food, Fermenting fish and shrimp sauces###Pla-chom (fermented small fish)###fermented fish sauce (Pla-chom)	Thailand	Asia	#Engineered	#Food production	#Fermented
+14655	Staphylococcus casei	DSM 15096, CIP 107658, CCUG 47674, CCM 7194	Food, Rind of surface ripened cheese###Rind of surface ripened cheese###surface ripened cheese	Switzerland	Europe	#Engineered	#Food production	#Dairy product
+14632	Staphylococcus condimenti	DSM 11674, JCM 6074, CCUG 39902, CCM 4753, CIP 105760, NCIMB 13559, NCTC 13827	Food, Soy sauce mash###Soy-sauce mash###soy sauce mash	Japan	Asia	#Engineered	#Food production	#Food
+14633	Staphylococcus condimenti	DSM 11675, JCM 6911	Soy-sauce mash###soy sauce mash	Japan	Asia	#Engineered	#Food production	#Food
+14651	Staphylococcus equorum subsp. linens	CCUG 49024, DSM 15097, CIP 107656, CCM 7278	Food, Rind of surface ripened cheese###rind of surface ripened cheese	Switzerland	Europe	#Engineered	#Food production	#Dairy product
+14661	Staphylococcus equorum	DSM 20029, CCM 1400	fermented meat product			#Engineered	#Food production	#Meat
+14606	Staphylococcus piscifermentans	CCUG 35133, TISTR 824, NRIC 1817, DSM 7373, ATCC 51136, JCM 6057, NCIMB 13277, CCM 4345, CIP 103958, LMG 22178, NBRC 109625, NCTC 13836	Fermented shrimp###Shrimp,fermented (Kung-chom)###Kung-chom (fermented shrimp)	Thailand	Asia	#Engineered	#Food production	#Fermented
+141646	Staphylococcus saprophyticus	CCUG 4318, NCTC 963	Ropy milk			#Environmental	#Microbial community	
+14726	Streptococcus equinus	DSM 20062	sour vegetable mash			#Engineered	#Food production	#Food
+14718	Streptococcus gallolyticus	DSM 20065, CIP 107090, NCDO 2477, NCIMB 702477	sour mash			#Engineered	#Food production	#Food
+14819	Streptococcus gallolyticus subsp. macedonicus	CCUG 39970, ACA-DC 206, LMG LAB 617, CIP 105683, ATCC BAA-249, DSM 15879, JCM 11119, LMG 18488, NCTC 13767	Food, Cheese, Kasseri###Greek Kasseri cheese prepared from ewes' milk###Greek Kasseri cheese	Greece	Europe	#Engineered	#Food production	#Dairy product
+150453	Streptococcus gallolyticus subsp. macedonicus	CCUG 39969, ACA-DC 205, LMG LAB 616, LMG 18487	Kasseri cheese	Greece	Europe	#Engineered	#Food production	#Dairy product
+24612	Streptococcus phocae subsp. salmonis	DSM 24768, CECT 7921	cultured Atlantic salmon (<i>Salmo salar</i>)	Chile	Middle and South America	#Host	#Fishes	#Salmonidae
+14784	Streptococcus thermophilus	DSM 20259	yoghurt			#Engineered	#Food production	#Dairy product
+146199	Streptococcus thermophilus	CCUG 30577	Commercial yoghurt			#Engineered	#Food production	#Dairy product
+153024	Streptococcus thermophilus	CCUG 48340	Industry,food (confidential information available)	Sweden	Europe	#Engineered	#Industrial	
+153286	Streptococcus thermophilus	CCUG 48999	Youghurt,Ekströms LIVA (industrial probiotics)	Sweden	Europe	#Engineered	#Food production	#Dairy product
+14771	Streptococcus sp.	DSM 20061, JCM 5699	sour vegetable mash	Germany	Europe	#Engineered	#Food production	#Food
+5253	Tetragenococcus halophilus subsp. halophilus	DSM 20337, JCM 20252, IAM 1683, NISL 7128	Soy sauce brewing mashes###soy sauce brewing mash			#Engineered	#Food production	#Food
+5257	Tetragenococcus muriaticus	DSM 15685, JCM 10006, CCUG 41880, CIP 105747, LMG 18498, KCTC 21008, NBRC 100499	Squid liver sauce, Japanese local traditional fermented seafood###japanese local traditional fermented seafood	Japan	Asia	#Engineered	#Food production	#Fermented
+23867	Thalassotalea piscium	DSM 26287, JCM 18590, KCTC 32144	Gill of a cultured flounder (<I>Paralichthys olivaceus</I>) in Shandong Province###gill of a cultured flounder (<i>Paralichthys olivaceus</i>)	China	Asia	#Host Body-Site	#Organ	#Vascular system
+24642	Thermoactinomyces daqus	DSM 45914, CICC 10681	high-temperature daqu, a fermentation starter used in the production of a sesame-flavour liquor	China	Asia	#Engineered	#Food production	#Beverage
+135742	Thermoanaerobacter mathranii subsp. alimentarius	CIP 108191, CCUG 49567, AIP 431-03	Food, Fermented milk###Fermented milk	France	Europe	#Host Body Product	#Fluids	#Milk
+139748	unclassified bacterium	DSM 26766, KACC 15970	Ganjang (fermented food)	Republic of Korea	Asia	#Engineered	#Food production	#Bottled, canned, packed food
+140286	Vagococcus teuberi	DSM 21459	spontaneously fermented sour-milk (fènè)	Mali	Africa	#Engineered	#Food production	#Dairy product
+17353	Vibrio casei	DSM 22364, LMG 25240, CIP 110169	Food, Surfaces of two French red smear soft cheeses###surface of a French smear ripened cheese (TF11)	France###Germany	Europe	#Engineered	#Food production	#Dairy product
+17354	Vibrio casei	DSM 22378, LMG 25241	surface of a French smear-ripened cheese	Germany	Europe	#Engineered	#Food production	#Dairy product
+146124	Vibrio metschnikovii	CCUG 30409	Cheese curds	Czechoslovakia	Europe	#Engineered	#Food production	#Dairy product
+130769	Vibrio olivae	DSM 25438, CECT 8064	brine from Spanish-style green olive fermenters at the first two weeks of fermentation	Spain	Europe	#Engineered	#Food production	#Fermented
+22931	Virgibacillus alimentarius	DSM 26676, JCM 16994, KACC 14624	Jeotgal, traditional salt-fermented seafood made of gizzard shad	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+133313	Virgibacillus jeotgali	KEMB 9001-125, JCM 16522, DSM 107337, NRIC 0768	Myeolchi-jeotgal, a traditional Korean fermented anchovy###Myeolchi-jeotgal, a traditional Korean high-salt-fermented anchovy	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+140872	Virgibacillus kapii	JCM 30071, LMG 28282, TISTR 2279, PCU 345	Shrimp paste collected from a market in Nakhon Sri Thammarat Province###Shrimp paste collected from a market	Thailand	Asia	#Engineered	#Food production	#Food
+6856	Weissella cibaria	DSM 14295, KCCM 41287, KCTC 3746, CIP 108011	Food, Kimchi, korean fermented vegetable###kimchi (Korean fermented vegetable)	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6857	Weissella cibaria	DSM 15878, CCUG 41967, LMG 17699, CIP 107376, KCTC 3807, JCM 12495, NBRC 106073, KCTC 3817	Food###From chili bo###Chilli Bo###chili bo	Malaysia	Asia	#Engineered	#Food production	#Food
+6843	Weissella confusa	DSM 20194, NCDO 1975, CIP 102979	Food, Sour carrot mash###soured carrot mash			#Host	#Plants	#Herbaceous plants (Grass,Crops)
+6845	Weissella halotolerans	CCUG 33457, LMG 9469, DSM 20190, ATCC 35410, JCM 1114, BCRC 14050, CECT 573, CGMCC 1.2440, CIP 103005, NCIMB 702781, NRIC 1627, VTT E-98965	Food, Sausage###Sausage meat###sausage			#Engineered	#Food production	#Meat
+6852	Weissella hellenica	DSM 7378, ATCC 51523, NCFB 2973, CCUG 33494, LMG 15125, JCM 10103, CECT 7033, CIP 109879, IFO 15553, KCTC 3668, NBRC 15553, NCIMB 702973	Fermented sausage###Dry naturally fermented Greek sausage###sausage; naturally-fermented	United Kingdom###Greece	Europe	#Engineered	#Food production	#Meat
+6854	Weissella koreensis	DSM 15830, CCUG 47134, CIP 107634, JCM 11263, KCCM 41516, KCTC 3621	Food, Kimuchi, Fermented vegetable food###Traditional Korean fermented-vegetable food (Kimchi)###Traditional Korean fermented-vegetable food###kimchi, fermented vegetable food	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+23077	Weissella oryzae	DSM 25784, JCM 18191, SG 25, LMG 30913	Fermented rice grains###fermented grice grains	Japan	Asia	#Engineered	#Food production	#Fermented
+6855	Weissella thailandensis	DSM 15832, HSCC 1412, JCM 10695, NRIC 0298, TISTR 1384, CCUG 46557, CIP 106751, KCTC 3751, PCU 210, NBRC 109621	From fermented fish###fermented fish	Thailand	Asia	#Engineered	#Food production	#Fermented
+132289	Weissella thailandensis	DSM 103409, JCM 30580, KCCM 43128, KACC 91955P, LMG 30916	Jogae jeotgal, a Korean traditional fermented seafood###jogae jeotgal, traditional Korean fermented seafood	Republic of Korea	Asia	#Engineered	#Food production	#Fermented
+6849	Weissella viridescens	DSM 20410, ATCC 12706, CCM 56, NCDO 1655, NCIB 8965, WDCM 00105, JCM 1174, BCRC 11650, CCUG 21533, CCUG 30502, CECT 283, CIP 102810, IAM 13546, KCTC 3504, LMG 3507, NCCB 71015, NCFB 1655, NCIMB 8965, NCTC 13645, NCTC 13770, NRIC 1536, NRRL B-1951, VKM B-1528, VTT E-98966	Food, Cured meat product###cured meat products			#Engineered	#Food production	#Meat
+14291	Zymomonas mobilis subsp. pomaceae	DSM 3580, ATCC 29191, IFO 13756, NBRC 13756, NCIB 11199, JCM 10190, CCM 2770, CECT 560, LMG 445, LMG 452, LMG 454, LMG 467, NCIMB 11199, NRRL B-4490	Fermenting palm sap (<I>Elaeis</I> sp.)###fermenting palm sap	Zaire	Africa	#Host Body Product	#Plant	#Plant sap (Flux)
