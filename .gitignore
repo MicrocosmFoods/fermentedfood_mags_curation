@@ -1,7 +1,7 @@
 metadata/raw_metadata/genomequal_results
 *.log*
 work/
-metadata/raw_metadata/isolate_genomes/CheckM_report_prokaryotes.txt
+metadata/raw_metadata/bacdive_genomes/CheckM_report_prokaryotes.txt
 genome_fastas/
 metadata/raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3/
 metadata/raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3/MiFoDB_fastas/
