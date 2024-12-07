@@ -11,25 +11,25 @@ GCA_000310065.1	cheese
 GCA_000425285.1	buttermilk
 GCA_000423445.1	cheese
 GCA_003325455.1	beer
-GCA_003850045.1	pu'er tea
+GCA_003850045.1	pu_er_tea
 GCA_000583695.1	shochu
 GCA_900163565.1	cheese
 GCA_004134805.1	jeotgal
 GCA_900109085.1	cheese
-GCA_018967645.1	shrimp paste
+GCA_018967645.1	shrimp_paste
 GCA_001281265.1	wine
-GCA_002844575.1	pu'er tea
+GCA_002844575.1	pu_er_tea
 GCA_001050115.1	cheese
 GCA_000421665.1	cheese
 GCA_000022965.1	yogurt
-GCA_002259795.1	water kefir
+GCA_002259795.1	water_kefir
 GCA_000741285.1	airag
 GCA_006539005.1	cheese
 GCA_900169275.1	cheese
 GCA_007828155.1	jeotgal
 GCA_008868375.1	cheese
 GCA_000708655.1	jeotgal
-GCA_002943655.1	lactic acid beverage
+GCA_002943655.1	lactic_acid_beverage
 GCA_002995785.1	baijiu
 GCA_023656515.1	baijiu
 GCA_002995795.1	wine
@@ -62,27 +62,27 @@ GCA_001436035.1	sourdough
 GCA_900112405.1	tempoyak
 GCA_000277855.1	sourdough
 GCA_001437435.1	sourdough
-GCA_014195445.1	seau-jeot
+GCA_014195445.1	seau_jeot
 GCA_015244675.1	beer
 GCA_000197735.1	cheese
-GCA_009659515.1	pla-ra
+GCA_009659515.1	pla_ra
 GCA_009902005.1	jeotgal
 GCA_000829445.1	jeotgal
 GCA_003387165.1	jeotgal
 GCA_000425845.1	jeotgal
-GCA_003311635.1	fermented coconut milk
+GCA_003311635.1	fermented_coconut_milk
 GCA_000964405.1	vinegar
 GCA_000164395.1	vinegar
 GCA_000964425.1	kombucha
 GCA_000613305.1	vinegar
 GCA_003207815.1	vinegar
-GCA_002155145.1	daemi-jeot
+GCA_002155145.1	daemi_jeot
 GCA_003633775.1	salami
 GCA_001311195.1	tea
 GCA_000615205.1	cheese
 GCA_001311155.1	cassava
 GCA_023656965.1	yakult
-GCA_003946305.1	nem chua
+GCA_003946305.1	nem_chua
 GCA_003946025.1	sourdough
 GCA_001312865.1	tea
 GCA_001435215.1	fufu
@@ -93,7 +93,7 @@ GCA_001438845.1	pickle
 GCA_001311725.1	vinegar
 GCA_001971585.1	kimchi
 GCA_000178475.1	beer
-GCA_003124125.1	fermented bamboo shoots
+GCA_003124125.1	fermented_bamboo_shoots
 GCA_001434585.1	sourdough
 GCA_001953135.1	yogurt
 GCA_000056065.1	yogurt
@@ -108,13 +108,13 @@ GCA_001311335.1	kefir
 GCA_001313205.1	kimchi
 GCA_000014525.1	cheese
 GCA_000534815.1	cheese
-GCA_018403745.1	yan-tsai-shin
+GCA_018403745.1	yan_tsai_shin
 GCA_000820425.1	yogurt
 GCA_001435715.1	salami
 GCA_000615365.1	sake
 GCA_002271215.1	jeotgal
-GCA_001311805.1	nam-pla
-GCA_014646635.1	ka-pi
+GCA_001311805.1	nam_pla
+GCA_014646635.1	ka_pi
 GCA_000583655.1	shochu
 GCA_000159315.1	wine
 GCA_001311745.1	kefir
@@ -142,7 +142,7 @@ GCA_001435095.1	sourdough
 GCA_003946265.1	kimchi
 GCA_001434115.1	sourdough
 GCA_000260635.1	cheese
-GCA_001435755.1	pla-ra
+GCA_001435755.1	pla_ra
 GCA_000349725.1	pobuzihi
 GCA_000159215.1	pickle
 GCA_001436045.1	sourdough
@@ -150,7 +150,7 @@ GCA_001027985.1	sourdough
 GCA_001435345.1	sourdough
 GCA_001437055.1	sourdough
 GCA_001436735.1	chocolate
-GCA_001434915.1	stinky tofu
+GCA_001434915.1	stinky_tofu
 GCA_001435235.1	chocolate
 GCA_001434845.1	beer
 GCA_001434225.1	wine
@@ -158,72 +158,72 @@ GCA_001436275.1	wine
 GCA_001312045.1	shochu
 GCA_001434935.1	wine
 GCA_003970575.1	cheese
-GCA_007671655.1	salted anchovy
-GCA_000686905.1	kusaya gravy
+GCA_007671655.1	salted_anchovy
+GCA_000686905.1	kusaya_gravy
 GCA_002874535.1	jeotgal
 GCA_022179345.1	jeotgal
 GCA_000422745.1	cheese
-GCA_008017445.1	salted turban shell
+GCA_008017445.1	salted_turban_shell
 GCA_003667525.1	cheese
 GCA_014138825.1	jeotgal
 GCA_000340475.1	kimchi
 GCA_000309445.1	wine
 GCA_003008535.1	sikhye
 GCA_003614185.1	vinegar
-GCA_001436805.1	chili bo
+GCA_001436805.1	chili_bo
 GCA_004341685.1	beer
 GCA_001437605.1	sourdough
 GCA_015613245.1	sake
 GCA_015613265.1	cheese
 GCA_016908275.1	cassava
 GCA_023657365.1	chocolate
-GCA_900113675.1	fish sauce
+GCA_900113675.1	fish_sauce
 GCA_014202615.1	jeotgal
 GCA_000940845.1	cheese
 GCA_003144495.1	jeotgal
 GCA_016107535.1	jeotgal
 GCA_900107595.1	cheese
-GCA_003097615.1	pu'er tea
-GCA_014642655.1	pu'er tea
-GCA_014639255.1	pu'er tea
-GCA_001591825.1	fish sauce
+GCA_003097615.1	pu_er_tea
+GCA_014642655.1	pu_er_tea
+GCA_014639255.1	pu_er_tea
+GCA_001591825.1	fish_sauce
 GCA_004136575.1	jeotgal
 GCA_000330705.1	gejang
-GCA_001996005.1	pla-ra
-GCA_000425885.1	suan cai
-GCA_000469325.1	fermented beverage
+GCA_001996005.1	pla_ra
+GCA_000425885.1	suan_cai
+GCA_000469325.1	fermented_beverage
 GCA_016908855.1	daqu
 GCA_001312845.1	cider
 GCA_000260775.1	beer
-GCA_001313185.1	stinky tofu
-GCA_000740055.1	fermented rice grain
+GCA_001313185.1	stinky_tofu
+GCA_000740055.1	fermented_rice_grain
 GCA_001311075.1	molasses
-GCA_002902605.1	pla-chom
-GCA_001014685.1	soy sauce
+GCA_002902605.1	pla_chom
+GCA_001014685.1	soy_sauce
 GCA_002901955.1	cheese
-GCA_003970555.1	kung-chom
-GCA_900453015.1	ropy milk
+GCA_003970555.1	kung_chom
+GCA_900453015.1	ropy_milk
 GCA_900459545.1	cheese
-GCA_024137205.1	soy sauce
+GCA_024137205.1	soy_sauce
 GCA_000423785.1	ishiru
 GCA_000763315.1	daqu
 GCA_001870205.1	yogurt
 GCA_000709085.1	jeotgal
-GCA_005405525.1	chili bo
+GCA_005405525.1	chili_bo
 GCA_016466705.1	pickle
 GCA_000420365.1	salami
 GCA_005405545.1	salami
 GCA_000277645.1	kimchi
-GCA_003363255.1	pla-ra
+GCA_003363255.1	pla_ra
 GCA_001437355.1	salami
 GCA_000277755.1	wine
 GCA_000245735.2	jeotgal
 GCA_009377195.2	cheese
-GCA_000225825.2	saeu-jeot
+GCA_000225825.2	saeu_jeot
 GCA_000179395.2	cheese
 GCA_000226215.2	jeotgal
 GCA_000498955.2	chocolate
-GCA_000785105.2	stinky tofu
+GCA_000785105.2	stinky_tofu
 GCA_000224785.2	jeotgal
 GCA_000166735.2	kimchi
 GCA_000255495.2	wine

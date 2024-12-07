@@ -78,4 +78,13 @@ bacdive_full_metadata <- complete_bacdive_genbank_metadata %>%
   left_join(bacdive_genbank_accession_list) %>% 
   select(-genbank_id) %>% 
   select(genbank_accession, everything()) %>% 
-  drop_na(fermented_food)
+  drop_na(fermented_food) 
+
+bacdive_workflow_metadata <- bacdive_full_metadata %>% 
+  mutate(mag_id = genbank_accession) %>% 
+  select(mag_id, fermented_food) %>% 
+  mutate(fermented_food = gsub("[^a-zA-Z0-9]", "_", fermented_food))
+
+# write final curated sets of metadata
+write_tsv(bacdive_full_metadata, "metadata/cleaned_metadata/2024-12-06-bacdive-accessions-curated-metadata.tsv")
+write_tsv(bacdive_workflow_metadata, "metadata/cleaned_metadata/2024-12-06-bacdive-workflow-metadata.tsv")
