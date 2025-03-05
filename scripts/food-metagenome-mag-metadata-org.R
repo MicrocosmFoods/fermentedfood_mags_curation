@@ -286,6 +286,13 @@ all_food_mags_metadata_cleaned %>%
   group_by(study_catalog) %>% 
   count()
 
+hqmq_mags_list <- all_food_mags_metadata_cleaned %>% 
+  filter(domain == "Bacteria") %>% 
+  filter(completeness > 50) %>% 
+  filter(contamination < 10) %>% 
+  filter(n50 > 5000) %>% 
+  pull(mag_id)
+
 # plot stats of substrate & group counts
 substrate_categories_plot <- all_food_mags_metadata_cleaned %>%
   filter(domain == "Bacteria") %>% 
@@ -316,3 +323,12 @@ substrate_categories_plot <- all_food_mags_metadata_cleaned %>%
 substrate_categories_plot
 
 ggsave("figs/hq-genomes-substrate-categories-plot.png", substrate_categories_plot, width=11, height=8, units=c("in"))
+
+# mag stats of different metadata categories
+length(unique(all_food_mags_metadata_cleaned$fermented_food))
+length(unique(all_food_mags_metadata_cleaned$specific_substrate))
+length(unique(all_food_mags_metadata_cleaned$substrate_category))
+length(unique(all_food_mags_metadata_cleaned$general_category))
+
+# write list of modified HQMQ MAGs to process
+write_lines(hqmq_mags_list, "metadata/2025-03-05-modified-hqmq-bac-mags-list.txt")
