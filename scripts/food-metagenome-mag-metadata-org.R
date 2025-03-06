@@ -226,52 +226,38 @@ manually_curated_metadata_cleaned <- manually_curated_metadata %>%
 combined_quast_stats <- read_tsv("metadata/raw_metadata/all_quast_stats.tsv", col_names = c("mag_id", "contigs_0", "contigs_1000", "contigs_5000", "contigs_10000", "contigs_25000", "contigs50000", "total_length_0", "total_length_1000", "total_length_5000", "total_length_10000", "total_length_25000", "total_length_50000", "contigs", "largest_contig", "total_length", "gc", "n50", "n90", "auN", "L50", "L90", "n_per_100kbp")) %>% 
   select(mag_id, contigs, total_length, gc, n50)
 
-all_food_mags_metadata_cleaned <- left_join(manually_curated_metadata_cleaned, combined_quast_stats) %>% 
+all_food_mags_metadata_cleaned_curated <- left_join(manually_curated_metadata_cleaned, combined_quast_stats) %>% 
   drop_na(contigs) %>% 
   select(mag_id, sample_description, fermented_food, specific_substrate, substrate_category, general_category, completeness, contamination, contigs, total_length, gc, n50, domain, phylum, class, order, family, genus, species, phylo_group, study_catalog, source)
 
-all_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria")
-
-hq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
+hq_bac_food_mags <- all_food_mags_metadata_cleaned_curated %>% 
   filter(completeness > 90) %>% 
-  filter(contigs < 100) %>% 
-  filter(domain == "Bacteria" )
+  filter(contigs < 100)
 
-all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria") %>% 
+all_food_mags_metadata_cleaned_curated %>% 
   filter(completeness > 50) %>% 
   filter(contamination < 10) %>% 
   filter(contigs < 200) %>% 
   count() # 5550 MQ genomes
 
-mq_bac_food_mags <- all_food_mags_metadata_cleaned %>% 
+mq_bac_food_mags <- all_food_mags_metadata_cleaned_curated %>% 
   filter(domain == 'Bacteria') %>% 
   filter(completeness > 50) %>% 
   filter(contamination < 10) %>% 
   filter(contigs < 200)
 
-all_euk_food_mags <- all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Eukaryota")
-
 # cleaned metadata
-write_tsv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/2024-11-18-all-food-mag-metadata-cleaned.csv")
+write_tsv(all_food_mags_metadata_cleaned_curated, "metadata/cleaned_metadata/2025-03-05-all-bac-mag-metadata-cleaned.tsv")
+write_tsv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/2025-03-05-all-mags-metadata-cleaned.tsv")
 
-# write out MAG metadata
-write_tsv(hq_bac_food_mags, 'metadata/cleaned_metadata/2024-11-18-all-hq-bac-food-mags-metadata.tsv')
-write_tsv(all_bac_food_mags, "metadata/cleaned_metadata/2024-11-18-all-bac-food-mags-metadata.tsv")
-write_tsv(all_euk_food_mags, "metadata/cleaned_metadata/2024-11-18-all-euk-food-mags-metadata.tsv")
-write_tsv(mq_bac_food_mags, 'metadata/cleaned_metadata/2024-11-18-all-mq-bac-food-mags-metadata.tsv')
 
 # mag stats
-all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria") %>% 
+all_food_mags_metadata_cleaned_curated %>% 
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>% 
   count() # ~2000 "HQ" bacterial MAGs - 90% completeness, less than 100 contigs
 
-all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria") %>% 
+all_food_mags_metadata_cleaned_curated %>% 
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>% 
   group_by(phylo_group, substrate_category) %>% 
@@ -279,23 +265,27 @@ all_food_mags_metadata_cleaned %>%
   arrange(desc(n)) %>% 
   print(n=41)
 
-all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria") %>% 
+all_food_mags_metadata_cleaned_curated %>% 
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>% 
   group_by(study_catalog) %>% 
   count()
 
-hqmq_mags_list <- all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Bacteria") %>% 
+hqmq_mags_list <- all_food_mags_metadata_cleaned_curated %>% 
   filter(completeness > 50) %>% 
   filter(contamination < 10) %>% 
   filter(n50 > 5000) %>% 
   pull(mag_id)
 
+eukaryotic_mags <- all_food_mags_metadata_cleaned %>% 
+  filter(domain=="Eukaryota") # 770 eukaryotic genomes
+
+
+all_food_mags_metadata_cleaned %>% 
+  filter(domain == "Archaea") # 17 archaeal genomes
+
 # plot stats of substrate & group counts
-substrate_categories_plot <- all_food_mags_metadata_cleaned %>%
-  filter(domain == "Bacteria") %>% 
+substrate_categories_plot <- all_food_mags_metadata_cleaned_curated %>%
   filter(completeness > 90) %>% 
   filter(contigs < 100) %>%
   group_by(substrate_category) %>%
@@ -332,3 +322,6 @@ length(unique(all_food_mags_metadata_cleaned$general_category))
 
 # write list of modified HQMQ MAGs to process
 write_lines(hqmq_mags_list, "metadata/2025-03-05-modified-hqmq-bac-mags-list.txt")
+
+# write out eukaryotic MAGs to metadata since there are a sizeable amount of them
+write_tsv(eukaryotic_mags, "metadata/cleaned_metadata/2025-03-05-all-euk-mags-metadata.tsv")
