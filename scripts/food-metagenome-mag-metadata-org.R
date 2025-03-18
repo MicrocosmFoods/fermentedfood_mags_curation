@@ -27,7 +27,9 @@ carlino2024_mag_metadata <- read.csv("metadata/raw_metadata/mag_datasets/CellFoo
   mutate(dataset_sample_id = paste(dataset_id, sample_id, sep="__")) %>% 
   select(MAG_id, dataset_sample_id, completeness, contamination, superkingdom, phylum, class, order, family, genus, species) %>% 
   mutate(study_catalog = c("Carlino2024"))
+
 colnames(carlino2024_mag_metadata) <- c("mag_id", "dataset_sample_id", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog")
+
 carlino2024_sample_metadata <- read.csv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics/2024-cell-food-metagenomics-sample-metadata.csv") %>% 
   select(sample_id, category, type)
 colnames(carlino2024_sample_metadata) <- c("dataset_sample_id", "substrate", "specific_substrate")
@@ -36,6 +38,30 @@ carlino2024_complete_metadata <- left_join(carlino2024_mag_metadata, carlino2024
   mutate(source = dataset_sample_id) %>% 
   mutate(substrate_category = substrate) %>% 
   select(mag_id, substrate_category, specific_substrate, source, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog)
+
+# Updated v1.2.1 Carlino 2024 samples
+updated_carlino2024_datasets <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics_v1.2.1/cFMD_datasets.tsv") %>% 
+  mutate(dataset_id = Dataset) %>% 
+  select(-Dataset)
+
+updated_carlino2024_sample_metadata <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics_v1.2.1/cFMD_metadata.tsv") %>% 
+  mutate(dataset_id = dataset_name) %>% 
+  mutate(dataset_sample_id = paste(dataset_name, sample_id, sep="__")) %>% 
+  select(-dataset_name)
+
+updated_carlino2024_mag_metadata <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics_v1.2.1/cFMD_mags_list.tsv") %>% 
+  mutate(dataset_sample_id = paste(dataset_id, sample_id, sep="__"))
+
+updated_carlino2024_sample_dataset_info <- left_join(updated_carlino2024_sample_metadata, updated_carlino2024_datasets) %>% 
+  filter(Version == "cFMDv1.2.1")
+
+fermented_updated_carlino2024_sample_dataset_info <- updated_carlino2024_sample_dataset_info %>% 
+  filter(`fermented/non-fermented` == "F") %>% 
+  select(dataset_sample_id, macrocategory, category, type, subtype, sample_accession, project_accession, Version, Reference)
+
+fermented_updated_carlino2024_mag_metadata <- left_join(updated_carlino2024_mag_metadata, fermented_updated_carlino2024_sample_dataset_info, by="dataset_sample_id", relationship = "many-to-many") %>% 
+  filter(Version == "cFMDv1.2.1") %>% 
+  filter(dataset_id != "SaakC_2023") # filter out Saak2023 because we already include those in our DB
 
 # Caffrey 2024 MiFoDB
 caffrey2024_metadata <- read.csv("metadata/raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3_AllReferences.csv") %>% 
