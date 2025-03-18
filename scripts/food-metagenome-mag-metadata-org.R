@@ -37,7 +37,8 @@ colnames(carlino2024_sample_metadata) <- c("dataset_sample_id", "substrate", "sp
 carlino2024_complete_metadata <- left_join(carlino2024_mag_metadata, carlino2024_sample_metadata) %>% 
   mutate(source = dataset_sample_id) %>% 
   mutate(substrate_category = substrate) %>% 
-  select(mag_id, substrate_category, specific_substrate, source, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog)
+  mutate(carlino_version = "cFMDv1.0.0") %>% 
+  select(mag_id, substrate_category, specific_substrate, source, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog, carlino_version)
 
 # Updated v1.2.1 Carlino 2024 samples
 updated_carlino2024_datasets <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics_v1.2.1/cFMD_datasets.tsv") %>% 
@@ -61,7 +62,24 @@ fermented_updated_carlino2024_sample_dataset_info <- updated_carlino2024_sample_
 
 fermented_updated_carlino2024_mag_metadata <- left_join(updated_carlino2024_mag_metadata, fermented_updated_carlino2024_sample_dataset_info, by="dataset_sample_id", relationship = "many-to-many") %>% 
   filter(Version == "cFMDv1.2.1") %>% 
-  filter(dataset_id != "SaakC_2023") # filter out Saak2023 because we already include those in our DB
+  filter(dataset_id != "SaakC_2023")  %>% # filter out Saak2023 because we already include those in our DB
+  mutate(substrate_category = category) %>% 
+  mutate(specific_substrate = type) %>% 
+  mutate(source = dataset_sample_id) %>% 
+  mutate(domain = superkingdom) %>% 
+  mutate(Reference = gsub("\\*", "cFMDv1.2.1", Reference)) %>% 
+  mutate(study_catalog = Reference) %>% 
+  mutate(mag_id = MAG_id) %>% 
+  mutate(carlino_version = Version) %>% 
+  select(mag_id, substrate_category, specific_substrate, source, completeness, contamination, domain, phylum, class, order, family, genus, species, study_catalog, carlino_version) 
+
+# updated and original carlino metadata together
+
+carlino2024_2025_all_metadata <- rbind(carlino2024_complete_metadata, fermented_updated_carlino2024_mag_metadata)
+
+modified_carlino2024_2025_all_metadata <- carlino2024_2025_all_metadata %>% 
+  select(-carlino_version) %>% 
+  filter(!is.na(domain))
 
 # Caffrey 2024 MiFoDB
 caffrey2024_metadata <- read.csv("metadata/raw_metadata/mag_datasets/MiFoDB/MiFoDB_beta_v3_AllReferences.csv") %>% 
@@ -117,13 +135,11 @@ sourdough_aabs_metadata_cleaned <- sourdough_aabs_metadata %>%
   
 
 # combine all dataset metadata
-caffrey_carlino_dbs <- bind_rows(carlino2024_complete_metadata, caffrey2024_metadata) %>%
-  filter(contamination < 10)
+caffrey_carlino_dbs <- bind_rows(modified_carlino2024_2025_all_metadata, caffrey2024_metadata)
 
-write.csv(caffrey_carlino_dbs, "metadata/cleaned_metadata/mag_datasets/caffrey_carlino_datasets.csv", quote = FALSE, row.names = FALSE)
+write.csv(caffrey_carlino_dbs, "metadata/cleaned_metadata/mag_datasets/2025-03-18-uopdated-caffrey_carlino_datasets.csv", quote = FALSE, row.names = FALSE)
 
-all_food_mags_metadata <- bind_rows(du2023_metadata_cleaned, carlino2024_complete_metadata, caffrey2024_metadata, saak2023_metadata_cleaned, sourdough_aabs_metadata_cleaned) %>% 
-  filter(contamination < 10) %>% 
+all_food_mags_metadata <- bind_rows(du2023_metadata_cleaned, modified_carlino2024_2025_all_metadata, caffrey2024_metadata, saak2023_metadata_cleaned, sourdough_aabs_metadata_cleaned) %>% 
   mutate(substrate_category = tolower(substrate_category)) %>% 
   mutate(specific_substrate = tolower(specific_substrate))
 
@@ -212,7 +228,7 @@ all_food_mags_metadata_cleaned <- all_food_mags_metadata %>%
   select(mag_id, original_substrate, substrate_category, everything())
 
 # write out this intermediate table for manually curating categories
-write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/2024-11-01-raw-metadata-for-curation.tsv")
+write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/manually_curated_metadata/2025-03-18-raw-updated-metadata-for-curation.tsv")
 
 ####################
 # Manually curated metadata 
@@ -223,8 +239,14 @@ write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/2024-11-01-raw-
 # General category - broadest category, such as fermented_beverages could have several types of drinks in them
 ####################
 
-# read in the curated metadata table to join with assembly quality information
+# read in the curated metadata table to join with updated cFMD1.2.1 metadata
+# then join with QUAST stats
+
 manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_metadata/2024-11-04-manually-curated-mag-metadata.tsv")
+
+updated_carlino_manually_curated_metadata <- left_join(all_food_mags_metadata_cleaned, manually_curated_metadata)
+
+write_tsv(updated_carlino_manually_curated_metadata, "metadata/raw_metadata/manually_curated_metadata/2025-03-18-updated-carlino-manually-curated-metadata.tsv")
 
 colnames(manually_curated_metadata) <- c("mag_id", "sample_description", "fermented_food", "specific_substrate", "substrate_category", "general_category", "source", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog", "phylo_group")
 
