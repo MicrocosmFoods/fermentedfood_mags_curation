@@ -239,14 +239,11 @@ write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/manually_curate
 # General category - broadest category, such as fermented_beverages could have several types of drinks in them
 ####################
 
-# read in the curated metadata table to join with updated cFMD1.2.1 metadata
+# read in the manually curated metadata table
 # then join with QUAST stats
 
-manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_metadata/2024-11-04-manually-curated-mag-metadata.tsv")
+manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_metadata/2025-03-18-updated-carlino-manually-curated-metadata-modified.tsv")
 
-updated_carlino_manually_curated_metadata <- left_join(all_food_mags_metadata_cleaned, manually_curated_metadata)
-
-write_tsv(updated_carlino_manually_curated_metadata, "metadata/raw_metadata/manually_curated_metadata/2025-03-18-updated-carlino-manually-curated-metadata.tsv")
 
 colnames(manually_curated_metadata) <- c("mag_id", "sample_description", "fermented_food", "specific_substrate", "substrate_category", "general_category", "source", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog", "phylo_group")
 
