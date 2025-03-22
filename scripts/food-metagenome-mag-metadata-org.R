@@ -242,10 +242,11 @@ write_tsv(all_food_mags_metadata_cleaned, "metadata/raw_metadata/manually_curate
 # read in the manually curated metadata table
 # then join with QUAST stats
 
-manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_metadata/2025-03-18-updated-carlino-manually-curated-metadata-modified.tsv")
+manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_metadata/2025-03-21-all-manually-curated-metadata.tsv") %>% 
+  select(-original_substrate, -substrate_category, -specific_substrate, -group)
 
 
-colnames(manually_curated_metadata) <- c("mag_id", "sample_description", "fermented_food", "specific_substrate", "substrate_category", "general_category", "source", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog", "phylo_group")
+colnames(manually_curated_metadata) <- c("mag_id", "source", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog", "sample_description", "fermented_food", "specific_substrate", "substrate_category", "general_category")
 
 carlino_sample_info <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics/2024-11-04-Carlino-sample-metadata.tsv") %>% 
   mutate(source = paste(dataset_name, sample_id, sep="__")) %>% 
