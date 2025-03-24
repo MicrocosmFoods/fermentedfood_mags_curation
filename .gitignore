@@ -1,3 +1,5 @@
+.nextflow*
+*.stats.tsv
 metadata/raw_metadata/genomequal_results
 *.log*
 work/

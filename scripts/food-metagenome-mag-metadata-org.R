@@ -248,17 +248,8 @@ manually_curated_metadata <- read_tsv("metadata/raw_metadata/manually_curated_me
 
 colnames(manually_curated_metadata) <- c("mag_id", "source", "completeness", "contamination", "domain", "phylum", "class", "order", "family", "genus", "species", "study_catalog", "sample_description", "fermented_food", "specific_substrate", "substrate_category", "general_category")
 
-carlino_sample_info <- read_tsv("metadata/raw_metadata/mag_datasets/CellFoodMetagenomics/2024-11-04-Carlino-sample-metadata.tsv") %>% 
-  mutate(source = paste(dataset_name, sample_id, sep="__")) %>% 
-  select(source, "fermented/non-fermented")
-
-colnames(carlino_sample_info) <- c("source", "fermented_status")
-
 manually_curated_metadata_cleaned <- manually_curated_metadata %>% 
-  left_join(carlino_sample_info) %>% 
   filter(!is.na(substrate_category)) %>% 
-  filter(is.na(fermented_status) | fermented_status == "F") %>% 
-  select(-fermented_status) %>%
   mutate(across(
     c("fermented_food", "specific_substrate", "substrate_category", "general_category"),
     ~ str_trim(.) %>%  
@@ -269,105 +260,22 @@ manually_curated_metadata_cleaned <- manually_curated_metadata %>%
 ## QUAST stats on genome assembly quality
 ## combine the manually curated metadata with assembly quality
 ## Then split out bacteria, archaea, and eukaryote assemblies since mostly focusing on processing bacterial assemblies of varying quality
-combined_quast_stats <- read_tsv("metadata/raw_metadata/all_quast_stats.tsv", col_names = c("mag_id", "contigs_0", "contigs_1000", "contigs_5000", "contigs_10000", "contigs_25000", "contigs50000", "total_length_0", "total_length_1000", "total_length_5000", "total_length_10000", "total_length_25000", "total_length_50000", "contigs", "largest_contig", "total_length", "gc", "n50", "n90", "auN", "L50", "L90", "n_per_100kbp")) %>% 
+combined_quast_stats <- read_tsv("metadata/raw_metadata/2025-03-21-mag-quast-stats/2025-03-24-all-mag-quast-stats.tsv", col_names = c("mag_id", "contigs_0", "contigs_1000", "contigs_5000", "contigs_10000", "contigs_25000", "contigs50000", "total_length_0", "total_length_1000", "total_length_5000", "total_length_10000", "total_length_25000", "total_length_50000", "contigs", "largest_contig", "total_length", "gc", "n50", "n90", "auN", "L50", "L90", "n_per_100kbp")) %>% 
   select(mag_id, contigs, total_length, gc, n50)
 
 all_food_mags_metadata_cleaned_curated <- left_join(manually_curated_metadata_cleaned, combined_quast_stats) %>% 
-  drop_na(contigs) %>% 
-  select(mag_id, sample_description, fermented_food, specific_substrate, substrate_category, general_category, completeness, contamination, contigs, total_length, gc, n50, domain, phylum, class, order, family, genus, species, phylo_group, study_catalog, source)
-
-hq_bac_food_mags <- all_food_mags_metadata_cleaned_curated %>% 
-  filter(completeness > 90) %>% 
-  filter(contigs < 100)
-
-all_food_mags_metadata_cleaned_curated %>% 
-  filter(completeness > 50) %>% 
-  filter(contamination < 10) %>% 
-  filter(contigs < 200) %>% 
-  count() # 5550 MQ genomes
-
-mq_bac_food_mags <- all_food_mags_metadata_cleaned_curated %>% 
-  filter(domain == 'Bacteria') %>% 
-  filter(completeness > 50) %>% 
-  filter(contamination < 10) %>% 
-  filter(contigs < 200)
-
-# cleaned metadata
-write_tsv(all_food_mags_metadata_cleaned_curated, "metadata/cleaned_metadata/2025-03-05-all-bac-mag-metadata-cleaned.tsv")
-write_tsv(all_food_mags_metadata_cleaned, "metadata/cleaned_metadata/2025-03-05-all-mags-metadata-cleaned.tsv")
-
-
-# mag stats
-all_food_mags_metadata_cleaned_curated %>% 
-  filter(completeness > 90) %>% 
-  filter(contigs < 100) %>% 
-  count() # ~2000 "HQ" bacterial MAGs - 90% completeness, less than 100 contigs
-
-all_food_mags_metadata_cleaned_curated %>% 
-  filter(completeness > 90) %>% 
-  filter(contigs < 100) %>% 
-  group_by(phylo_group, substrate_category) %>% 
-  count() %>% 
-  arrange(desc(n)) %>% 
-  print(n=41)
-
-all_food_mags_metadata_cleaned_curated %>% 
-  filter(completeness > 90) %>% 
-  filter(contigs < 100) %>% 
-  group_by(study_catalog) %>% 
-  count()
+  select(mag_id, sample_description, fermented_food, specific_substrate, substrate_category, general_category, completeness, contamination, contigs, total_length, gc, n50, domain, phylum, class, order, family, genus, species, study_catalog, source) %>% 
+  filter(!is.na(contigs))
 
 hqmq_mags_list <- all_food_mags_metadata_cleaned_curated %>% 
+  filter(domain == "Bacteria") %>% 
   filter(completeness > 50) %>% 
   filter(contamination < 10) %>% 
   filter(n50 > 5000) %>% 
   pull(mag_id)
 
-eukaryotic_mags <- all_food_mags_metadata_cleaned %>% 
-  filter(domain=="Eukaryota") # 770 eukaryotic genomes
-
-
-all_food_mags_metadata_cleaned %>% 
-  filter(domain == "Archaea") # 17 archaeal genomes
-
-# plot stats of substrate & group counts
-substrate_categories_plot <- all_food_mags_metadata_cleaned_curated %>%
-  filter(completeness > 90) %>% 
-  filter(contigs < 100) %>%
-  group_by(substrate_category) %>%
-  mutate(substrate_count = n()) %>% 
-  ungroup() %>%
-  mutate(substrate_category = fct_lump_min(substrate_category, min = 20, other_level = "other")) %>%  
-  ggplot(aes(y=fct_infreq(substrate_category))) +   
-  geom_bar(aes(fill=substrate_category)) + 
-  scale_fill_brewer(palette = "Set3") +   
-  theme_classic() +                   
-  theme(
-    axis.text.x = element_text(angle = 45, hjust = 1, size = 12), 
-    axis.text.y = element_text(size = 12), 
-    text = element_text(size = 12), 
-    legend.position = "none", 
-    legend.text = element_text(size = 12),    
-    legend.title = element_text(size = 12),
-    title = element_text(size = 12, face = "bold")
-  ) +
-  scale_x_continuous(expand = c(0, 0)) +
-  xlab("Number of Bacterial Genomes") +
-  ylab("Food Substrate Category") + 
-  ggtitle("High-Quality Genomes across Food Substrate Categories")
-
-substrate_categories_plot
-
-ggsave("figs/hq-genomes-substrate-categories-plot.png", substrate_categories_plot, width=11, height=8, units=c("in"))
-
-# mag stats of different metadata categories
-length(unique(all_food_mags_metadata_cleaned$fermented_food))
-length(unique(all_food_mags_metadata_cleaned$specific_substrate))
-length(unique(all_food_mags_metadata_cleaned$substrate_category))
-length(unique(all_food_mags_metadata_cleaned$general_category))
+# cleaned metadata
+write_tsv(all_food_mags_metadata_cleaned_curated, "metadata/cleaned_metadata/2025-03-24-all-ff-mag-metadata-cleaned-curated.tsv")
 
 # write list of modified HQMQ MAGs to process
-write_lines(hqmq_mags_list, "metadata/2025-03-05-modified-hqmq-bac-mags-list.txt")
-
-# write out eukaryotic MAGs to metadata since there are a sizeable amount of them
-write_tsv(eukaryotic_mags, "metadata/cleaned_metadata/2025-03-05-all-euk-mags-metadata.tsv")
+write_lines(hqmq_mags_list, "metadata/2025-03-24-modified-hqmq-bac-mags-list.txt")
