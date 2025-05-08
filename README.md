@@ -26,6 +26,9 @@ After [installing conda for your OS](https://docs.conda.io/projects/conda/en/lat
 conda env create -n fermented_foods envs/dev.yml
 ```
 
+## Metadata Curation 
+Metadata associated with each genome including sample accession, food information and taxonomy, and further curation of the genome set including dereplication and GTDB-tk taxonomic assignment is documented in the (`fermentedfood_metadata_curation`)[https://github.com/MicrocosmFoods/fermentedfood_metadata_curation] repository. 
+
 ## Repository Structure & Files
 The repository is split both for scripts and directories for handling genomes from MAG datasets or collections of isolates. The cleaned, curated metadata for the MAG datasets and bacdive isolates is in the main `metadata` directory and copied in the subdirectories. The subdirectories contain the raw files for curating metadata from different sources together.
 
