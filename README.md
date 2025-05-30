@@ -29,24 +29,16 @@ conda env create -n fermented_foods envs/dev.yml
 ```
 
 ## Metadata Curation 
-Metadata associated with each genome including sample accession, food information and taxonomy, and further curation of the genome set including dereplication and GTDB-tk taxonomic assignment is documented in the (`fermentedfood_metadata_curation`)[https://github.com/MicrocosmFoods/fermentedfood_metadata_curation] repository. 
+Metadata associated with each genome including sample accession, food information and taxonomy, and further curation of the genome set including dereplication and GTDB-tk taxonomic assignment is documented in the [fermentedfood_metadata_curation](https://github.com/MicrocosmFoods/fermentedfood_metadata_curation) repository. 
 
 ## Repository Structure & Files
 The repository is split both for scripts and directories for handling genomes from MAG datasets or collections of isolates. The cleaned, curated metadata for the MAG datasets and bacdive isolates is in the main `metadata` directory and copied in the subdirectories. The subdirectories contain the raw files for curating metadata from different sources together.
 
-Additionally there are main metadata files for high-quality (HQ) genomes from the MAG and Genbank isolate sources. A "HQ" MAG was considered to be a bacterial MAG with at least 90% completeness and less than 100 contigs. A "HQ" Genbank isolate with BacDive metadata was considered to be a genome with at least 90% completeness and less than 50 contigs in the assembly.
 ``` 
-- metadata/
-    - all-bacdive-ff-metadata.tsv
-    - all-food-mags-metadata.tsv
-    - all-hq-bac-food-mag-metadata.tsv
-    - all-hq-bacdive-ff-metadata.tsv
-    - raw_metadata/
-        - isolate_genomes/
-        - mag_datasets/
-    - cleaned_metadata/
-        - isolate_genomes/
-        - mag_datasets/
+- metadata/ - Most of this are now intermediate files used to create the final metadata files in the [fermentedfood_metadata_curation](https://github.com/MicrocosmFoods/fermentedfood_metadata_curation) repository.
 - scripts/
+    - batch_fasta_files.py - Helper script to create batches of fasta files and associated samplesheet templates for uploading to KBase.
 - envs/
+ - dev.yml
+ - quast.yml
 ```
