@@ -1,6 +1,8 @@
 # Genomes from Microbes of Fermented Foods
 This repository documents curating genomes and metadata from publicly available studies of microbes from different fermented foods. 
 
+The most up-to-date corresponding metadata is available [here](https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-21-genome-metadata-food-taxonomy.tsv). 
+
 ## Accessed Datasets and Repositories
 For mining microbial genoems of fermented foods for bioactive properties, we accessed metagenome-assembled genomes (MAGs) and isolates from publicly available sources. 
 
