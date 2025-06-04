@@ -88,6 +88,8 @@ Now you will have to do this process for however many batches you have (in our c
 
 ## Upload Sample Set Information to KBase 
 
+The associated metadata will have to be modified slightly to upload to KBase as a Sample Set. The script `sctipts/modify-metadata.py` handles making these small modifications, namely changing the first column to be "name" and changing long lists of sample or run accessions to lists of ranges if the samples/runs are lists that are in sequential order. Upload this to KBase in the same fashion as the genomes in the staging area, and set the file type to "Sample Set". 
+
 ## Add Documentation to the Narrative
 
 ## Create a Narrative with Subsets of Genomes
