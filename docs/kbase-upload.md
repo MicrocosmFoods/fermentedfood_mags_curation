@@ -88,7 +88,80 @@ Now you will have to do this process for however many batches you have (in our c
 
 ## Upload Sample Set Information to KBase 
 
-The associated metadata will have to be modified slightly to upload to KBase as a Sample Set. The script `sctipts/modify-metadata.py` handles making these small modifications, namely changing the first column to be "name" and changing long lists of sample or run accessions to lists of ranges if the samples/runs are lists that are in sequential order. Upload this to KBase in the same fashion as the genomes in the staging area, and set the file type to "Sample Set". 
+The associated metadata will have to be modified slightly to upload to KBase as a Sample Set. The script `sctipts/modify-metadata.py` handles making these small modifications, namely changing the first column to be "name" and changing long lists of sample or run accessions to lists of ranges if the samples/runs are lists that are in sequential order. Upload this to KBase in the same fashion as the genomes in the staging area, and set the file type to "Sample Set". This will need to be done so the metadata is only for the filtered set of genomes because the upload will crash with ~13,000 rows. Supposedly it will crash when you are over 10,000 rows, so if you are under that then just uploading the entire metadata is fine. 
+
+In the app for uploading sample information, make sure to click the box "Ignore Warnings." Otherwise it says the cell runs successfully but it won't actually create the SampleSet if you have custom columns that trigger warnings.
+
+Now you will have to link the workspace objects to samples, where you need to create another spreadsheet for linking the genome files to the samples in the metadata. For this, create a new narrative in KBase (such as sample-linkage) and create a code-cell. To create a code-cell press at the bottom right what looks like a command line. Insert this function, where `######` is your narrative ID which is in the URL link. 
+
+```
+# Create template for SampleSet Linking - Shareable
+from biokbase.installed_clients.WorkspaceClient import Workspace
+ws = Workspace("https://narrative.kbase.us/services/ws")
+def print_sample_link_csv(wsid,objtype=None,typecol=True):
+    '''
+    Inputs:
+        wsid - the workspace ID of the narrative you want a sample link template for
+        objtype - Defaults "none" which returns all objects including the Narrative object. 
+            Include an object type to select only that type.
+        typecol - prints the type of the object to the csv, if you want to include all types so you can filter it later. 
+            If you include this column, delete it from the final CSV before uploading to link samples.
+    Outputs:
+        Prints the text of a formatted CSV with all the information for all the objects you have selected except the sample name.
+    Usage:
+        Run this function for the Narrative that you want sample links for, then copy the output text to a text editor outside of KBase. 
+        Fill in the "sample_name" column however is easiest for you, then upload as a csv/tsv/excel file and run "Batch link Workspace Objects to Samples" to perform the linking. 
+        '''
+    objects = ws.list_objects(params={"ids":[int(wsid)],"type":objtype})
+    if typecol==True:
+        csvtext = 'object_name,sample_name,obj. ref,DELETE_COLUMN-object_type'
+    else:
+        csvtext = 'object_name,sample_name,obj. ref'
+    print(csvtext)
+    for obj in objects:
+        wsid = obj[6]
+        objnum = obj[0]
+        ver = obj[4]
+        ref = f"{wsid}/{objnum}/{ver}"
+        name = obj[1]
+        if typecol==True:
+            objtype = obj[2]
+            line = f"{name},{name},{ref},{objtype}"
+        else:
+            line = f"{name},{name},{ref}"
+        print(line)
+        csvtext+=line
+    return csvtext
+
+csv = print_sample_link_csv(######)
+```
+
+The code-cell will output something that looks like this: 
+```
+object_name,sample_name,obj. ref,DELETE_COLUMN-object_type
+Narrative.1748638437022,Narrative.1748638437022,218406/1/20,KBaseNarrative.Narrative-4.0
+GCF_001434985.1_ASM143498v1_genomic,GCF_001434985.1_ASM143498v1_genomic,218406/2/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_003946605.1_ASM394660v1_genomic,GCF_003946605.1_ASM394660v1_genomic,218406/3/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_001436135.1_ASM143613v1_genomic,GCF_001436135.1_ASM143613v1_genomic,218406/4/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_003946555.1_ASM394655v1_genomic,GCF_003946555.1_ASM394655v1_genomic,218406/5/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_900618535.1_TH39_genomic,GCF_900618535.1_TH39_genomic,218406/6/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_010306265.1_ASM1030626v1_genomic,GCF_010306265.1_ASM1030626v1_genomic,218406/7/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_011067265.1_ASM1106726v1_genomic,GCF_011067265.1_ASM1106726v1_genomic,218406/8/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_001437055.1_ASM143705v1_genomic,GCF_001437055.1_ASM143705v1_genomic,218406/9/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_023091965.1_ASM2309196v1_genomic,GCF_023091965.1_ASM2309196v1_genomic,218406/10/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_003573535.1_ASM357353v1_genomic,GCF_003573535.1_ASM357353v1_genomic,218406/11/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_006007945.1_ASM600794v1_genomic,GCF_006007945.1_ASM600794v1_genomic,218406/22/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_003946305.1_ASM394630v1_genomic,GCF_003946305.1_ASM394630v1_genomic,218406/23/1,KBaseGenomeAnnotations.Assembly-5.1
+GCA_003325435.1_Razy_CA_genomic,GCA_003325435.1_Razy_CA_genomic,218406/24/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_003946405.1_ASM394640v1_genomic,GCF_003946405.1_ASM394640v1_genomic,218406/25/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_001702115.1_ASM170211v1_genomic,GCF_001702115.1_ASM170211v1_genomic,218406/26/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_005405165.1_ASM540516v1_genomic,GCF_005405165.1_ASM540516v1_genomic,218406/27/1,KBaseGenomeAnnotations.Assembly-5.1
+GCF_000420365.1_ASM42036v1_genomic,GCF_000420365.1_ASM42036v1_genomic,218406/28/1,KBaseGenomeAnnotations.Assembly-5.1
+```
+
+Note that for our specific purposes the filename of the assembly without the `.fa` extension is the name/sample name in the metadata, so the code-cell has been written to output the same string for `object_name` and `sample_name`. This might not be the case for your uploads. Save this code output as a CSV file. Upload it to the workspace. 
+
+Now launch the Batch Link Workspace Objects to Samples app. 
 
 ## Add Documentation to the Narrative
 
