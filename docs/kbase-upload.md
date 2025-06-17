@@ -159,10 +159,8 @@ GCF_005405165.1_ASM540516v1_genomic,GCF_005405165.1_ASM540516v1_genomic,218406/2
 GCF_000420365.1_ASM42036v1_genomic,GCF_000420365.1_ASM42036v1_genomic,218406/28/1,KBaseGenomeAnnotations.Assembly-5.1
 ```
 
-Note that for our specific purposes the filename of the assembly without the `.fa` extension is the name/sample name in the metadata, so the code-cell has been written to output the same string for `object_name` and `sample_name`. This might not be the case for your uploads. Save this code output as a CSV file. Upload it to the workspace. 
+Note that for our specific purposes the filename of the assembly without the `.fa` extension is the name/sample name in the metadata, so the code-cell has been written to output the same string for `object_name` and `sample_name`. This might not be the case for your uploads. Save this code output as a CSV file. Upload it to the workspace. You may have to reformat this for example with `awk` and `sed` so that it's a valid CSV file.
 
-Now launch the Batch Link Workspace Objects to Samples app. 
+Now launch the Batch Link Workspace Objects to Samples app. Select the SampleSet made from before, if it doesn't show up in the drop-down menu you did something wrong when uploading the SampleSet. Select the spreadsheet that links the genome objects to samples. Click Run.
 
 ## Add Documentation to the Narrative
-
-## Create a Narrative with Subsets of Genomes

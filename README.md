@@ -1,10 +1,14 @@
 # Genomes from Microbes of Fermented Foods
 This repository documents curating genomes and metadata from publicly available studies of microbes from different fermented foods. 
 
+The full database of ~13,500 microbial genomes and associated curated metadata can be accessed on [Zenodo](https://zenodo.org/records/15588452). We have also made a subset of these genomes available as a Narrative on KBase. We clustered the full set of 13,500 genomes at 99% average nucleotide identity (ANI) to obtain ~4,300 "strain"-representative genomes. You can access the static KBase Narrative [here](https://kbase.us/n/218406/47/). To access the KBase platform to explore the database and run your own analyses, you will need to create a KBase account. 
+
+<img src="https://github.com/MicrocosmFoods/fermentedfood_metadata_curation/blob/main/figures/kbase_narrative/metadata_summary.png?raw=true">
+
 The most up-to-date corresponding metadata is available [here](https://raw.githubusercontent.com/MicrocosmFoods/fermentedfood_metadata_curation/refs/heads/main/data/2025-05-21-genome-metadata-food-taxonomy.tsv). 
 
 ## Accessed Datasets and Repositories
-For mining microbial genoems of fermented foods for bioactive properties, we accessed metagenome-assembled genomes (MAGs) and isolates from publicly available sources. 
+For curating the set of microbial genomes from diverse fermented foods, we accessed metagenome-assembled genomes (MAGs) and isolates from publicly available sources. 
 
 - Carlino et al. 2024 [Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome](https://www.cell.com/cell/fulltext/S0092-8674(24)00833-X), data downloaded from [https://zenodo.org/doi/10.5281/zenodo.10891046](https://zenodo.org/doi/10.5281/zenodo.10891046)
 - Carlino et al. 2024 cFMD v1.2.1 [Unexplored microbial diversity from 2,500 food metagenomes and links with the human microbiome](https://www.cell.com/cell/fulltext/S0092-8674(24)00833-X) second release of food MAGs, data downloaded from [https://zenodo.org/records/14906604](https://zenodo.org/records/14906604), excluding MAGs from Saak et al. 2023 since we already incorporate those separately
