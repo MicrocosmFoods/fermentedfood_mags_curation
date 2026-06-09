@@ -1,9 +1,10 @@
 # Fermented Foods Microbial Genomes Database
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15588452.svg)](https://doi.org/10.5281/zenodo.15588452)
 [![KBase Narrative](https://img.shields.io/badge/KBase-Narrative-blueviolet)](https://kbase.us/n/218406/47/)
+[![bioRxiv - Preprint](https://shields.io/badge/bioRxiv-Preprint-red)](https://doi.org/10.64898/2026.03.05.709865)
 
 
-This repository documents curating genomes and metadata from publicly available studies of microbes from different fermented foods. 
+This repository documents curating genomes and metadata from publicly available studies of microbes from different fermented foods. The description of the construction of the database and using it to mine thousands of BGCs and peptides is in the bioRxiv publication ["Leveraging publicly available datasets and machine learning approaches for predicting the health benefits of fermented foods".](https://www.biorxiv.org/content/10.64898/2026.03.05.709865v1.full)
 
 The full database of ~13,500 microbial genomes and associated curated metadata can be accessed on [Zenodo](https://zenodo.org/records/15588452). We have also made a subset of these genomes available as a Narrative on KBase. We clustered the full set of 13,500 genomes at 99% average nucleotide identity (ANI) to obtain ~4,300 "strain"-representative genomes. You can access the static KBase Narrative [here](https://kbase.us/n/218406/47/). To access the KBase platform to explore the database and run your own analyses, you will need to create a KBase account. 
 
