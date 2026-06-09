@@ -1,7 +1,7 @@
 # Fermented Foods Microbial Genomes Database
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15794524.svg)](https://doi.org/10.5281/zenodo.15794524)
 [![KBase Narrative](https://img.shields.io/badge/KBase-Narrative-blueviolet)](https://kbase.us/n/218406/47/)
-[![bioRxiv - Preprint](https://shields.io/badge/bioRxiv-Preprint-red)](https://doi.org/10.64898/2026.03.05.709865)
+[![bioRxiv - Preprint](https://img.shields.io/badge/bioRxiv-Preprint-red)](https://doi.org/10.64898/2026.03.05.709865)
 
 
 This repository documents curating genomes and metadata from publicly available studies of microbes from different fermented foods. The description of the construction of the database and using it to mine thousands of BGCs and peptides is in the bioRxiv publication ["Leveraging publicly available datasets and machine learning approaches for predicting the health benefits of fermented foods".](https://www.biorxiv.org/content/10.64898/2026.03.05.709865v1.full)
