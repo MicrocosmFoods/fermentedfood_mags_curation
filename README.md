@@ -1,5 +1,5 @@
 # Fermented Foods Microbial Genomes Database
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15588452.svg)](https://doi.org/10.5281/zenodo.15588452)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15794524.svg)](https://doi.org/10.5281/zenodo.15794524)
 [![KBase Narrative](https://img.shields.io/badge/KBase-Narrative-blueviolet)](https://kbase.us/n/218406/47/)
 [![bioRxiv - Preprint](https://shields.io/badge/bioRxiv-Preprint-red)](https://doi.org/10.64898/2026.03.05.709865)
 
